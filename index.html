@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Collegiate Cyber Leaderboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 2rem;
+      font-family: 'Inter', sans-serif;
+      background-color: #0d1117;
+      color: #f0f6fc;
+    }
+
+    h1, h2, h3 {
+      text-align: center;
+      color: #58a6ff;
+      margin: 0 0 1rem;
+    }
+
+    .scoreboard {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+      margin-bottom: 3rem;
+    }
+
+    .score-card {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 0.75rem;
+      padding: 1.5rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    .ranking-cards {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .rank-card {
+      background-color: #21262d;
+      border: 1px solid #30363d;
+      border-radius: 0.5rem;
+      padding: 0.75rem 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .rank-card > div:first-child {
+      max-width: 80%;
+    }
+
+    .rank-card.medal-1 { border-color: gold; box-shadow: 0 0 10px gold; }
+    .rank-card.medal-2 { border-color: silver; box-shadow: 0 0 10px silver; }
+    .rank-card.medal-3 { border-color: #cd7f32; box-shadow: 0 0 10px #cd7f32; }
+
+    .rank-card.placeholder {
+      font-style: italic;
+      opacity: 0.65;
+      background-color: #12161d;
+      text-align: center;
+    }
+
+    .columns {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 2rem;
+    }
+
+    .column {
+      background: #161b22;
+      padding: 1.5rem;
+      border-radius: 0.75rem;
+      border: 1px solid #30363d;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    }
+
+    .tile {
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border-radius: 0.5rem;
+      border: 1px solid #30363d;
+      transition: 0.2s ease;
+    }
+
+    .tile.claimed {
+      background-color: #1f6feb;
+      color: white;
+      border-color: #58a6ff;
+    }
+
+    .tile.unclaimed {
+      background-color: #21262d;
+      color: #8b949e;
+    }
+
+    .tile a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+
+    .badge {
+      background: #238636;
+      color: white;
+      padding: 0.25rem 0.6rem;
+      font-size: 0.75rem;
+      border-radius: 0.25rem;
+      margin-left: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Collegiate Cyber Leaderboard</h1>
+
+  <div class="scoreboard">
+    <div class="score-card">
+      <h2>🏆 Top Users</h2>
+      <div id="top-users" class="ranking-cards"></div>
+    </div>
+    <div class="score-card">
+      <h2>🏫 Top Schools</h2>
+      <div id="top-schools" class="ranking-cards"></div>
+    </div>
+  </div>
+
+  <div class="columns" id="difficulty-columns"></div>
+
+  <script>
+    async function loadData() {
+      const response = await fetch("training_winners_data.json");
+      const data = await response.json();
+
+      const medals = ["🥇", "🥈", "🥉"];
+
+      function renderRankings(containerId, list, type) {
+        const container = document.getElementById(containerId);
+        const columns = data.columns;
+
+        const allPackages = Object.entries(columns).flatMap(([difficulty, packs]) =>
+          packs.map(p => ({ ...p, difficulty }))
+        );
+
+        const sorted = [...list].sort((a, b) => b.points - a.points).slice(0, 3);
+
+        for (let i = 0; i < 3; i++) {
+          if (sorted[i]) {
+            const { name, points } = sorted[i];
+
+            container.innerHTML += `
+              <div class="rank-card medal-${i + 1}">
+                <div>
+                  <div>${medals[i]} ${name}</div>
+                </div>
+                <div><span class="badge">${points} pts</span></div>
+              </div>
+            `;
+          } else {
+            container.innerHTML += `
+              <div class="rank-card placeholder">
+                💥 This ${type} spot is up for grabs — complete a training to claim it!
+              </div>
+            `;
+          }
+        }
+      }
+
+      renderRankings("top-users", data.top_users, "user");
+      renderRankings("top-schools", data.top_schools, "school");
+
+      const container = document.getElementById("difficulty-columns");
+      const difficulties = Object.keys(data.columns);
+
+      difficulties.forEach(level => {
+        const col = document.createElement("div");
+        col.classList.add("column");
+        let pointsPerLevel = {
+          "Beginner": 100,
+          "Intermediate": 200,
+          "Advanced": 300
+        };
+
+        col.innerHTML = `<h3>${level} <span style="font-weight: normal; font-size: 0.85em; color: #8b949e;">(${pointsPerLevel[level]} pts)</span></h3>`;
+
+        const entries = data.columns[level] || [];
+        entries.forEach(pack => {
+          const isClaimed = pack.winner !== "No Winner Yet.";
+          col.innerHTML += `
+            <div class="tile ${isClaimed ? 'claimed' : 'unclaimed'}">
+              <strong>${pack.package_name}</strong><br/>
+              ${isClaimed ? `🏅 ${pack.winner}` : `<a href="${pack.url}">Claim it</a>`}
+            </div>
+          `;
+        });
+
+        container.appendChild(col);
+      });
+    }
+
+    loadData();
+  </script>
+</body>
+</html>
