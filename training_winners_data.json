@@ -1,6 +1,24 @@
 {
-  "top_users": [],
-  "top_schools": [],
+  "top_users": [
+    {
+      "name": "Mera M.",
+      "points": 100
+    },
+    {
+      "name": "Dan N.",
+      "points": 100
+    }
+  ],
+  "top_schools": [
+    {
+      "name": "Test U 1",
+      "points": 100
+    },
+    {
+      "name": "Test U 2",
+      "points": 100
+    }
+  ],
   "columns": {
     "Beginner": [
       {
@@ -10,12 +28,12 @@
       },
       {
         "package_name": "Kibana: Introduction",
-        "winner": "No Winner Yet.",
+        "winner": "Mera M.",
         "url": "https://portal.simspace.com/index.html#/training/catalog/structured-content-plan/256c2a0a-30f6-4c3d-9718-ea82f9abca1c"
       },
       {
         "package_name": "MITRE ATT&CK Framework",
-        "winner": "No Winner Yet.",
+        "winner": "Dan N.",
         "url": "https://portal.simspace.com/index.html#/training/catalog/structured-content-plan/8ef7411c-8e6b-44e8-b0fa-94209b345db1"
       }
     ],
