@@ -11,11 +11,11 @@
   ],
   "top_schools": [
     {
-      "name": "Test U 1",
+      "name": "Test Uni 1",
       "points": 100
     },
     {
-      "name": "Test U 2",
+      "name": "Test Uni 2",
       "points": 100
     }
   ],
@@ -24,41 +24,41 @@
       {
         "package_name": "Threat Hunting with MITRE ATT&CK",
         "winner": "No Winner Yet.",
-        "url": "https://portal.simspace.com/index.html#/training/catalog/structured-content-plan/9d73e77c-890e-4565-b018-3f5e0afe7be2"
+        "url": "https://portal.eu.simspace.com/index.html#/training/catalog/structured-content-plan/9d73e77c-890e-4565-b018-3f5e0afe7be2"
       },
       {
         "package_name": "Kibana: Introduction",
         "winner": "Mera M.",
-        "url": "https://portal.simspace.com/index.html#/training/catalog/structured-content-plan/256c2a0a-30f6-4c3d-9718-ea82f9abca1c"
+        "url": "https://portal.eu.simspace.com/index.html#/training/catalog/structured-content-plan/256c2a0a-30f6-4c3d-9718-ea82f9abca1c"
       },
       {
         "package_name": "MITRE ATT&CK Framework",
         "winner": "Dan N.",
-        "url": "https://portal.simspace.com/index.html#/training/catalog/structured-content-plan/8ef7411c-8e6b-44e8-b0fa-94209b345db1"
+        "url": "https://portal.eu.simspace.com/index.html#/training/catalog/structured-content-plan/8ef7411c-8e6b-44e8-b0fa-94209b345db1"
       }
     ],
     "Intermediate": [
       {
         "package_name": "Invoke-PSImage: Steganography",
         "winner": "No Winner Yet.",
-        "url": "https://portal.simspace.com/index.html#/training/catalog/structured-content-plan/5905730e-40fc-4a7d-b007-070c772a6139"
+        "url": "https://portal.eu.simspace.com/index.html#/training/catalog/structured-content-plan/5905730e-40fc-4a7d-b007-070c772a6139"
       },
       {
         "package_name": "Network Engineering 1",
         "winner": "No Winner Yet.",
-        "url": "https://portal.simspace.com/index.html#/training/catalog/structured-content-plan/9b5423f3-a572-4299-af9f-25c3de1dd8b4"
+        "url": "https://portal.eu.simspace.com/index.html#/training/catalog/structured-content-plan/9b5423f3-a572-4299-af9f-25c3de1dd8b4"
       }
     ],
     "Advanced": [
       {
         "package_name": "SimSpace Advanced Defensive Cyber Operations",
         "winner": "No Winner Yet.",
-        "url": "https://portal.simspace.com/index.html#/training/catalog/structured-content-plan/e490df3b-c4e9-4716-a428-c10b92dadef8"
+        "url": "https://portal.eu.simspace.com/index.html#/training/catalog/structured-content-plan/e490df3b-c4e9-4716-a428-c10b92dadef8"
       },
       {
         "package_name": "IoT Static Analysis",
         "winner": "No Winner Yet.",
-        "url": "https://portal.simspace.com/index.html#/training/catalog/structured-content-plan/d965f901-afd0-46d8-ac37-f254cc28365e"
+        "url": "https://portal.eu.simspace.com/index.html#/training/catalog/structured-content-plan/d965f901-afd0-46d8-ac37-f254cc28365e"
       }
     ]
   }
