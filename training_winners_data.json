@@ -1,11 +1,11 @@
 {
-  "top_users": [],
-  "top_schools": [],
+  "top_users": [{"user":"Max D.", "score":100}],
+  "top_schools": [{"name": "Test University", "points": 100}],
   "columns": {
     "Beginner": [
       {
         "package_name": "Threat Hunting with MITRE ATT&CK",
-        "winner": "No Winner Yet.",
+        "winner": "Max D.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/9d73e77c-890e-4565-b018-3f5e0afe7be2"
       },
       {
