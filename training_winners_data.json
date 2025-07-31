@@ -1,5 +1,5 @@
 {
-  "top_users": [{"name":"Max D.", "score":100}],
+  "top_users": [{"name":"Max D.", "points":100}],
   "top_schools": [{"name": "Test University", "points": 100}],
   "columns": {
     "Beginner": [
