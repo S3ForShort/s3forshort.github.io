@@ -198,5 +198,55 @@
     "package_name": "Host Analyst: APT34 Exercise",
     "package_id": "a84822f6-c277-4cde-991b-a0dd57ee7a6c",
     "difficulty": "Advanced"
+  },
+  {
+    "package_name": "Continuous Integration Challenge: Blame Thrower",
+    "package_id": "2Fe2167a35-38f0-47ca-967f-349bfc552364",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "Reconnaissance Challenge: Stakeout",
+    "package_id": "a592eaf6-e919-476e-884a-5c6dbf8179af",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "Telemetry Challenge: Faulty Firewall",
+    "package_id": "2002d53f-271a-421e-be40-015cd44fdc99",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "Linux Foundations: Shells and Commands",
+    "package_id": "20be6a42-113f-4222-b92a-af6f3604b5a7",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "Application Security Overview",
+    "package_id": "047a5a7b-4251-40d5-9367-19694d623ca8",
+    "difficulty": "Foundational"
+  },
+  {
+    "package_name": "Windows Hidden Files Challenge",
+    "package_id": "26d5e7e5-be7e-40d4-8a58-4bb616a23083",
+    "difficulty": "Intermediate"
+  },
+  {
+    "package_name": "Windows Identity and Access Control Challenge",
+    "package_id": "5120d10a-7737-48d2-a940-8223974a6445",
+    "difficulty": "Intermediate"
+  },
+  {
+    "package_name": "Windows Internals Challenge",
+    "package_id": "46da0676-f083-4c43-9ecb-a7a0e89686b3",
+    "difficulty": "Intermediate"
+  },
+  {
+    "package_name": "Linux Audit Logs Challenge",
+    "package_id": "66fbdb83-af4d-42a2-b298-2d526fc8bddd",
+    "difficulty": "Intermediate"
+  },
+  {
+    "package_name": "Linux Authentication Logs Challenge",
+    "package_id": "10ab106f-5066-4c08-82f3-689df6da186c",
+    "difficulty": "Intermediate"
   }
 ]
