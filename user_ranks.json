@@ -11,7 +11,7 @@
   },
   {
     "user": "Firdeus D.",
-    "points": 700,
+    "points": 750,
     "school": "Canadian Institute of Technology"
   },
   {
@@ -36,6 +36,11 @@
   },
   {
     "user": "Earta J.",
+    "points": 100,
+    "school": "Universiteti New York Tirana"
+  },
+  {
+    "user": "Asim L.",
     "points": 100,
     "school": "Universiteti New York Tirana"
   },
@@ -68,11 +73,6 @@
     "user": "Jurgen M.",
     "points": 50,
     "school": "Mediterranean University- UMSH"
-  },
-  {
-    "user": "Asim L.",
-    "points": 50,
-    "school": "Universiteti New York Tirana"
   },
   {
     "user": "Blis T.",

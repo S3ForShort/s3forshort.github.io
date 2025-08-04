@@ -10,7 +10,7 @@
     },
     {
       "name": "Firdeus D.",
-      "points": 700
+      "points": 750
     }
   ],
   "top_schools": [
@@ -20,11 +20,11 @@
     },
     {
       "name": "Canadian Institute of Technology",
-      "points": 900
+      "points": 950
     },
     {
       "name": "Universiteti New York Tirana",
-      "points": 600
+      "points": 650
     }
   ],
   "columns": {
@@ -146,12 +146,12 @@
       },
       {
         "package_name": "Linux Foundations: Shells and Commands",
-        "winner": "No Winner Yet.",
+        "winner": "Firdeus D.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/20be6a42-113f-4222-b92a-af6f3604b5a7"
       },
       {
         "package_name": "Application Security Overview",
-        "winner": "No Winner Yet.",
+        "winner": "Asim L.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/047a5a7b-4251-40d5-9367-19694d623ca8"
       }
     ],
