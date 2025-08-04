@@ -1,28 +1,58 @@
 [
   {
-    "user": "Luis M.",
-    "points": 100,
-    "school": "Mediterranean University- UMSH"
-  },
-  {
-    "user": "Arsi H.",
-    "points": 100,
+    "user": "Emanuel D.",
+    "points": 900,
     "school": "Harry Fultz"
   },
   {
-    "user": "Emanuel D.",
-    "points": 100,
+    "user": "Arsi H.",
+    "points": 800,
     "school": "Harry Fultz"
   },
   {
     "user": "Firdeus D.",
-    "points": 50,
+    "points": 700,
     "school": "Canadian Institute of Technology"
   },
   {
-    "user": "Megea V.",
+    "user": "Artea M.",
+    "points": 400,
+    "school": "Universiteti New York Tirana"
+  },
+  {
+    "user": "Marsia H.",
+    "points": 300,
+    "school": "Universiteti Ismail Qemali Vlore"
+  },
+  {
+    "user": "Luka A.",
+    "points": 150,
+    "school": "Canadian Institute of Technology"
+  },
+  {
+    "user": "Daniel K.",
+    "points": 150,
+    "school": "Fakulteti i Teknologjise se Informacionit"
+  },
+  {
+    "user": "Earta J.",
+    "points": 100,
+    "school": "Universiteti New York Tirana"
+  },
+  {
+    "user": "Orlin B.",
     "points": 50,
-    "school": "Fakulteti i Ekonomise"
+    "school": "Tirana Business University"
+  },
+  {
+    "user": "Alvi S.",
+    "points": 50,
+    "school": "UET Maratona"
+  },
+  {
+    "user": "Erona H.",
+    "points": 50,
+    "school": "Universiteti i Shkodres"
   },
   {
     "user": "Kristjan K.",
@@ -30,8 +60,43 @@
     "school": "Universiteti Marlin Barleti"
   },
   {
-    "user": "Artea M.",
+    "user": "Luis M.",
+    "points": 50,
+    "school": "Mediterranean University- UMSH"
+  },
+  {
+    "user": "Jurgen M.",
+    "points": 50,
+    "school": "Mediterranean University- UMSH"
+  },
+  {
+    "user": "Asim L.",
     "points": 50,
     "school": "Universiteti New York Tirana"
+  },
+  {
+    "user": "Blis T.",
+    "points": 50,
+    "school": "Harry Fultz"
+  },
+  {
+    "user": "Detjon M.",
+    "points": 50,
+    "school": "Epoka University"
+  },
+  {
+    "user": "Marvin R.",
+    "points": 50,
+    "school": "Canadian Institute of Technology"
+  },
+  {
+    "user": "Redi C.",
+    "points": 50,
+    "school": "Universiteti Ismail Qemali Vlore"
+  },
+  {
+    "user": "Ersi.",
+    "points": 50,
+    "school": "Herman Gmeiner"
   }
 ]
