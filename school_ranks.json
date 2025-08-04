@@ -16,6 +16,10 @@
     "points": 350
   },
   {
+    "school": "Universiteti i Shkodres",
+    "points": 150
+  },
+  {
     "school": "Fakulteti i Teknologjise se Informacionit",
     "points": 150
   },
@@ -29,10 +33,6 @@
   },
   {
     "school": "UET Maratona",
-    "points": 50
-  },
-  {
-    "school": "Universiteti i Shkodres",
     "points": 50
   },
   {
