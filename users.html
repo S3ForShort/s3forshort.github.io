@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <title>Cybersecurity Marathon Leaderboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 2rem;
+      font-family: 'Inter', sans-serif;
+      background-color: #0d1117;
+      color: #f0f6fc;
+    }
+
+    h1 {
+      text-align: center;
+      color: #58a6ff;
+      margin-bottom: 2rem;
+    }
+
+    h1 a {
+      text-align: center;
+      color: #58a6ff;
+      cursor: pointer;
+    }
+
+    .search-bar {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 2rem;
+    }
+
+    .search-bar input {
+      width: 100%;
+      max-width: 400px;
+      padding: 0.75rem 1rem;
+      border: 1px solid #30363d;
+      border-radius: 0.5rem;
+      background-color: #161b22;
+      color: #f0f6fc;
+      font-size: 1rem;
+    }
+
+    .scoreboard {
+      max-width: 800px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .rank-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: #21262d;
+      border: 1px solid #30363d;
+      border-radius: 0.5rem;
+      padding: 0.75rem 1rem;
+      font-size: 1rem;
+    }
+
+    .rank-cell {
+      flex: 1;
+      text-align: left;
+    }
+
+    .rank-cell.rank {
+      max-width: 2.5rem;
+      text-align: right;
+      color: #8b949e;
+      font-weight: 600;
+    }
+
+    .rank-cell.name {
+      padding-left: 1rem;
+      font-weight: 600;
+    }
+
+    .rank-cell.school {
+      padding-left: 1rem;
+      font-weight: 600;
+      color: #8b949e
+    }
+
+    .rank-cell.points {
+      text-align: right;
+    }
+
+    .rank-row.medal-1 {
+      border-color: gold;
+      box-shadow: 0 0 10px gold;
+    }
+
+    .rank-row.medal-2 {
+      border-color: silver;
+      box-shadow: 0 0 10px silver;
+    }
+
+    .rank-row.medal-3 {
+      border-color: #cd7f32; /* bronze */
+      box-shadow: 0 0 10px #cd7f32;
+    }
+
+    .badge {
+      background: #238636;
+      color: white;
+      padding: 0.25rem 0.6rem;
+      font-size: 0.75rem;
+      border-radius: 0.25rem;
+    }
+
+    .no-results {
+      text-align: center;
+      opacity: 0.7;
+      font-style: italic;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div style="width: 100%; display: flex; justify-content: center;">
+  <div style="display: flex; align-items: center;">
+    <img src="logo.png" alt="Logo" style="height: 60px; margin-right: 15px; margin-bottom: 16px;">
+    <h1><a href="https://special-events.simspace.com/">Cybersecurity Marathon Leaderboard</a></h1>
+    <img src="logo.png" alt="Logo" style="height: 60px; margin-left: 15px; margin-bottom: 16px;">
+  </div>
+</div>
+
+  <div class="search-bar">
+    <input type="text" id="searchInput" placeholder="Search by name..." />
+  </div>
+
+  <div class="scoreboard" id="user-scoreboard"></div>
+  <div class="no-results" id="no-results" style="display: none;">No users found.</div>
+
+  <script>
+    let usersData = [];
+
+    async function loadUserRanks() {
+      const response = await fetch("user_ranks.json");
+      const data = await response.json();
+
+      // Attach original rank to each user
+      usersData = data.map((entry, index) => ({
+        ...entry,
+        rank: index + 1
+      }));
+
+      renderUserRows(usersData);
+    }
+
+    function renderUserRows(data) {
+      const container = document.getElementById("user-scoreboard");
+      const noResults = document.getElementById("no-results");
+      container.innerHTML = "";
+
+      if (data.length === 0) {
+        noResults.style.display = "block";
+        return;
+      }
+
+      noResults.style.display = "none";
+
+  data.forEach((entry) => {
+    const medalClass = entry.rank === 1 ? "medal-1" :
+                       entry.rank === 2 ? "medal-2" :
+                       entry.rank === 3 ? "medal-3" : "";
+
+    container.innerHTML += `
+      <div class="rank-row ${medalClass}">
+        <div class="rank-cell rank">${entry.rank}</div>
+        <div class="rank-cell name">${entry.user}</div>
+        <div class="rank-cell school">${entry.school}</div>
+        <div class="rank-cell points"><span class="badge">${entry.points} pts</span></div>
+      </div>
+    `;
+  });
+}
+
+    document.getElementById("searchInput").addEventListener("input", (e) => {
+      const searchTerm = e.target.value.toLowerCase();
+      const filtered = usersData.filter(u => u.user.toLowerCase().includes(searchTerm));
+      renderUserRows(filtered);
+    });
+
+    loadUserRanks();
+  </script>
+</body>
+</html>

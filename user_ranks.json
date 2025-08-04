@@ -1,0 +1,37 @@
+[
+  {
+    "user": "Luis M.",
+    "points": 100,
+    "school": "Mediterranean University- UMSH"
+  },
+  {
+    "user": "Arsi H.",
+    "points": 100,
+    "school": "Harry Fultz"
+  },
+  {
+    "user": "Emanuel D.",
+    "points": 100,
+    "school": "Harry Fultz"
+  },
+  {
+    "user": "Firdeus D.",
+    "points": 50,
+    "school": "Canadian Institute of Technology"
+  },
+  {
+    "user": "Megea V.",
+    "points": 50,
+    "school": "Fakulteti i Ekonomise"
+  },
+  {
+    "user": "Kristjan K.",
+    "points": 50,
+    "school": "Universiteti Marlin Barleti"
+  },
+  {
+    "user": "Artea M.",
+    "points": 50,
+    "school": "Universiteti New York Tirana"
+  }
+]

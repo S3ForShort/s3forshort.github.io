@@ -1,0 +1,238 @@
+{
+  "top_users": [
+    {
+      "name": "Luis M.",
+      "points": 100
+    },
+    {
+      "name": "Arsi H.",
+      "points": 100
+    },
+    {
+      "name": "Emanuel D.",
+      "points": 100
+    }
+  ],
+  "top_schools": [
+    {
+      "name": "Harry Fultz",
+      "points": 200
+    },
+    {
+      "name": "Mediterranean University- UMSH",
+      "points": 100
+    },
+    {
+      "name": "Canadian Institute of Technology",
+      "points": 50
+    }
+  ],
+  "columns": {
+    "foundational": [
+      {
+        "package_name": "System Monitor (Sysmon)",
+        "winner": "Luis M.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e9d7cf10-4d06-4a27-af1d-07b885bab6b9"
+      },
+      {
+        "package_name": "Windows Server Analysis : Compromised Windows Server",
+        "winner": "Firdeus D.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/443ae512-eb5d-4bb9-9064-d4cad11f2d65"
+      },
+      {
+        "package_name": "SIEM Challenge: LoneShark",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/59f88e79-ae75-4db0-946a-7cb689c05824"
+      },
+      {
+        "package_name": "SIEM Fundamentals Challenge : Little LoneShark",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/d3e26dce-1c37-4f1f-b866-55f8df8ff0bc"
+      },
+      {
+        "package_name": "Suricata: Introduction",
+        "winner": "Megea V.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/39d14849-82ee-4c29-b711-205f14b69e99"
+      },
+      {
+        "package_name": "PowerShell: Introduction",
+        "winner": "Kristjan K.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/42d9d468-75bf-4f2b-9abc-45d43e2dba8c"
+      },
+      {
+        "package_name": "Identifying Indicators of Compromise",
+        "winner": "Luis M.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/223dc9f6-a19f-4293-86fa-fbff79c7057d"
+      },
+      {
+        "package_name": "Introduction to Application Security Challenge: Flabbergasted Florist",
+        "winner": "Artea M.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2d3c283a-e3e6-474d-8446-b4868a9f7ad1"
+      },
+      {
+        "package_name": "Linux Firewall",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/227625e4-97ed-40f8-ac9b-06d3f36ce96e"
+      },
+      {
+        "package_name": "Elastic Manual Uploads",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/0a31311f-7aa6-444e-a7fb-57c3d554239a"
+      },
+      {
+        "package_name": "Elastic Overview",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/246ecd34-f5cf-401e-bafa-13d7c3ecdaa2"
+      },
+      {
+        "package_name": "Flow Control in PowerShell",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/b5a94f64-46c1-4b2b-a794-cebf0fb6caf4"
+      },
+      {
+        "package_name": "Elastic Incident Investigation",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/32e6ee13-edbd-436b-836d-03c264ddd908"
+      },
+      {
+        "package_name": "Dynamic Malware Analysis: Windows",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e3e4dce0-8a23-409e-811d-86bf927d6bbd"
+      },
+      {
+        "package_name": "Ransomware Walkthrough: Scarlet Sunrise",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/fda3ff7d-6602-434c-9197-b51231f4415f"
+      },
+      {
+        "package_name": "Introduction to SOC Challenge: SOC Monkey",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/bcf253a7-4603-4a07-961a-5420cce7bc80"
+      },
+      {
+        "package_name": "Cyber Defense Walkthrough: Blue Lightfoil",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/9891a9b3-17f7-4d27-a54b-3ad863131bee"
+      },
+      {
+        "package_name": "Cyber Offense Walkthrough: Red Lightfoil",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/fe36cd26-ef94-4bf9-96b0-fc046e11315e"
+      },
+      {
+        "package_name": "ICS Foundations: Attacks",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/4b236417-77e9-490a-a63a-05e6f3a3a181"
+      },
+      {
+        "package_name": "Host Analyst: APT34 Workshop 1",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/48341bd9-e0be-4c44-b8ba-3dcdde485fbf"
+      }
+    ],
+    "intermediate": [
+      {
+        "package_name": "Kibana Data Visualization",
+        "winner": "Arsi H.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/7ebdd18b-e79f-44e0-839d-14ea97298fb5"
+      },
+      {
+        "package_name": "Host Analyst Assessment: Digital Scorpion",
+        "winner": "Emanuel D.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/4f6abfec-6efe-43f3-826a-14382384d082"
+      },
+      {
+        "package_name": "Windows Event Forwarding",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/84a125e1-3fd0-4f59-a1ff-aac325ad4da8"
+      },
+      {
+        "package_name": "Basic Malware Analysis Exercise",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/935d0ef5-af23-4150-aaac-18084b4c4062"
+      },
+      {
+        "package_name": "Host Forensics Challenge: Wise Skunk",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/1e514d35-92cc-4c98-83e2-093c781b7842"
+      },
+      {
+        "package_name": "Denial-of-Service (DoS) Attacks",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/4e8b47f9-035d-4144-9dac-682982b40aaf"
+      },
+      {
+        "package_name": "Log4Shell Offense: Legacy Threat",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/51609153-9241-4d18-8a27-fdb9f3d11747"
+      },
+      {
+        "package_name": "Dirty Pipe: Legacy Threat",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/7b779dc3-038f-4382-ba60-c0fdd58cb662"
+      },
+      {
+        "package_name": "Create or Modify System Process: MITRE ATT&CK Purple",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/685363ad-6609-44ef-ad1b-ae1a31534163"
+      },
+      {
+        "package_name": "Host Analyst: APT34 Workshop 2",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/553d6bc9-857d-4565-b85d-21fff6d588a7"
+      }
+    ],
+    "advanced": [
+      {
+        "package_name": "SIEM Walkthrough: Incident Response",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/5e9dfc69-91cf-4784-a34a-6f2291dd3a81"
+      },
+      {
+        "package_name": "Cyber Defense Challenge: Blind Burglar",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/abdc887b-65d7-4454-a08c-c70b341f93d2"
+      },
+      {
+        "package_name": "PrintNightmare Defense: Legacy Threat",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/16af1f35-f3b3-4fae-9e84-51ce078670c6"
+      },
+      {
+        "package_name": "Host Analyst: APT28 Exercise",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/fec56fcc-83c0-4734-b007-05af41512c29"
+      },
+      {
+        "package_name": "Cyber Defense Challenge: Stagecoach Holdup",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/034470e1-03eb-4121-99b1-71dbb5784d1c"
+      },
+      {
+        "package_name": "Cyber Defense Challenge: Business Aquarium",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/266bc97b-a735-49b9-a537-fc06c205a295"
+      },
+      {
+        "package_name": "Fuzzing: Memory Corruption Vulnerabilities",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/577b4079-66e1-49a4-bbad-1103500a6f3f"
+      },
+      {
+        "package_name": "Heap Overflows: Memory Corruption Vulnerabilities",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/0cf8c4c8-824e-45ee-b8dd-f31888fc6057"
+      },
+      {
+        "package_name": "Threat Emulation Operator Assessment: Undermine Strike",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/769103aa-a632-4e41-bc94-6b17578b0141"
+      },
+      {
+        "package_name": "Host Analyst: APT34 Exercise",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/a84822f6-c277-4cde-991b-a0dd57ee7a6c"
+      }
+    ]
+  }
+}
