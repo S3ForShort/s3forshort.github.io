@@ -1,22 +1,22 @@
 {
   "top_users": [
     {
+      "name": "Arsi H.",
+      "points": 900
+    },
+    {
       "name": "Emanuel D.",
       "points": 900
     },
     {
       "name": "Firdeus D.",
       "points": 850
-    },
-    {
-      "name": "Arsi H.",
-      "points": 800
     }
   ],
   "top_schools": [
     {
       "name": "Harry Fultz",
-      "points": 1750
+      "points": 1850
     },
     {
       "name": "Canadian Institute of Technology",
@@ -213,7 +213,7 @@
       },
       {
         "package_name": "Windows Identity and Access Control Challenge",
-        "winner": "No Winner Yet.",
+        "winner": "Arsi H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/5120d10a-7737-48d2-a940-8223974a6445"
       },
       {
