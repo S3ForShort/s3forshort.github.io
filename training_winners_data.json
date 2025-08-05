@@ -1,16 +1,16 @@
 {
   "top_users": [
     {
-      "name": ".",
-      "points": 1150
-    },
-    {
       "name": "Emanuel D.",
       "points": 900
     },
     {
       "name": "Arsi H.",
       "points": 900
+    },
+    {
+      "name": "Firdeus D.",
+      "points": 850
     }
   ],
   "top_schools": [
@@ -19,12 +19,12 @@
       "points": 1850
     },
     {
-      "name": "",
-      "points": 1150
-    },
-    {
       "name": "Canadian Institute of Technology",
       "points": 1050
+    },
+    {
+      "name": "Universiteti New York Tirana",
+      "points": 700
     }
   ],
   "columns": {
@@ -86,12 +86,12 @@
       },
       {
         "package_name": "Linux Audit Logs Challenge",
-        "winner": ".",
+        "winner": "No Winner Yet.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/66fbdb83-af4d-42a2-b298-2d526fc8bddd"
       },
       {
         "package_name": "Linux Authentication Logs Challenge",
-        "winner": ".",
+        "winner": "No Winner Yet.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/10ab106f-5066-4c08-82f3-689df6da186c"
       },
       {
@@ -118,7 +118,7 @@
     "advanced": [
       {
         "package_name": "Cyber Defense Challenge: Blind Burglar",
-        "winner": ".",
+        "winner": "No Winner Yet.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/abdc887b-65d7-4454-a08c-c70b341f93d2"
       },
       {
@@ -128,7 +128,7 @@
       },
       {
         "package_name": "Cyber Defense Challenge: Stagecoach Holdup",
-        "winner": ".",
+        "winner": "No Winner Yet.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/034470e1-03eb-4121-99b1-71dbb5784d1c"
       },
       {
@@ -168,7 +168,7 @@
       },
       {
         "package_name": "Threat Emulation Operator Assessment: Undermine Strike",
-        "winner": ".",
+        "winner": "No Winner Yet.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/769103aa-a632-4e41-bc94-6b17578b0141"
       }
     ],
@@ -280,7 +280,7 @@
       },
       {
         "package_name": "Telemetry Challenge: Faulty Firewall",
-        "winner": ".",
+        "winner": "No Winner Yet.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2002d53f-271a-421e-be40-015cd44fdc99"
       }
     ]
