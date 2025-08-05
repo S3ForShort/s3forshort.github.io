@@ -28,6 +28,118 @@
     }
   ],
   "columns": {
+    "foundational": [
+      {
+        "package_name": "Cyber Defense Walkthrough: Blue Lightfoil",
+        "winner": "Marsia H.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/9891a9b3-17f7-4d27-a54b-3ad863131bee"
+      },
+      {
+        "package_name": "Dynamic Malware Analysis: Windows",
+        "winner": "Gesa C.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e3e4dce0-8a23-409e-811d-86bf927d6bbd"
+      },
+      {
+        "package_name": "Elastic Incident Investigation",
+        "winner": "Luka A.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/32e6ee13-edbd-436b-836d-03c264ddd908"
+      },
+      {
+        "package_name": "Elastic Manual Uploads",
+        "winner": "Jurgen M.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/0a31311f-7aa6-444e-a7fb-57c3d554239a"
+      },
+      {
+        "package_name": "Elastic Overview",
+        "winner": "Asim L.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/246ecd34-f5cf-401e-bafa-13d7c3ecdaa2"
+      },
+      {
+        "package_name": "Flow Control in PowerShell",
+        "winner": "Blis T.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/b5a94f64-46c1-4b2b-a794-cebf0fb6caf4"
+      },
+      {
+        "package_name": "Host Analyst: APT34 Workshop 1",
+        "winner": "Marsia H.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/48341bd9-e0be-4c44-b8ba-3dcdde485fbf"
+      },
+      {
+        "package_name": "ICS Foundations: Attacks",
+        "winner": "Daniel K.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/4b236417-77e9-490a-a63a-05e6f3a3a181"
+      },
+      {
+        "package_name": "Identifying Indicators of Compromise",
+        "winner": "Luis M.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/223dc9f6-a19f-4293-86fa-fbff79c7057d"
+      },
+      {
+        "package_name": "Introduction to Application Security Challenge: Flabbergasted Florist",
+        "winner": "Artea M.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2d3c283a-e3e6-474d-8446-b4868a9f7ad1"
+      },
+      {
+        "package_name": "Introduction to SOC Challenge: SOC Monkey",
+        "winner": "Redi C.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/bcf253a7-4603-4a07-961a-5420cce7bc80"
+      },
+      {
+        "package_name": "Linux Firewall",
+        "winner": "Earta J.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/227625e4-97ed-40f8-ac9b-06d3f36ce96e"
+      },
+      {
+        "package_name": "PowerShell: Introduction",
+        "winner": "Kristjan K.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/42d9d468-75bf-4f2b-9abc-45d43e2dba8c"
+      },
+      {
+        "package_name": "Ransomware Walkthrough: Scarlet Sunrise",
+        "winner": "Marvin R.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/fda3ff7d-6602-434c-9197-b51231f4415f"
+      },
+      {
+        "package_name": "Suricata: Introduction",
+        "winner": "Artea M.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/39d14849-82ee-4c29-b711-205f14b69e99"
+      },
+      {
+        "package_name": "System Monitor (Sysmon)",
+        "winner": "Orlin B.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e9d7cf10-4d06-4a27-af1d-07b885bab6b9"
+      },
+      {
+        "package_name": "Web Application Vulnerabilities",
+        "winner": "Ersi.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/fe36cd26-ef94-4bf9-96b0-fc046e11315e"
+      },
+      {
+        "package_name": "Windows Server Analysis: Compromised Windows Server",
+        "winner": "Alvi S.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/443ae512-eb5d-4bb9-9064-d4cad11f2d65"
+      },
+      {
+        "package_name": "Application Security Overview",
+        "winner": "Asim L.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/047a5a7b-4251-40d5-9367-19694d623ca8"
+      },
+      {
+        "package_name": "Continuous Integration Challenge: Blame Thrower",
+        "winner": "klajdi.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e2167a35-38f0-47ca-967f-349bfc552364"
+      },
+      {
+        "package_name": "Linux Foundations: Shells and Commands",
+        "winner": "Firdeus D.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/20be6a42-113f-4222-b92a-af6f3604b5a7"
+      },
+      {
+        "package_name": "Telemetry Challenge: Faulty Firewall",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2002d53f-271a-421e-be40-015cd44fdc99"
+      }
+    ],
     "intermediate": [
       {
         "package_name": "Basic Malware Analysis Exercise",
@@ -170,118 +282,6 @@
         "package_name": "Threat Emulation Operator Assessment: Undermine Strike",
         "winner": "No Winner Yet.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/769103aa-a632-4e41-bc94-6b17578b0141"
-      }
-    ],
-    "foundational": [
-      {
-        "package_name": "Cyber Defense Walkthrough: Blue Lightfoil",
-        "winner": "Marsia H.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/9891a9b3-17f7-4d27-a54b-3ad863131bee"
-      },
-      {
-        "package_name": "Dynamic Malware Analysis: Windows",
-        "winner": "Gesa C.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e3e4dce0-8a23-409e-811d-86bf927d6bbd"
-      },
-      {
-        "package_name": "Elastic Incident Investigation",
-        "winner": "Luka A.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/32e6ee13-edbd-436b-836d-03c264ddd908"
-      },
-      {
-        "package_name": "Elastic Manual Uploads",
-        "winner": "Jurgen M.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/0a31311f-7aa6-444e-a7fb-57c3d554239a"
-      },
-      {
-        "package_name": "Elastic Overview",
-        "winner": "Asim L.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/246ecd34-f5cf-401e-bafa-13d7c3ecdaa2"
-      },
-      {
-        "package_name": "Flow Control in PowerShell",
-        "winner": "Blis T.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/b5a94f64-46c1-4b2b-a794-cebf0fb6caf4"
-      },
-      {
-        "package_name": "Host Analyst: APT34 Workshop 1",
-        "winner": "Marsia H.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/48341bd9-e0be-4c44-b8ba-3dcdde485fbf"
-      },
-      {
-        "package_name": "ICS Foundations: Attacks",
-        "winner": "Daniel K.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/4b236417-77e9-490a-a63a-05e6f3a3a181"
-      },
-      {
-        "package_name": "Identifying Indicators of Compromise",
-        "winner": "Luis M.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/223dc9f6-a19f-4293-86fa-fbff79c7057d"
-      },
-      {
-        "package_name": "Introduction to Application Security Challenge: Flabbergasted Florist",
-        "winner": "Artea M.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2d3c283a-e3e6-474d-8446-b4868a9f7ad1"
-      },
-      {
-        "package_name": "Introduction to SOC Challenge: SOC Monkey",
-        "winner": "Redi C.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/bcf253a7-4603-4a07-961a-5420cce7bc80"
-      },
-      {
-        "package_name": "Linux Firewall",
-        "winner": "Earta J.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/227625e4-97ed-40f8-ac9b-06d3f36ce96e"
-      },
-      {
-        "package_name": "PowerShell: Introduction",
-        "winner": "Kristjan K.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/42d9d468-75bf-4f2b-9abc-45d43e2dba8c"
-      },
-      {
-        "package_name": "Ransomware Walkthrough: Scarlet Sunrise",
-        "winner": "Marvin R.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/fda3ff7d-6602-434c-9197-b51231f4415f"
-      },
-      {
-        "package_name": "Suricata: Introduction",
-        "winner": "Artea M.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/39d14849-82ee-4c29-b711-205f14b69e99"
-      },
-      {
-        "package_name": "System Monitor (Sysmon)",
-        "winner": "Orlin B.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e9d7cf10-4d06-4a27-af1d-07b885bab6b9"
-      },
-      {
-        "package_name": "Web Application Vulnerabilities",
-        "winner": "Ersi.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/fe36cd26-ef94-4bf9-96b0-fc046e11315e"
-      },
-      {
-        "package_name": "Windows Server Analysis: Compromised Windows Server",
-        "winner": "Alvi S.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/443ae512-eb5d-4bb9-9064-d4cad11f2d65"
-      },
-      {
-        "package_name": "Application Security Overview",
-        "winner": "Asim L.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/047a5a7b-4251-40d5-9367-19694d623ca8"
-      },
-      {
-        "package_name": "Continuous Integration Challenge: Blame Thrower",
-        "winner": "klajdi.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/e2167a35-38f0-47ca-967f-349bfc552364"
-      },
-      {
-        "package_name": "Linux Foundations: Shells and Commands",
-        "winner": "Firdeus D.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/20be6a42-113f-4222-b92a-af6f3604b5a7"
-      },
-      {
-        "package_name": "Telemetry Challenge: Faulty Firewall",
-        "winner": "No Winner Yet.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2002d53f-271a-421e-be40-015cd44fdc99"
       }
     ]
   }
