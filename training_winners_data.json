@@ -24,7 +24,7 @@
     },
     {
       "name": "Universiteti New York Tirana",
-      "points": 700
+      "points": 650
     }
   ],
   "columns": {
@@ -100,6 +100,16 @@
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/fda3ff7d-6602-434c-9197-b51231f4415f"
       },
       {
+        "package_name": "SIEM Challenge: Lone Shark",
+        "winner": "Erona H.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/59f88e79-ae75-4db0-946a-7cb689c05824"
+      },
+      {
+        "package_name": "SIEM Fundamentals Challenge: Little Lone Shark",
+        "winner": "Earta J.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/d3e26dce-1c37-4f1f-b866-55f8df8ff0bc"
+      },
+      {
         "package_name": "Suricata: Introduction",
         "winner": "Artea M.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/39d14849-82ee-4c29-b711-205f14b69e99"
@@ -138,6 +148,31 @@
         "package_name": "Telemetry Challenge: Faulty Firewall",
         "winner": "No Winner Yet.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2002d53f-271a-421e-be40-015cd44fdc99"
+      },
+      {
+        "package_name": "Android Files and User Data Challenge",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/b95c093b-bf47-4a5d-bb05-6415e8f59f68"
+      },
+      {
+        "package_name": "Basic Regular Expressions",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/a75788cc-fd9a-436f-bbd4-89914d247431"
+      },
+      {
+        "package_name": "Binary and Hex: Introduction",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/2e6000fc-d58b-4f95-8749-ba18cdc676bc"
+      },
+      {
+        "package_name": "Perl Compatible Regular Expressions (PCRE)",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/cb561d03-fc8e-4066-8c73-0cd9e8edc4eb"
+      },
+      {
+        "package_name": "Smartphone Analysis: Extract Files from an Application",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/9fabce31-b405-4ee6-a301-d09d8261d29c"
       }
     ],
     "intermediate": [
@@ -187,11 +222,6 @@
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/51609153-9241-4d18-8a27-fdb9f3d11747"
       },
       {
-        "package_name": "SIEM Fundamentals Challenge: Little Lone Shark",
-        "winner": "Earta J.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/d3e26dce-1c37-4f1f-b866-55f8df8ff0bc"
-      },
-      {
         "package_name": "Windows Event Forwarding",
         "winner": "Daniel K.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/84a125e1-3fd0-4f59-a1ff-aac325ad4da8"
@@ -225,6 +255,31 @@
         "package_name": "Windows Internals Challenge",
         "winner": "Erona H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/46da0676-f083-4c43-9ecb-a7a0e89686b3"
+      },
+      {
+        "package_name": "IMB: Reducing Vulnerabilities in Code Challenge: Shellshocked Sally",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/5543d450-4d41-450b-8f1d-26f6a22cd140"
+      },
+      {
+        "package_name": "Medical Records Compromise",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/08c164e7-950e-49bd-86d0-16db4f2cdb49"
+      },
+      {
+        "package_name": "Network Forensics Challenge: Zeeking the Predator",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/0efcd4da-878c-4188-a9a5-65b10a0a5e7b"
+      },
+      {
+        "package_name": "Windows Event Log Analysis Challenge",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/756abc90-74bf-4fc5-8879-ef934002fba4"
+      },
+      {
+        "package_name": "Windows Management and Instrumentation Challenge",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/471de8fd-875a-47a1-8857-efc1c433d617"
       }
     ],
     "advanced": [
@@ -269,11 +324,6 @@
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/16af1f35-f3b3-4fae-9e84-51ce078670c6"
       },
       {
-        "package_name": "SIEM Challenge: Lone Shark",
-        "winner": "Erona H.",
-        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/59f88e79-ae75-4db0-946a-7cb689c05824"
-      },
-      {
         "package_name": "SIEM Walkthrough: Incident Response",
         "winner": "Firdeus D.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/5e9dfc69-91cf-4784-a34a-6f2291dd3a81"
@@ -282,6 +332,16 @@
         "package_name": "Threat Emulation Operator Assessment: Undermine Strike",
         "winner": "No Winner Yet.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/769103aa-a632-4e41-bc94-6b17578b0141"
+      },
+      {
+        "package_name": "Network Analyst Challenge: Broken Halo",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/d6f0be39-2443-47dc-858d-f98ba7f2a37d"
+      },
+      {
+        "package_name": "Network Analyst Challenge: Hidden Lotus",
+        "winner": "No Winner Yet.",
+        "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/20ba5a39-f3c7-46c6-ae8e-84f272c52e4d"
       }
     ]
   }

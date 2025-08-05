@@ -9,11 +9,7 @@
   },
   {
     "school": "Universiteti New York Tirana",
-    "points": 700
-  },
-  {
-    "school": "Universiteti i Shkodres",
-    "points": 400
+    "points": 650
   },
   {
     "school": "Universiteti Ismail Qemali Vlore",
@@ -25,6 +21,10 @@
   },
   {
     "school": "Fakulteti i Teknologjise se Informacionit",
+    "points": 150
+  },
+  {
+    "school": "Universiteti i Shkodres",
     "points": 150
   },
   {

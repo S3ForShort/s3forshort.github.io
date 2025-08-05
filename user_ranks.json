@@ -20,11 +20,6 @@
     "school": "Universiteti New York Tirana"
   },
   {
-    "user": "Erona H.",
-    "points": 400,
-    "school": "Universiteti i Shkodres"
-  },
-  {
     "user": "Marsia H.",
     "points": 300,
     "school": "Universiteti Ismail Qemali Vlore"
@@ -40,12 +35,17 @@
     "school": "Fakulteti i Teknologjise se Informacionit"
   },
   {
-    "user": "Earta J.",
+    "user": "Erona H.",
     "points": 150,
-    "school": "Universiteti New York Tirana"
+    "school": "Universiteti i Shkodres"
   },
   {
     "user": "Asim L.",
+    "points": 100,
+    "school": "Universiteti New York Tirana"
+  },
+  {
+    "user": "Earta J.",
     "points": 100,
     "school": "Universiteti New York Tirana"
   },
