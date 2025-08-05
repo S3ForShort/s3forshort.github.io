@@ -25,6 +25,11 @@
     "school": "Universiteti Ismail Qemali Vlore"
   },
   {
+    "user": "Erona H.",
+    "points": 200,
+    "school": "Universiteti i Shkodres"
+  },
+  {
     "user": "Luka A.",
     "points": 150,
     "school": "Canadian Institute of Technology"
@@ -33,11 +38,6 @@
     "user": "Daniel K.",
     "points": 150,
     "school": "Fakulteti i Teknologjise se Informacionit"
-  },
-  {
-    "user": "Erona H.",
-    "points": 150,
-    "school": "Universiteti i Shkodres"
   },
   {
     "user": "Asim L.",
