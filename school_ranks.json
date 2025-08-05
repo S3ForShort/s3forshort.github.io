@@ -4,19 +4,27 @@
     "points": 1850
   },
   {
+    "school": "",
+    "points": 1150
+  },
+  {
     "school": "Canadian Institute of Technology",
     "points": 1050
   },
   {
     "school": "Universiteti New York Tirana",
-    "points": 650
+    "points": 700
+  },
+  {
+    "school": "Universiteti i Shkodres",
+    "points": 400
   },
   {
     "school": "Universiteti Ismail Qemali Vlore",
     "points": 350
   },
   {
-    "school": "Universiteti i Shkodres",
+    "school": "Mediterranean University- UMSH",
     "points": 150
   },
   {
@@ -24,19 +32,15 @@
     "points": 150
   },
   {
-    "school": "Mediterranean University- UMSH",
+    "school": "RIT Kosova",
     "points": 100
   },
   {
-    "school": "Tirana Business University",
-    "points": 50
-  },
-  {
-    "school": "UET Maratona",
-    "points": 50
-  },
-  {
     "school": "Universiteti Marlin Barleti",
+    "points": 50
+  },
+  {
+    "school": "Tirana Business University",
     "points": 50
   },
   {
@@ -44,7 +48,7 @@
     "points": 50
   },
   {
-    "school": "RIT Kosova",
+    "school": "UET Maratona",
     "points": 50
   }
 ]

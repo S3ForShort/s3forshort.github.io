@@ -1,11 +1,16 @@
 [
   {
-    "user": "Arsi H.",
+    "user": ".",
+    "points": 1150,
+    "school": ""
+  },
+  {
+    "user": "Emanuel D.",
     "points": 900,
     "school": "Harry Fultz"
   },
   {
-    "user": "Emanuel D.",
+    "user": "Arsi H.",
     "points": 900,
     "school": "Harry Fultz"
   },
@@ -20,14 +25,14 @@
     "school": "Universiteti New York Tirana"
   },
   {
+    "user": "Erona H.",
+    "points": 400,
+    "school": "Universiteti i Shkodres"
+  },
+  {
     "user": "Marsia H.",
     "points": 300,
     "school": "Universiteti Ismail Qemali Vlore"
-  },
-  {
-    "user": "Erona H.",
-    "points": 150,
-    "school": "Universiteti i Shkodres"
   },
   {
     "user": "Luka A.",
@@ -41,7 +46,7 @@
   },
   {
     "user": "Earta J.",
-    "points": 100,
+    "points": 150,
     "school": "Universiteti New York Tirana"
   },
   {
@@ -50,24 +55,14 @@
     "school": "Universiteti New York Tirana"
   },
   {
-    "user": "Orlin B.",
-    "points": 50,
-    "school": "Tirana Business University"
+    "user": "Amar I.",
+    "points": 100,
+    "school": "RIT Kosova"
   },
   {
-    "user": "Alvi S.",
+    "user": "Gesa C.",
     "points": 50,
-    "school": "UET Maratona"
-  },
-  {
-    "user": "Kristjan K.",
-    "points": 50,
-    "school": "Universiteti Marlin Barleti"
-  },
-  {
-    "user": "Luis M.",
-    "points": 50,
-    "school": "Mediterranean University- UMSH"
+    "school": "Universiteti New York Tirana"
   },
   {
     "user": "Jurgen M.",
@@ -80,14 +75,9 @@
     "school": "Harry Fultz"
   },
   {
-    "user": "Gesa C.",
+    "user": "Luis M.",
     "points": 50,
-    "school": "Universiteti New York Tirana"
-  },
-  {
-    "user": "Marvin R.",
-    "points": 50,
-    "school": "Canadian Institute of Technology"
+    "school": "Mediterranean University- UMSH"
   },
   {
     "user": "Redi C.",
@@ -95,13 +85,33 @@
     "school": "Universiteti Ismail Qemali Vlore"
   },
   {
+    "user": "Kristjan K.",
+    "points": 50,
+    "school": "Universiteti Marlin Barleti"
+  },
+  {
+    "user": "Marvin R.",
+    "points": 50,
+    "school": "Canadian Institute of Technology"
+  },
+  {
+    "user": "Orlin B.",
+    "points": 50,
+    "school": "Tirana Business University"
+  },
+  {
     "user": "Ersi.",
     "points": 50,
     "school": "Herman Gmeiner"
   },
   {
-    "user": "Amar I.",
+    "user": "Alvi S.",
     "points": 50,
-    "school": "RIT Kosova"
+    "school": "UET Maratona"
+  },
+  {
+    "user": "klajdi.",
+    "points": 50,
+    "school": "Mediterranean University- UMSH"
   }
 ]
