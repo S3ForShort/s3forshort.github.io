@@ -1,15 +1,15 @@
 {
   "top_users": [
     {
+      "name": "Erona H.",
+      "points": 1000
+    },
+    {
       "name": "Emanuel D.",
       "points": 900
     },
     {
       "name": "Arsi H.",
-      "points": 900
-    },
-    {
-      "name": "Erona H.",
       "points": 900
     }
   ],
@@ -24,7 +24,7 @@
     },
     {
       "name": "Universiteti i Shkodres",
-      "points": 900
+      "points": 1000
     }
   ],
   "columns": {
@@ -258,7 +258,7 @@
       },
       {
         "package_name": "IMB: Reducing Vulnerabilities in Code Challenge: Shellshocked Sally",
-        "winner": "No Winner Yet.",
+        "winner": "Erona H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/5543d450-4d41-450b-8f1d-26f6a22cd140"
       },
       {

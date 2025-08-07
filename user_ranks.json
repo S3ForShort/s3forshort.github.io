@@ -1,5 +1,10 @@
 [
   {
+    "user": "Erona H.",
+    "points": 1000,
+    "school": "Universiteti i Shkodres"
+  },
+  {
     "user": "Emanuel D.",
     "points": 900,
     "school": "Harry Fultz"
@@ -8,11 +13,6 @@
     "user": "Arsi H.",
     "points": 900,
     "school": "Harry Fultz"
-  },
-  {
-    "user": "Erona H.",
-    "points": 900,
-    "school": "Universiteti i Shkodres"
   },
   {
     "user": "Firdeus D.",
