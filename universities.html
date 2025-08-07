@@ -84,7 +84,7 @@
       font-weight: 600;
     }
 
-    .rank-cell.school {
+    .rank-cell.university {
       padding-left: 1rem;
       font-weight: 600;
       color: #8b949e
@@ -129,7 +129,7 @@
   <div style="width: 100%; display: flex; justify-content: center;">
   <div style="display: flex; align-items: center;">
     <img src="logo.png" alt="Logo" style="height: 60px; margin-right: 15px; margin-bottom: 16px;">
-    <h1><a href="https://special-events.simspace.com/">Cybersecurity Marathon Leaderboard</a></h1>
+    <h1><a href="/">Cybersecurity Marathon Leaderboard</a></h1>
     <img src="logo.png" alt="Logo" style="height: 60px; margin-left: 15px; margin-bottom: 16px;">
   </div>
 </div>
@@ -138,27 +138,28 @@
     <input type="text" id="searchInput" placeholder="Search by name..." />
   </div>
 
-  <div class="scoreboard" id="school-scoreboard"></div>
-  <div class="no-results" id="no-results" style="display: none;">No schools found.</div>
+  <div class="scoreboard" id="university-scoreboard"></div>
+  <div class="no-results" id="no-results" style="display: none;">No universities found.</div>
 
   <script>
-    let schoolsData = [];
+    let universitiesData = [];
 
-    async function loadSchoolRanks() {
-      const response = await fetch("school_ranks.json");
+    async function loaduniversityRanks() {
+      const response = await fetch("training_winners_data.json");
       const data = await response.json();
 
-      // Attach original rank to each school
-      schoolsData = data.map((entry, index) => ({
+      const universities = data.universities;
+      // Attach original rank to each university
+      universitiesData = universities.map((entry, index) => ({
         ...entry,
         rank: index + 1
       }));
 
-      renderSchoolRows(schoolsData);
+      renderuniversityRows(universitiesData);
     }
 
-    function renderSchoolRows(data) {
-      const container = document.getElementById("school-scoreboard");
+    function renderuniversityRows(data) {
+      const container = document.getElementById("university-scoreboard");
       const noResults = document.getElementById("no-results");
       container.innerHTML = "";
 
@@ -177,8 +178,8 @@
     container.innerHTML += `
       <div class="rank-row ${medalClass}">
         <div class="rank-cell rank">${entry.rank}</div>
-        <div class="rank-cell name">${entry.school}</div>
-        <div class="rank-cell points"><span class="badge">${entry.points} pts</span></div>
+        <div class="rank-cell name">${entry.university}</div>
+        <div class="rank-cell points"><span class="badge">${entry.total_points} pts</span></div>
       </div>
     `;
   });
@@ -186,11 +187,11 @@
 
     document.getElementById("searchInput").addEventListener("input", (e) => {
       const searchTerm = e.target.value.toLowerCase();
-      const filtered = schoolsData.filter(u => u.school.toLowerCase().includes(searchTerm));
-      renderSchoolRows(filtered);
+      const filtered = universitiesData.filter(u => u.university.toLowerCase().includes(searchTerm));
+      renderuniversityRows(filtered);
     });
 
-    loadSchoolRanks();
+    loaduniversityRanks();
   </script>
 </body>
 </html>

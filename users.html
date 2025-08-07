@@ -129,7 +129,7 @@
   <div style="width: 100%; display: flex; justify-content: center;">
   <div style="display: flex; align-items: center;">
     <img src="logo.png" alt="Logo" style="height: 60px; margin-right: 15px; margin-bottom: 16px;">
-    <h1><a href="https://special-events.simspace.com/">Cybersecurity Marathon Leaderboard</a></h1>
+    <h1><a href="/">Cybersecurity Marathon Leaderboard</a></h1>
     <img src="logo.png" alt="Logo" style="height: 60px; margin-left: 15px; margin-bottom: 16px;">
   </div>
 </div>
@@ -145,11 +145,13 @@
     let usersData = [];
 
     async function loadUserRanks() {
-      const response = await fetch("user_ranks.json");
+      const response = await fetch("training_winners_data.json");
       const data = await response.json();
 
+      const users = data.users;
+
       // Attach original rank to each user
-      usersData = data.map((entry, index) => ({
+      usersData = users.map((entry, index) => ({
         ...entry,
         rank: index + 1
       }));
@@ -177,9 +179,9 @@
     container.innerHTML += `
       <div class="rank-row ${medalClass}">
         <div class="rank-cell rank">${entry.rank}</div>
-        <div class="rank-cell name">${entry.user}</div>
-        <div class="rank-cell school">${entry.school}</div>
-        <div class="rank-cell points"><span class="badge">${entry.points} pts</span></div>
+        <div class="rank-cell name">${entry.full_name}</div>
+        <div class="rank-cell school">${entry.university}</div>
+        <div class="rank-cell points"><span class="badge">${entry.total_points} pts</span></div>
       </div>
     `;
   });
