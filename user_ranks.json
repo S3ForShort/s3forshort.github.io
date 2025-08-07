@@ -15,6 +15,11 @@
     "school": "Canadian Institute of Technology"
   },
   {
+    "user": "Erona H.",
+    "points": 500,
+    "school": "Universiteti i Shkodres"
+  },
+  {
     "user": "Artea M.",
     "points": 400,
     "school": "Universiteti New York Tirana"
@@ -23,11 +28,6 @@
     "user": "Marsia H.",
     "points": 300,
     "school": "Universiteti Ismail Qemali Vlore"
-  },
-  {
-    "user": "Erona H.",
-    "points": 200,
-    "school": "Universiteti i Shkodres"
   },
   {
     "user": "Luka A.",
