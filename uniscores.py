@@ -151,7 +151,10 @@ leaderboard_data = {
     'rank_multipliers': rank_multipliers
 }
 
-with open('training_winners_data.json', 'w') as f:
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_FILE_PATH = os.path.join(BASE_DIR, 's3forshort.github.io', 'training_winners_data.json')
+
+with open('OUTPUT_FILE_PATH', 'w') as f:
     json.dump(leaderboard_data, f, indent=2)
 
 print("✅ training_winners_data.json generated successfully.")
