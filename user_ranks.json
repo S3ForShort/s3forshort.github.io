@@ -30,6 +30,11 @@
     "school": "Universiteti Ismail Qemali Vlore"
   },
   {
+    "user": "Anjeza K.",
+    "points": 200,
+    "school": "Epoka University"
+  },
+  {
     "user": "Luka A.",
     "points": 150,
     "school": "Canadian Institute of Technology"
@@ -48,11 +53,6 @@
     "user": "Earta J.",
     "points": 100,
     "school": "Universiteti New York Tirana"
-  },
-  {
-    "user": "Anjeza K.",
-    "points": 100,
-    "school": "Epoka University"
   },
   {
     "user": "Amar I.",
