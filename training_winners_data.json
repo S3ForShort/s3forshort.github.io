@@ -2,7 +2,7 @@
   "top_users": [
     {
       "name": "Erona H.",
-      "points": 1000
+      "points": 1100
     },
     {
       "name": "Emanuel D.",
@@ -19,12 +19,12 @@
       "points": 1850
     },
     {
-      "name": "Canadian Institute of Technology",
-      "points": 1050
+      "name": "Universiteti i Shkodres",
+      "points": 1100
     },
     {
-      "name": "Universiteti i Shkodres",
-      "points": 1000
+      "name": "Canadian Institute of Technology",
+      "points": 1050
     }
   ],
   "columns": {
@@ -233,7 +233,7 @@
       },
       {
         "package_name": "Linux Authentication Logs Challenge",
-        "winner": "No Winner Yet.",
+        "winner": "Anjeza K.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/10ab106f-5066-4c08-82f3-689df6da186c"
       },
       {
@@ -278,7 +278,7 @@
       },
       {
         "package_name": "Windows Management and Instrumentation Challenge",
-        "winner": "No Winner Yet.",
+        "winner": "Erona H.",
         "url": "https://portal-eu.simspace.com/index.html#/training/catalog/structured-content-plan/471de8fd-875a-47a1-8857-efc1c433d617"
       }
     ],

@@ -1,7 +1,7 @@
 [
   {
     "user": "Erona H.",
-    "points": 1000,
+    "points": 1100,
     "school": "Universiteti i Shkodres"
   },
   {
@@ -48,6 +48,11 @@
     "user": "Earta J.",
     "points": 100,
     "school": "Universiteti New York Tirana"
+  },
+  {
+    "user": "Anjeza K.",
+    "points": 100,
+    "school": "Epoka University"
   },
   {
     "user": "Amar I.",

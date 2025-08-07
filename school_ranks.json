@@ -4,12 +4,12 @@
     "points": 1850
   },
   {
-    "school": "Canadian Institute of Technology",
-    "points": 1050
+    "school": "Universiteti i Shkodres",
+    "points": 1100
   },
   {
-    "school": "Universiteti i Shkodres",
-    "points": 1000
+    "school": "Canadian Institute of Technology",
+    "points": 1050
   },
   {
     "school": "Universiteti New York Tirana",
@@ -26,6 +26,10 @@
   {
     "school": "Fakulteti i Teknologjise se Informacionit",
     "points": 150
+  },
+  {
+    "school": "Epoka University",
+    "points": 100
   },
   {
     "school": "RIT Kosova",
