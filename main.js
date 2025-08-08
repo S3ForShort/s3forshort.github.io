@@ -69,15 +69,20 @@ function createModuleTile(pkg) {
 
   const universityCount = pkg.universities?.length || 0;
   const userCount = pkg.users?.length || 0;
-  const isCompleted = userCount > 0;
+  const hasClaims = userCount > 0;
 
   container.setAttribute('data-module-name', pkg.package_name);
   container.setAttribute('data-users', JSON.stringify(pkg.users || []));
   container.setAttribute('data-universities', JSON.stringify(pkg.universities || []));
 
 
-  // Apply conditional class
-  container.className = isCompleted ? 'tile tile-completed' : 'tile tile-uncompleted';
+
+  if (hasClaims) {
+    container.className = 'tile tile-hasclaims';
+  } else {
+    container.className = 'tile tile-noclaims';
+  }
+
 
   container.innerHTML = `
     <div class="tile-header" style="margin-bottom: 0.5rem;">
@@ -121,7 +126,7 @@ function showStats(name, universities) {
   content.innerHTML = '';
 
   if (count === 0) {
-    content.innerHTML = `<li>No schools have completed this module yet.</li>`;
+    content.innerHTML = `<li>No universities have completed this module yet.</li>`;
   } else {
     universities
       .sort((a, b) => a.name.localeCompare(b.name))
@@ -174,7 +179,7 @@ function applyModuleFilters() {
     const users = JSON.parse(tile.getAttribute('data-users') || '[]');
     const universities = JSON.parse(tile.getAttribute('data-universities') || '[]');
 
-    const isClaimed = users.length > 0;
+    const hasClaims = users.length > 0;
     let visible = true;
 
     // Filter by module name
@@ -193,8 +198,9 @@ function applyModuleFilters() {
     }
 
     // Filter by claimed/unclaimed
-    if (claimFilter === 'claimed' && !isClaimed) visible = false;
-    if (claimFilter === 'unclaimed' && isClaimed) visible = false;
+    if (claimFilter === 'claimed' && !hasClaims) visible = false;
+    if (claimFilter === 'unclaimed' && hasClaims) visible = false;
+    
 
     tile.style.display = visible ? '' : 'none';
   });

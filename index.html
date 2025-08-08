@@ -89,17 +89,17 @@
       box-shadow: 0 4px 12px rgba(0,0,0,0.3);
     }
 
-    .tile-completed {
+    .tile-hasclaims {
       background-color: #313740; /* standard look */
       border: 1px solid #30363d;
     }
 
-    .tile-uncompleted {
+    .tile-noclaims {
       background-color: #1b2025;
       border: 1px solid #30363d;
     }
 
-    .tile-uncompleted button {
+    .tile-noclaims button {
       opacity: 0.7;
     }
 
@@ -107,6 +107,7 @@
       padding: 1rem;
       margin-bottom: 1rem;
       border-radius: 0.5rem;
+      position: relative;
     }
 
     .tile p {
@@ -115,6 +116,8 @@
       margin-top: 0; 
       margin-bottom: 0; 
     }
+
+
 
     .badge {
       background: #238636;
@@ -220,7 +223,7 @@
       <input id="university-search" type="text" placeholder="Search by university..." style="padding: 0.5rem; border-radius: 0.4rem; border: 1px solid #30363d; background-color: #0d1117; color: #f0f6fc; width: 200px;">
       <input id="module-search" type="text" placeholder="Search by module name..." style="padding: 0.5rem; border-radius: 0.4rem; border: 1px solid #30363d; background-color: #0d1117; color: #f0f6fc; width: 200px;">
       <select id="claimed-filter" style="padding: 0.5rem; border-radius: 0.4rem; border: 1px solid #30363d; background-color: #0d1117; color: #f0f6fc;">
-        <option value="all">All</option>
+        <option value="all">All Modules</option>
         <option value="claimed">Has Claims</option>
         <option value="unclaimed">Unclaimed</option>
       </select>

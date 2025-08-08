@@ -171,25 +171,25 @@
 
       noResults.style.display = "none";
 
-  data.forEach((entry) => {
-    const medalClass = entry.rank === 1 ? "medal-1" :
-                       entry.rank === 2 ? "medal-2" :
-                       entry.rank === 3 ? "medal-3" : "";
+        data.forEach((entry) => {
+          const medalClass = entry.rank === 1 ? "medal-1" :
+                            entry.rank === 2 ? "medal-2" :
+                            entry.rank === 3 ? "medal-3" : "";
 
-    container.innerHTML += `
-      <div class="rank-row ${medalClass}">
-        <div class="rank-cell rank">${entry.rank}</div>
-        <div class="rank-cell name">${entry.full_name}</div>
-        <div class="rank-cell school">${entry.university}</div>
-        <div class="rank-cell points"><span class="badge">${entry.total_points} pts</span></div>
-      </div>
-    `;
-  });
-}
+          container.innerHTML += `
+            <div class="rank-row ${medalClass}">
+              <div class="rank-cell rank">${entry.rank}</div>
+              <div class="rank-cell name">${entry.full_name}</div>
+              <div class="rank-cell school">${entry.university}</div>
+              <div class="rank-cell points"><span class="badge">${entry.total_points} pts</span></div>
+            </div>
+          `;
+        });
+      }
 
     document.getElementById("searchInput").addEventListener("input", (e) => {
       const searchTerm = e.target.value.toLowerCase();
-      const filtered = usersData.filter(u => u.user.toLowerCase().includes(searchTerm));
+      const filtered = usersData.filter(u => u.full_name.toLowerCase().includes(searchTerm));
       renderUserRows(filtered);
     });
 
