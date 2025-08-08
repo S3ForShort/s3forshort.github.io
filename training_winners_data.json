@@ -91,13 +91,13 @@
       "total_points": 70
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 55
     },
     {
-      "full_name": "klajdi",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -107,6 +107,11 @@
     },
     {
       "full_name": "Jurgen Mecaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 50
+    },
+    {
+      "full_name": "klajdi",
       "university": "Mediterranean University- UMSH",
       "total_points": 50
     },
@@ -146,18 +151,13 @@
       "total_points": 20
     },
     {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 5
-    },
-    {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
       "total_points": 5
     },
     {
-      "full_name": "Emluis Komino",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 5
     },
     {
@@ -166,8 +166,8 @@
       "total_points": 5
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Emluis Komino",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 5
     },
     {
@@ -203,14 +203,14 @@
       "num_users": 4
     },
     {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 165,
+      "num_users": 3
+    },
+    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 155,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 115,
-      "num_users": 3
     },
     {
       "university": "UET Maratona",
@@ -1349,8 +1349,18 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Sibora Grymshi",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "9fabce31-b405-4ee6-a301-d09d8261d29c",
