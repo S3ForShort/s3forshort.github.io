@@ -43,12 +43,7 @@
     {
       "full_name": "Asim Lecini",
       "university": "Universiteti New York Tirana",
-      "total_points": 135
-    },
-    {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
-      "total_points": 100
+      "total_points": 140
     },
     {
       "full_name": "Luka Allkoja ",
@@ -57,6 +52,11 @@
     },
     {
       "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 100
+    },
+    {
+      "full_name": "Arsi Hoxha",
       "university": "Harry Fultz",
       "total_points": 100
     },
@@ -81,23 +81,18 @@
       "total_points": 70
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 70
-    },
-    {
       "full_name": "Luis Mu\u00e7a",
       "university": "Mediterranean University- UMSH",
       "total_points": 70
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 70
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -116,6 +111,21 @@
       "total_points": 50
     },
     {
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
+      "total_points": 50
+    },
+    {
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 40
+    },
+    {
+      "full_name": "Semiramis Muho",
+      "university": "Fakulteti i Ekonomise",
+      "total_points": 35
+    },
+    {
       "full_name": "Nadia Kola",
       "university": "Fakulteti i Ekonomise",
       "total_points": 35
@@ -123,16 +133,6 @@
     {
       "full_name": "Gerald Leba",
       "university": "UAMD 2",
-      "total_points": 35
-    },
-    {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 35
-    },
-    {
-      "full_name": "Semiramis Muho",
-      "university": "Fakulteti i Ekonomise",
       "total_points": 35
     },
     {
@@ -144,12 +144,42 @@
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 20
+    },
+    {
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 5
+    },
+    {
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
+      "total_points": 5
+    },
+    {
+      "full_name": "Emluis Komino",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 5
+    },
+    {
+      "full_name": "Skendri Peza",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 5
+    },
+    {
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 5
+    },
+    {
+      "full_name": "Wendi Eva Sallabanda ",
+      "university": "42 Coding",
+      "total_points": 5
     }
   ],
   "universities": [
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 905,
+      "total_points": 910,
       "num_users": 4
     },
     {
@@ -169,17 +199,22 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 170,
-      "num_users": 3
+      "total_points": 175,
+      "num_users": 4
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 150,
-      "num_users": 1
+      "total_points": 155,
+      "num_users": 2
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 105,
+      "total_points": 115,
+      "num_users": 3
+    },
+    {
+      "university": "UET Maratona",
+      "total_points": 90,
       "num_users": 2
     },
     {
@@ -189,11 +224,6 @@
     },
     {
       "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 85,
-      "num_users": 1
-    },
-    {
-      "university": "UET Maratona",
       "total_points": 85,
       "num_users": 1
     },
@@ -225,6 +255,16 @@
     {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 20,
+      "num_users": 1
+    },
+    {
+      "university": "42 Coding",
+      "total_points": 5,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 5,
       "num_users": 1
     }
   ],
@@ -403,6 +443,18 @@
         {
           "name": "Universiteti Marlin Barleti",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -417,6 +469,18 @@
         {
           "full_name": "Kristjan Kullolli",
           "challenge_points_earned": 20
+        },
+        {
+          "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 5
+        },
+        {
+          "full_name": "Skendri Peza",
+          "challenge_points_earned": 5
+        },
+        {
+          "full_name": "Angjelos Rika",
+          "challenge_points_earned": 5
         }
       ]
     },
@@ -565,6 +629,14 @@
         {
           "name": "Universiteti Marlin Barleti",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -579,6 +651,14 @@
         {
           "full_name": "Kristjan Kullolli",
           "challenge_points_earned": 20
+        },
+        {
+          "full_name": "Anisa",
+          "challenge_points_earned": 5
+        },
+        {
+          "full_name": "Emluis Komino",
+          "challenge_points_earned": 5
         }
       ]
     },
@@ -619,6 +699,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "42 Coding",
+          "users": 1
         }
       ],
       "users": [
@@ -633,6 +717,10 @@
         {
           "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 20
+        },
+        {
+          "full_name": "Wendi Eva Sallabanda ",
+          "challenge_points_earned": 5
         }
       ]
     },
@@ -862,6 +950,14 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -876,6 +972,14 @@
         {
           "full_name": "Luis Mu\u00e7a",
           "challenge_points_earned": 20
+        },
+        {
+          "full_name": "Asim Lecini",
+          "challenge_points_earned": 5
+        },
+        {
+          "full_name": "Sibora Grymshi",
+          "challenge_points_earned": 5
         }
       ]
     },
@@ -1284,6 +1388,10 @@
   "rank_multipliers": {
     "1": 1.0,
     "2": 0.7,
-    "3": 0.4
+    "3": 0.4,
+    "4": 0.1,
+    "5": 0.1,
+    "6": 0.1,
+    "other": 0.1
   }
 }
