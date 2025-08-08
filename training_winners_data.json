@@ -3,22 +3,22 @@
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
-      "total_points": 1250
+      "total_points": 1235
     },
     {
       "full_name": "Arsi Hoxha",
       "university": "Harry Fultz",
-      "total_points": 1000
-    },
-    {
-      "full_name": "Firdeus Dikellari",
-      "university": "Canadian Institute of Technology",
-      "total_points": 900
+      "total_points": 970
     },
     {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 900
+    },
+    {
+      "full_name": "Firdeus Dikellari",
+      "university": "Canadian Institute of Technology",
+      "total_points": 870
     },
     {
       "full_name": "Artea Myftiu",
@@ -28,51 +28,31 @@
     {
       "full_name": "Marsia Habilaj",
       "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 350
+      "total_points": 335
     },
     {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
-      "total_points": 300
+      "total_points": 240
     },
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 250
+      "total_points": 220
     },
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
-      "total_points": 200
+      "total_points": 185
     },
     {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 185
+      "total_points": 155
     },
     {
       "full_name": "Luka Allkoja ",
       "university": "Canadian Institute of Technology",
-      "total_points": 150
-    },
-    {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
@@ -81,14 +61,14 @@
       "total_points": 150
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 100
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
+      "total_points": 135
     },
     {
-      "full_name": "Alvi Skita",
-      "university": "UET Maratona",
-      "total_points": 100
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 105
     },
     {
       "full_name": "Amar Ismaili",
@@ -96,43 +76,33 @@
       "total_points": 100
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 100
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
+      "total_points": 95
+    },
+    {
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
+      "total_points": 90
+    },
+    {
+      "full_name": "Alvi Skita",
+      "university": "UET Maratona",
+      "total_points": 85
     },
     {
       "full_name": "Redi Capoj",
       "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 100
-    },
-    {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 100
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 85
     },
     {
-      "full_name": "klajdi",
+      "full_name": "Luis Mu\u00e7a",
       "university": "Mediterranean University- UMSH",
-      "total_points": 85
-    },
-    {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 50
+      "total_points": 70
     },
     {
       "full_name": "Blis Thano",
       "university": "Harry Fultz",
-      "total_points": 50
-    },
-    {
-      "full_name": "Gerald Leba",
-      "university": "UAMD 2",
       "total_points": 50
     },
     {
@@ -141,12 +111,12 @@
       "total_points": 50
     },
     {
-      "full_name": "Nadia Kola",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Ersi",
+      "university": "Herman Gmeiner",
       "total_points": 50
     },
     {
-      "full_name": "Izabela Ziu",
+      "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 50
     },
@@ -156,125 +126,90 @@
       "total_points": 50
     },
     {
-      "full_name": "Ersi",
-      "university": "Herman Gmeiner",
-      "total_points": 50
-    },
-    {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 50
-    },
-    {
-      "full_name": "Emluis Komino",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 50
-    },
-    {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
-      "total_points": 50
-    },
-    {
-      "full_name": "Skendri Peza",
+      "full_name": "klajdi",
       "university": "Mediterranean University- UMSH",
       "total_points": 50
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 50
-    },
-    {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
-      "total_points": 50
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 40
     },
     {
       "full_name": "Semiramis Muho",
       "university": "Fakulteti i Ekonomise",
-      "total_points": 50
-    },
-    {
-      "full_name": "Wendi Eva Sallabanda ",
-      "university": "42 Coding",
-      "total_points": 50
-    },
-    {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 35
     },
     {
-      "full_name": "Megea Vogli",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
+      "total_points": 35
+    },
+    {
+      "full_name": "Gerald Leba",
+      "university": "UAMD 2",
+      "total_points": 35
+    },
+    {
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 35
+    },
+    {
+      "full_name": "Nadia Kola",
       "university": "Fakulteti i Ekonomise",
       "total_points": 35
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 20
+    },
+    {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 20
     }
   ],
   "universities": [
     {
       "university": "Harry Fultz",
-      "total_points": 1950,
+      "total_points": 1920,
       "num_users": 3
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 1535,
+      "total_points": 1365,
       "num_users": 4
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 1250,
+      "total_points": 1235,
       "num_users": 1
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1000,
+      "total_points": 875,
       "num_users": 4
     },
     {
-      "university": "Epoka University",
-      "total_points": 450,
+      "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 420,
       "num_users": 2
     },
     {
-      "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 450,
+      "university": "Epoka University",
+      "total_points": 315,
       "num_users": 2
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 285,
-      "num_users": 4
-    },
-    {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 235,
+      "total_points": 170,
       "num_users": 3
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 235,
-      "num_users": 3
-    },
-    {
-      "university": "Universiteti Marlin Barleti",
       "total_points": 150,
-      "num_users": 1
-    },
-    {
-      "university": "UET Maratona",
-      "total_points": 150,
-      "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Ekonomise",
-      "total_points": 135,
-      "num_users": 3
-    },
-    {
-      "university": "Universiteti i Elbasanit",
-      "total_points": 100,
       "num_users": 1
     },
     {
@@ -283,19 +218,34 @@
       "num_users": 1
     },
     {
-      "university": "Tirana Business University",
-      "total_points": 100,
-      "num_users": 2
+      "university": "Universiteti Marlin Barleti",
+      "total_points": 90,
+      "num_users": 1
     },
     {
       "university": "UAMD 2",
-      "total_points": 100,
+      "total_points": 85,
       "num_users": 2
     },
     {
-      "university": "42 Coding",
-      "total_points": 50,
+      "university": "UET Maratona",
+      "total_points": 85,
       "num_users": 1
+    },
+    {
+      "university": "Tirana Business University",
+      "total_points": 85,
+      "num_users": 2
+    },
+    {
+      "university": "Fakulteti i Ekonomise",
+      "total_points": 70,
+      "num_users": 2
+    },
+    {
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 55,
+      "num_users": 2
     },
     {
       "university": "Herman Gmeiner",
@@ -303,13 +253,13 @@
       "num_users": 1
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 50,
+      "university": "Universiteti i Elbasanit",
+      "total_points": 40,
       "num_users": 1
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 50,
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 20,
       "num_users": 1
     }
   ],
@@ -526,7 +476,7 @@
         },
         {
           "full_name": "Semiramis Muho",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 35
         }
       ]
     },
@@ -538,10 +488,6 @@
       "release_date": "August 1, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Universiteti Bujqesor i Tiranes",
-          "users": 1
-        },
-        {
           "name": "Harry Fultz",
           "users": 1
         },
@@ -552,40 +498,20 @@
         {
           "name": "Universiteti Marlin Barleti",
           "users": 1
-        },
-        {
-          "name": "Mediterranean University- UMSH",
-          "users": 1
-        },
-        {
-          "name": "UET Maratona",
-          "users": 1
         }
       ],
       "users": [
-        {
-          "full_name": "Angjelos Rika",
-          "challenge_points_earned": 50
-        },
         {
           "full_name": "Blis Thano",
           "challenge_points_earned": 50
         },
         {
           "full_name": "Izabela Ziu",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 35
         },
         {
           "full_name": "Kristjan Kullolli",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Skendri Peza",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Ira Haxhiu",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 20
         }
       ]
     },
@@ -730,30 +656,30 @@
       "release_date": "August 1, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Epoka University",
-          "users": 1
-        },
-        {
           "name": "Canadian Institute of Technology",
           "users": 1
         },
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
-        {
-          "full_name": "Detjon Mataj",
-          "challenge_points_earned": 100
-        },
         {
           "full_name": "Luka Allkoja ",
           "challenge_points_earned": 100
         },
         {
           "full_name": "Arsi Hoxha",
-          "challenge_points_earned": 100
+          "challenge_points_earned": 70
+        },
+        {
+          "full_name": "Detjon Mataj",
+          "challenge_points_earned": 40
         }
       ]
     },
@@ -766,7 +692,7 @@
       "universities": [
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
-          "users": 2
+          "users": 1
         },
         {
           "name": "Universiteti Ismail Qemali Vlore",
@@ -779,12 +705,8 @@
           "challenge_points_earned": 50
         },
         {
-          "full_name": "Savina Shimi",
-          "challenge_points_earned": 35
-        },
-        {
           "full_name": "Redi Capoj",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 35
         }
       ]
     },
@@ -796,46 +718,30 @@
       "release_date": "August 1, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Universiteti New York Tirana",
+          "name": "Mediterranean University- UMSH",
           "users": 1
         },
         {
-          "name": "Universiteti Metropolitan i Tiranes",
+          "name": "Universiteti New York Tirana",
           "users": 1
         },
         {
           "name": "Universiteti Marlin Barleti",
           "users": 1
-        },
-        {
-          "name": "Mediterranean University- UMSH",
-          "users": 1
-        },
-        {
-          "name": "Fakulteti i Teknologjise se Informacionit",
-          "users": 1
         }
       ],
       "users": [
-        {
-          "full_name": "Earta Joca",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Emluis Komino",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Kristjan Kullolli",
-          "challenge_points_earned": 50
-        },
         {
           "full_name": "Luis Mu\u00e7a",
           "challenge_points_earned": 50
         },
         {
-          "full_name": "Anisa",
-          "challenge_points_earned": 50
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 35
+        },
+        {
+          "full_name": "Kristjan Kullolli",
+          "challenge_points_earned": 20
         }
       ]
     },
@@ -866,7 +772,7 @@
       "release_date": "August 1, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "42 Coding",
+          "name": "Universiteti Ismail Qemali Vlore",
           "users": 1
         },
         {
@@ -876,28 +782,20 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
-        },
-        {
-          "name": "Universiteti Ismail Qemali Vlore",
-          "users": 1
         }
       ],
       "users": [
         {
-          "full_name": "Wendi Eva Sallabanda ",
+          "full_name": "Redi Capoj",
           "challenge_points_earned": 50
         },
         {
           "full_name": "Asim Lecini",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 35
         },
         {
           "full_name": "Marvin Rexhepagaj ",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Redi Capoj",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 20
         }
       ]
     },
@@ -932,11 +830,11 @@
           "users": 1
         },
         {
-          "name": "Universiteti Bujqesor i Tiranes",
+          "name": "Epoka University",
           "users": 1
         },
         {
-          "name": "Epoka University",
+          "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
         }
       ],
@@ -946,12 +844,12 @@
           "challenge_points_earned": 50
         },
         {
-          "full_name": "Tergita Sulaj",
-          "challenge_points_earned": 50
+          "full_name": "Detjon Mataj",
+          "challenge_points_earned": 35
         },
         {
-          "full_name": "Detjon Mataj",
-          "challenge_points_earned": 50
+          "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 20
         }
       ]
     },
@@ -982,34 +880,30 @@
       "release_date": "August 1, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Universiteti Bujqesor i Tiranes",
-          "users": 2
-        },
-        {
-          "name": "Shkolla Teknike Gjergi Canco",
+          "name": "Universiteti Marlin Barleti",
           "users": 1
         },
         {
-          "name": "Universiteti Marlin Barleti",
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
         }
       ],
       "users": [
         {
+          "full_name": "Kristjan Kullolli",
+          "challenge_points_earned": 50
+        },
+        {
           "full_name": "Angjelos Rika",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Ersi Dedaj",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 35
         },
         {
-          "full_name": "Kristjan Kullolli",
-          "challenge_points_earned": 50
+          "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 20
         }
       ]
     },
@@ -1055,7 +949,7 @@
         },
         {
           "full_name": "Gesa Comacka",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 35
         }
       ]
     },
@@ -1129,7 +1023,7 @@
         },
         {
           "name": "Fakulteti i Ekonomise",
-          "users": 2
+          "users": 1
         }
       ],
       "users": [
@@ -1139,10 +1033,6 @@
         },
         {
           "full_name": "Nadia Kola",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Megea Vogli",
           "challenge_points_earned": 35
         }
       ]
@@ -1155,11 +1045,7 @@
       "release_date": "August 1, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Mediterranean University- UMSH",
-          "users": 2
-        },
-        {
-          "name": "Universiteti Bujqesor i Tiranes",
+          "name": "Tirana Business University",
           "users": 1
         },
         {
@@ -1167,38 +1053,22 @@
           "users": 1
         },
         {
-          "name": "Tirana Business University",
-          "users": 1
-        },
-        {
-          "name": "Universiteti New York Tirana",
+          "name": "Mediterranean University- UMSH",
           "users": 1
         }
       ],
       "users": [
         {
-          "full_name": "klajdi",
-          "challenge_points_earned": 35
-        },
-        {
-          "full_name": "Luis Mu\u00e7a",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Sibora Grymshi",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Alvi Skita",
-          "challenge_points_earned": 50
-        },
-        {
           "full_name": "Orlin Balliu",
           "challenge_points_earned": 50
         },
         {
-          "full_name": "Asim Lecini",
-          "challenge_points_earned": 50
+          "full_name": "Alvi Skita",
+          "challenge_points_earned": 35
+        },
+        {
+          "full_name": "Luis Mu\u00e7a",
+          "challenge_points_earned": 20
         }
       ]
     },
@@ -1219,7 +1089,7 @@
       "release_date": "August 1, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Epoka University",
+          "name": "Herman Gmeiner",
           "users": 1
         },
         {
@@ -1227,22 +1097,22 @@
           "users": 1
         },
         {
-          "name": "Herman Gmeiner",
+          "name": "Epoka University",
           "users": 1
         }
       ],
       "users": [
         {
-          "full_name": "Detjon Mataj",
+          "full_name": "Ersi",
           "challenge_points_earned": 50
         },
         {
           "full_name": "Marsia Habilaj",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 35
         },
         {
-          "full_name": "Ersi",
-          "challenge_points_earned": 50
+          "full_name": "Detjon Mataj",
+          "challenge_points_earned": 20
         }
       ]
     },
@@ -1292,11 +1162,11 @@
         },
         {
           "full_name": "Gerald Leba",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 35
         },
         {
           "full_name": "Firdeus Dikellari",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 20
         }
       ]
     },
@@ -1308,22 +1178,22 @@
       "release_date": "August 4, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Canadian Institute of Technology",
+          "name": "Universiteti New York Tirana",
           "users": 1
         },
         {
-          "name": "Universiteti New York Tirana",
+          "name": "Canadian Institute of Technology",
           "users": 1
         }
       ],
       "users": [
         {
-          "full_name": "Abdurrahman Seitaj",
+          "full_name": "Asim Lecini",
           "challenge_points_earned": 50
         },
         {
-          "full_name": "Asim Lecini",
-          "challenge_points_earned": 50
+          "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 35
         }
       ]
     },
@@ -1335,30 +1205,30 @@
       "release_date": "August 4, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Epoka University",
-          "users": 1
-        },
-        {
           "name": "Mediterranean University- UMSH",
           "users": 1
         },
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
-        {
-          "full_name": "Anjeza Kanxha",
-          "challenge_points_earned": 50
-        },
         {
           "full_name": "klajdi",
           "challenge_points_earned": 50
         },
         {
           "full_name": "Erona Hoxha",
-          "challenge_points_earned": 50
+          "challenge_points_earned": 35
+        },
+        {
+          "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 20
         }
       ]
     },
@@ -1409,14 +1279,10 @@
       "universities": [
         {
           "name": "Canadian Institute of Technology",
-          "users": 2
+          "users": 1
         }
       ],
       "users": [
-        {
-          "full_name": "Abdurrahman Seitaj",
-          "challenge_points_earned": 35
-        },
         {
           "full_name": "Firdeus Dikellari",
           "challenge_points_earned": 50
@@ -1450,11 +1316,11 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
-          "challenge_points_earned": 100
+          "challenge_points_earned": 70
         },
         {
           "full_name": "Orgito Salla",
-          "challenge_points_earned": 100
+          "challenge_points_earned": 40
         }
       ]
     },
@@ -1475,22 +1341,22 @@
       "release_date": "August 4, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Universiteti New York Tirana",
+          "name": "Canadian Institute of Technology",
           "users": 1
         },
         {
-          "name": "Canadian Institute of Technology",
+          "name": "Universiteti New York Tirana",
           "users": 1
         }
       ],
       "users": [
         {
-          "full_name": "Gesa Comacka",
+          "full_name": "Firdeus Dikellari",
           "challenge_points_earned": 100
         },
         {
-          "full_name": "Firdeus Dikellari",
-          "challenge_points_earned": 100
+          "full_name": "Gesa Comacka",
+          "challenge_points_earned": 70
         }
       ]
     },
@@ -1536,7 +1402,7 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
-          "challenge_points_earned": 100
+          "challenge_points_earned": 70
         }
       ]
     },
@@ -1746,6 +1612,7 @@
   },
   "rank_multipliers": {
     "1": 1.0,
-    "2": 0.7
+    "2": 0.7,
+    "3": 0.4
   }
 }
