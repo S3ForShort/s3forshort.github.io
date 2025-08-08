@@ -1,44 +1,29 @@
 {
   "users": [
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 1235
-    },
-    {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
-      "total_points": 970
-    },
-    {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 900
-    },
-    {
-      "full_name": "Firdeus Dikellari",
-      "university": "Canadian Institute of Technology",
-      "total_points": 870
-    },
-    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 400
     },
     {
-      "full_name": "Marsia Habilaj",
-      "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 335
-    },
-    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
-      "total_points": 240
+      "total_points": 270
     },
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 220
+      "total_points": 235
+    },
+    {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 185
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 185
     },
     {
       "full_name": "Earta Joca",
@@ -46,14 +31,9 @@
       "total_points": 185
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
       "total_points": 155
-    },
-    {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 150
     },
     {
       "full_name": "Daniel Kovi",
@@ -66,19 +46,19 @@
       "total_points": 135
     },
     {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 105
-    },
-    {
-      "full_name": "Amar Ismaili",
-      "university": "RIT Kosova",
+      "full_name": "Arsi Hoxha",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
-      "total_points": 95
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 100
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 100
     },
     {
       "full_name": "Kristjan Kullolli",
@@ -96,28 +76,23 @@
       "total_points": 85
     },
     {
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 70
+    },
+    {
       "full_name": "Luis Mu\u00e7a",
       "university": "Mediterranean University- UMSH",
       "total_points": 70
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
-      "total_points": 50
-    },
-    {
-      "full_name": "Klaudio Toska",
-      "university": "UAMD 2",
-      "total_points": 50
-    },
-    {
-      "full_name": "Ersi",
-      "university": "Herman Gmeiner",
-      "total_points": 50
-    },
-    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
+      "total_points": 50
+    },
+    {
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -131,9 +106,9 @@
       "total_points": 50
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 40
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 50
     },
     {
       "full_name": "Semiramis Muho",
@@ -141,8 +116,8 @@
       "total_points": 35
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 35
     },
     {
@@ -151,8 +126,8 @@
       "total_points": 35
     },
     {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 35
     },
     {
@@ -173,34 +148,24 @@
   ],
   "universities": [
     {
-      "university": "Harry Fultz",
-      "total_points": 1920,
-      "num_users": 3
+      "university": "Universiteti New York Tirana",
+      "total_points": 905,
+      "num_users": 4
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 1365,
-      "num_users": 4
-    },
-    {
-      "university": "Universiteti i Shkodres",
-      "total_points": 1235,
-      "num_users": 1
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 875,
-      "num_users": 4
-    },
-    {
-      "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 420,
-      "num_users": 2
+      "total_points": 555,
+      "num_users": 3
     },
     {
       "university": "Epoka University",
-      "total_points": 315,
+      "total_points": 390,
       "num_users": 2
+    },
+    {
+      "university": "Harry Fultz",
+      "total_points": 250,
+      "num_users": 3
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -213,17 +178,12 @@
       "num_users": 1
     },
     {
-      "university": "RIT Kosova",
-      "total_points": 100,
-      "num_users": 1
-    },
-    {
       "university": "Universiteti Marlin Barleti",
       "total_points": 90,
       "num_users": 1
     },
     {
-      "university": "UAMD 2",
+      "university": "Tirana Business University",
       "total_points": 85,
       "num_users": 2
     },
@@ -233,9 +193,14 @@
       "num_users": 1
     },
     {
-      "university": "Tirana Business University",
+      "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 85,
-      "num_users": 2
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti i Elbasanit",
+      "total_points": 70,
+      "num_users": 1
     },
     {
       "university": "Fakulteti i Ekonomise",
@@ -248,13 +213,13 @@
       "num_users": 2
     },
     {
-      "university": "Herman Gmeiner",
+      "university": "Universiteti i Shkodres",
       "total_points": 50,
       "num_users": 1
     },
     {
-      "university": "Universiteti i Elbasanit",
-      "total_points": 40,
+      "university": "UAMD 2",
+      "total_points": 35,
       "num_users": 1
     },
     {
@@ -270,18 +235,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Canadian Institute of Technology",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Firdeus Dikellari",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "685363ad-6609-44ef-ad1b-ae1a31534163",
@@ -289,18 +244,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Harry Fultz",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Emanuel Dervishi",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "abdc887b-65d7-4454-a08c-c70b341f93d2",
@@ -317,18 +262,8 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Harry Fultz",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Arsi Hoxha",
-          "challenge_points_earned": 300
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "034470e1-03eb-4121-99b1-71dbb5784d1c",
@@ -345,18 +280,8 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti Ismail Qemali Vlore",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Marsia Habilaj",
-          "challenge_points_earned": 50
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "4e8b47f9-035d-4144-9dac-682982b40aaf",
@@ -383,18 +308,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti Ismail Qemali Vlore",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Marsia Habilaj",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "e3e4dce0-8a23-409e-811d-86bf927d6bbd",
@@ -421,18 +336,8 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Canadian Institute of Technology",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Luka Allkoja ",
-          "challenge_points_earned": 50
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "0a31311f-7aa6-444e-a7fb-57c3d554239a",
@@ -521,18 +426,8 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Harry Fultz",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Arsi Hoxha",
-          "challenge_points_earned": 300
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "0cf8c4c8-824e-45ee-b8dd-f31888fc6057",
@@ -559,18 +454,8 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Harry Fultz",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Emanuel Dervishi",
-          "challenge_points_earned": 300
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "a84822f6-c277-4cde-991b-a0dd57ee7a6c",
@@ -578,18 +463,8 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Canadian Institute of Technology",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Firdeus Dikellari",
-          "challenge_points_earned": 300
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "48341bd9-e0be-4c44-b8ba-3dcdde485fbf",
@@ -597,18 +472,8 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti Ismail Qemali Vlore",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Marsia Habilaj",
-          "challenge_points_earned": 50
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "553d6bc9-857d-4565-b85d-21fff6d588a7",
@@ -616,18 +481,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti Ismail Qemali Vlore",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Marsia Habilaj",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "4f6abfec-6efe-43f3-826a-14382384d082",
@@ -635,18 +490,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Harry Fultz",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Emanuel Dervishi",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "1e514d35-92cc-4c98-83e2-093c781b7842",
@@ -660,10 +505,6 @@
           "users": 1
         },
         {
-          "name": "Harry Fultz",
-          "users": 1
-        },
-        {
           "name": "Epoka University",
           "users": 1
         }
@@ -674,12 +515,8 @@
           "challenge_points_earned": 100
         },
         {
-          "full_name": "Arsi Hoxha",
-          "challenge_points_earned": 70
-        },
-        {
           "full_name": "Detjon Mataj",
-          "challenge_points_earned": 40
+          "challenge_points_earned": 70
         }
       ]
     },
@@ -913,18 +750,8 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Harry Fultz",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Emanuel Dervishi",
-          "challenge_points_earned": 300
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "fda3ff7d-6602-434c-9197-b51231f4415f",
@@ -959,18 +786,8 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 300
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "d3e26dce-1c37-4f1f-b866-55f8df8ff0bc",
@@ -997,18 +814,8 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Canadian Institute of Technology",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Firdeus Dikellari",
-          "challenge_points_earned": 300
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "39d14849-82ee-4c29-b711-205f14b69e99",
@@ -1089,30 +896,14 @@
       "release_date": "August 1, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Herman Gmeiner",
-          "users": 1
-        },
-        {
-          "name": "Universiteti Ismail Qemali Vlore",
-          "users": 1
-        },
-        {
           "name": "Epoka University",
           "users": 1
         }
       ],
       "users": [
         {
-          "full_name": "Ersi",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Marsia Habilaj",
-          "challenge_points_earned": 35
-        },
-        {
           "full_name": "Detjon Mataj",
-          "challenge_points_earned": 20
+          "challenge_points_earned": 50
         }
       ]
     },
@@ -1149,10 +940,6 @@
         {
           "name": "UAMD 2",
           "users": 1
-        },
-        {
-          "name": "Canadian Institute of Technology",
-          "users": 1
         }
       ],
       "users": [
@@ -1163,10 +950,6 @@
         {
           "full_name": "Gerald Leba",
           "challenge_points_earned": 35
-        },
-        {
-          "full_name": "Firdeus Dikellari",
-          "challenge_points_earned": 20
         }
       ]
     },
@@ -1209,10 +992,6 @@
           "users": 1
         },
         {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        },
-        {
           "name": "Epoka University",
           "users": 1
         }
@@ -1223,12 +1002,8 @@
           "challenge_points_earned": 50
         },
         {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 35
-        },
-        {
           "full_name": "Anjeza Kanxha",
-          "challenge_points_earned": 20
+          "challenge_points_earned": 35
         }
       ]
     },
@@ -1238,18 +1013,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 4, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "10ab106f-5066-4c08-82f3-689df6da186c",
@@ -1284,7 +1049,7 @@
       ],
       "users": [
         {
-          "full_name": "Firdeus Dikellari",
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 50
         }
       ]
@@ -1297,10 +1062,6 @@
       "release_date": "August 4, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "RIT Kosova",
-          "users": 1
-        },
-        {
           "name": "Canadian Institute of Technology",
           "users": 1
         },
@@ -1311,16 +1072,12 @@
       ],
       "users": [
         {
-          "full_name": "Amar Ismaili",
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 100
         },
         {
-          "full_name": "Marvin Rexhepagaj ",
-          "challenge_points_earned": 70
-        },
-        {
           "full_name": "Orgito Salla",
-          "challenge_points_earned": 40
+          "challenge_points_earned": 70
         }
       ]
     },
@@ -1341,22 +1098,14 @@
       "release_date": "August 4, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Canadian Institute of Technology",
-          "users": 1
-        },
-        {
           "name": "Universiteti New York Tirana",
           "users": 1
         }
       ],
       "users": [
         {
-          "full_name": "Firdeus Dikellari",
-          "challenge_points_earned": 100
-        },
-        {
           "full_name": "Gesa Comacka",
-          "challenge_points_earned": 70
+          "challenge_points_earned": 100
         }
       ]
     },
@@ -1366,18 +1115,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 4, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Harry Fultz",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Arsi Hoxha",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "46da0676-f083-4c43-9ecb-a7a0e89686b3",
@@ -1387,22 +1126,14 @@
       "release_date": "August 4, 2025, 12:00 AM",
       "universities": [
         {
-          "name": "Harry Fultz",
-          "users": 1
-        },
-        {
           "name": "Canadian Institute of Technology",
           "users": 1
         }
       ],
       "users": [
         {
-          "full_name": "Arsi Hoxha",
-          "challenge_points_earned": 100
-        },
-        {
           "full_name": "Abdurrahman Seitaj",
-          "challenge_points_earned": 70
+          "challenge_points_earned": 100
         }
       ]
     },
@@ -1412,18 +1143,8 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "UAMD 2",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Klaudio Toska",
-          "challenge_points_earned": 50
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "a75788cc-fd9a-436f-bbd4-89914d247431",
@@ -1459,18 +1180,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "08c164e7-950e-49bd-86d0-16db4f2cdb49",
@@ -1478,18 +1189,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "d6f0be39-2443-47dc-858d-f98ba7f2a37d",
@@ -1497,18 +1198,8 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 300
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "20ba5a39-f3c7-46c6-ae8e-84f272c52e4d",
@@ -1553,18 +1244,8 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 50
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "756abc90-74bf-4fc5-8879-ef934002fba4",
@@ -1572,18 +1253,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "471de8fd-875a-47a1-8857-efc1c433d617",
@@ -1591,18 +1262,8 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Universiteti i Shkodres",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Erona Hoxha",
-          "challenge_points_earned": 100
-        }
-      ]
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
