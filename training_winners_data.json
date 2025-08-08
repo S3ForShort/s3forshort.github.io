@@ -36,12 +36,22 @@
       "total_points": 300
     },
     {
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
+      "total_points": 250
+    },
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 200
+    },
+    {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 200
     },
     {
-      "full_name": "Earta Joca",
+      "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
       "total_points": 200
     },
@@ -51,19 +61,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
       "total_points": 185
-    },
-    {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 150
     },
     {
       "full_name": "Luka Allkoja ",
@@ -76,8 +76,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
@@ -233,13 +233,13 @@
       "num_users": 4
     },
     {
-      "university": "Universiteti Ismail Qemali Vlore",
+      "university": "Epoka University",
       "total_points": 450,
       "num_users": 2
     },
     {
-      "university": "Epoka University",
-      "total_points": 350,
+      "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 450,
       "num_users": 2
     },
     {
@@ -1544,7 +1544,7 @@
       "package_id": "b95c093b-bf47-4a5d-bb05-6415e8f59f68",
       "package_name": "Android Files and User Data Challenge",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [
         {
@@ -1563,7 +1563,7 @@
       "package_id": "a75788cc-fd9a-436f-bbd4-89914d247431",
       "package_name": "Basic Regular Expressions",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [],
       "users": []
@@ -1572,7 +1572,7 @@
       "package_id": "2e6000fc-d58b-4f95-8749-ba18cdc676bc",
       "package_name": "Binary and Hex: Introduction",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [
         {
@@ -1591,7 +1591,7 @@
       "package_id": "5543d450-4d41-450b-8f1d-26f6a22cd140",
       "package_name": "IMB: Reducing Vulnerabilities in Code Challenge: Shellshocked Sally",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [
         {
@@ -1610,7 +1610,7 @@
       "package_id": "08c164e7-950e-49bd-86d0-16db4f2cdb49",
       "package_name": "Medical Records Compromise",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [
         {
@@ -1629,7 +1629,7 @@
       "package_id": "d6f0be39-2443-47dc-858d-f98ba7f2a37d",
       "package_name": "Network Analyst Challenge: Broken Halo",
       "difficulty": "advanced",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [
         {
@@ -1648,7 +1648,7 @@
       "package_id": "20ba5a39-f3c7-46c6-ae8e-84f272c52e4d",
       "package_name": "Network Analyst Challenge: Hidden Lotus",
       "difficulty": "advanced",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [],
       "users": []
@@ -1657,16 +1657,26 @@
       "package_id": "0efcd4da-878c-4188-a9a5-65b10a0a5e7b",
       "package_name": "Network Forensics Challenge: Zeeking the Predator",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Epoka University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "cb561d03-fc8e-4066-8c73-0cd9e8edc4eb",
       "package_name": "Perl Compatible Regular Expressions (PCRE)",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [],
       "users": []
@@ -1675,7 +1685,7 @@
       "package_id": "9fabce31-b405-4ee6-a301-d09d8261d29c",
       "package_name": "Smartphone Analysis: Extract Files from an Application",
       "difficulty": "foundational",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [
         {
@@ -1694,7 +1704,7 @@
       "package_id": "756abc90-74bf-4fc5-8879-ef934002fba4",
       "package_name": "Windows Event Log Analysis Challenge",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [
         {
@@ -1713,7 +1723,7 @@
       "package_id": "471de8fd-875a-47a1-8857-efc1c433d617",
       "package_name": "Windows Management and Instrumentation Challenge",
       "difficulty": "intermediate",
-      "passing_threshold": "90",
+      "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
       "universities": [
         {
