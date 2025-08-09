@@ -21,8 +21,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Detjon Mataj",
+      "university": "Epoka University",
       "total_points": 200
     },
     {
@@ -31,8 +31,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 200
     },
     {
@@ -51,7 +51,12 @@
       "total_points": 150
     },
     {
-      "full_name": "Sibora Grymshi",
+      "full_name": "Redi Capoj",
+      "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 100
+    },
+    {
+      "full_name": "Angjelos Rika",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
@@ -66,28 +71,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Redi Capoj",
-      "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 100
-    },
-    {
-      "full_name": "Angjelos Rika",
+      "full_name": "Sibora Grymshi",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 100
-    },
-    {
-      "full_name": "Alvi Skita",
-      "university": "UET Maratona",
-      "total_points": 100
-    },
-    {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 100
-    },
-    {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
       "total_points": 100
     },
     {
@@ -101,8 +86,28 @@
       "total_points": 100
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 100
+    },
+    {
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 100
+    },
+    {
+      "full_name": "Alvi Skita",
+      "university": "UET Maratona",
+      "total_points": 100
+    },
+    {
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 50
+    },
+    {
+      "full_name": "Jurgen Mecaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 50
     },
     {
@@ -111,18 +116,23 @@
       "total_points": 50
     },
     {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 50
-    },
-    {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
       "total_points": 50
     },
     {
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
+      "total_points": 50
+    },
+    {
       "full_name": "Emluis Komino",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 50
+    },
+    {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 50
     },
     {
@@ -136,18 +146,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Santino Shero",
+      "university": "WBU",
       "total_points": 50
     },
     {
-      "full_name": "Semiramis Muho",
-      "university": "Fakulteti i Ekonomise",
-      "total_points": 50
-    },
-    {
-      "full_name": "Nadia Kola",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -156,8 +161,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Jurgen Mecaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Nadia Kola",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 50
     },
     {
@@ -166,8 +171,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Semiramis Muho",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 50
     },
     {
@@ -223,16 +228,6 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 100,
-      "num_users": 1
-    },
-    {
-      "university": "Tirana Business University",
-      "total_points": 100,
-      "num_users": 2
-    },
-    {
       "university": "Universiteti i Elbasanit",
       "total_points": 100,
       "num_users": 1
@@ -243,17 +238,27 @@
       "num_users": 2
     },
     {
+      "university": "Tirana Business University",
+      "total_points": 100,
+      "num_users": 2
+    },
+    {
+      "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 100,
+      "num_users": 1
+    },
+    {
       "university": "42 Coding",
       "total_points": 50,
       "num_users": 1
     },
     {
-      "university": "UAMD 2",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50,
       "num_users": 1
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
+      "university": "UAMD 2",
       "total_points": 50,
       "num_users": 1
     },
@@ -264,6 +269,11 @@
     },
     {
       "university": "Universiteti i Shkodres",
+      "total_points": 50,
+      "num_users": 1
+    },
+    {
+      "university": "WBU",
       "total_points": 50,
       "num_users": 1
     }
@@ -1149,11 +1159,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Santino Shero",
           "challenge_points_earned": 50
         }
       ]
