@@ -51,14 +51,14 @@
       "total_points": 150
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 150
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 100
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
+      "total_points": 150
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -66,8 +66,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
@@ -91,8 +91,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
@@ -111,9 +111,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Jurgen Mecaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 50
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 100
     },
     {
       "full_name": "Blis Thano",
@@ -131,8 +131,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "Jurgen Mecaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 50
     },
     {
@@ -171,13 +171,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Semiramis Muho",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 50
     },
     {
-      "full_name": "Nadia Kola",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -186,7 +186,7 @@
       "total_points": 50
     },
     {
-      "full_name": "Semiramis Muho",
+      "full_name": "Nadia Kola",
       "university": "Fakulteti i Ekonomise",
       "total_points": 50
     },
@@ -248,14 +248,14 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 200,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Marlin Barleti",
       "total_points": 150,
       "num_users": 1
-    },
-    {
-      "university": "UET Maratona",
-      "total_points": 150,
-      "num_users": 2
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -263,9 +263,9 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Elbasanit",
-      "total_points": 100,
-      "num_users": 1
+      "university": "UET Maratona",
+      "total_points": 150,
+      "num_users": 2
     },
     {
       "university": "Fakulteti i Ekonomise",
@@ -278,12 +278,12 @@
       "num_users": 2
     },
     {
-      "university": "WBU",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100,
-      "num_users": 2
+      "num_users": 1
     },
     {
-      "university": "Universiteti Metropolitan i Tiranes",
+      "university": "WBU",
       "total_points": 100,
       "num_users": 2
     },
@@ -1487,8 +1487,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "08c164e7-950e-49bd-86d0-16db4f2cdb49",
