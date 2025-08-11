@@ -116,13 +116,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Jurgen Mecaj",
+      "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
       "total_points": 100
     },
     {
@@ -131,9 +131,9 @@
       "total_points": 100
     },
     {
-      "full_name": "klajdi",
+      "full_name": "Luis Mu\u00e7a",
       "university": "Mediterranean University- UMSH",
-      "total_points": 50
+      "total_points": 100
     },
     {
       "full_name": "Blis Thano",
@@ -151,18 +151,13 @@
       "total_points": 50
     },
     {
+      "full_name": "klajdi",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 50
+    },
+    {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
-      "total_points": 50
-    },
-    {
-      "full_name": "Emluis Komino",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 50
-    },
-    {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -171,13 +166,18 @@
       "total_points": 50
     },
     {
+      "full_name": "Emluis Komino",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 50
+    },
+    {
       "full_name": "Orlin Balliu",
       "university": "Tirana Business University",
       "total_points": 50
     },
     {
-      "full_name": "Jurgen Mecaj",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -223,24 +223,24 @@
       "num_users": 3
     },
     {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 300,
+      "num_users": 4
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300,
       "num_users": 2
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250,
-      "num_users": 2
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 250,
-      "num_users": 4
-    },
-    {
       "university": "Harry Fultz",
       "total_points": 250,
       "num_users": 3
+    },
+    {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 250,
+      "num_users": 2
     },
     {
       "university": "Epoka University",
@@ -389,11 +389,19 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Metion Hoxhalli",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 50
         }
       ]
