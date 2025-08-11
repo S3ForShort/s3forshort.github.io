@@ -1,14 +1,14 @@
 {
   "users": [
     {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 750
+    },
+    {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 500
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
-      "total_points": 450
     },
     {
       "full_name": "Artea Myftiu",
@@ -199,7 +199,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 950,
+      "total_points": 1250,
       "num_users": 4
     },
     {
@@ -544,8 +544,18 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "0cf8c4c8-824e-45ee-b8dd-f31888fc6057",
