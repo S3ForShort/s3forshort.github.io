@@ -21,6 +21,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 250
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 250
@@ -33,11 +38,6 @@
     {
       "full_name": "Asim Lecini",
       "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 200
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 400,
+      "total_points": 450,
       "num_users": 3
     },
     {
@@ -750,6 +750,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -775,6 +779,10 @@
         },
         {
           "full_name": "Ergi Kokoneshi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
