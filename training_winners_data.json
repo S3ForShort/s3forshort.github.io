@@ -61,8 +61,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Redi Capoj",
+      "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 100
     },
     {
@@ -81,8 +81,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 100
     },
     {
@@ -96,14 +96,14 @@
       "total_points": 100
     },
     {
-      "full_name": "Redi Capoj",
-      "university": "Universiteti Ismail Qemali Vlore",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 50
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
+      "total_points": 100
     },
     {
       "full_name": "Blis Thano",
@@ -121,8 +121,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 50
     },
     {
@@ -136,18 +136,18 @@
       "total_points": 50
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 50
-    },
-    {
       "full_name": "Ergi Kokoneshi",
       "university": "WBU",
       "total_points": 50
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
+      "total_points": 50
+    },
+    {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 50
     },
     {
@@ -243,12 +243,17 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti i Elbasanit",
+      "total_points": 100,
+      "num_users": 1
+    },
+    {
       "university": "Tirana Business University",
       "total_points": 100,
       "num_users": 2
     },
     {
-      "university": "Universiteti i Elbasanit",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 100,
       "num_users": 1
     },
@@ -264,11 +269,6 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 50,
-      "num_users": 1
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50,
       "num_users": 1
     },
@@ -1340,6 +1340,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1349,6 +1353,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
