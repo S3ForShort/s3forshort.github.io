@@ -21,6 +21,11 @@
       "total_points": 250
     },
     {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 200
+    },
+    {
       "full_name": "Detjon Mataj",
       "university": "Epoka University",
       "total_points": 200
@@ -28,11 +33,6 @@
     {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
       "total_points": 200
     },
     {
@@ -51,6 +51,11 @@
       "total_points": 150
     },
     {
+      "full_name": "Arsi Hoxha",
+      "university": "Harry Fultz",
+      "total_points": 100
+    },
+    {
       "full_name": "Redi Capoj",
       "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 100
@@ -61,8 +66,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
@@ -81,8 +86,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Alvi Skita",
+      "university": "UET Maratona",
       "total_points": 100
     },
     {
@@ -96,13 +101,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Alvi Skita",
-      "university": "UET Maratona",
-      "total_points": 100
-    },
-    {
       "full_name": "Anisa",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 50
+    },
+    {
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -111,8 +116,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
+      "full_name": "Gerald Leba",
+      "university": "UAMD 2",
       "total_points": 50
     },
     {
@@ -136,8 +141,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Gerald Leba",
-      "university": "UAMD 2",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 50
     },
     {
@@ -228,9 +233,9 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti i Elbasanit",
+      "university": "WBU",
       "total_points": 100,
-      "num_users": 1
+      "num_users": 2
     },
     {
       "university": "Fakulteti i Ekonomise",
@@ -243,6 +248,11 @@
       "num_users": 2
     },
     {
+      "university": "Universiteti i Elbasanit",
+      "total_points": 100,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 100,
       "num_users": 1
@@ -253,12 +263,12 @@
       "num_users": 1
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
+      "university": "UAMD 2",
       "total_points": 50,
       "num_users": 1
     },
     {
-      "university": "UAMD 2",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 50,
       "num_users": 1
     },
@@ -269,11 +279,6 @@
     },
     {
       "university": "Universiteti i Shkodres",
-      "total_points": 50,
-      "num_users": 1
-    },
-    {
-      "university": "WBU",
       "total_points": 50,
       "num_users": 1
     }
@@ -647,6 +652,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -668,6 +677,10 @@
         },
         {
           "full_name": "Emluis Komino",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Kokoneshi",
           "challenge_points_earned": 50
         }
       ]
