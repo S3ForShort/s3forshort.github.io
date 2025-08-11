@@ -11,6 +11,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Abdurrahman Seitaj",
+      "university": "Canadian Institute of Technology",
+      "total_points": 350
+    },
+    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
       "total_points": 300
@@ -18,11 +23,6 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 250
-    },
-    {
-      "full_name": "Abdurrahman Seitaj",
-      "university": "Canadian Institute of Technology",
       "total_points": 250
     },
     {
@@ -46,6 +46,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 150
+    },
+    {
       "full_name": "Kristjan Kullolli",
       "university": "Universiteti Marlin Barleti",
       "total_points": 150
@@ -53,11 +58,6 @@
     {
       "full_name": "Arsi Hoxha",
       "university": "Harry Fultz",
-      "total_points": 100
-    },
-    {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
     {
@@ -76,18 +76,18 @@
       "total_points": 100
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 100
-    },
-    {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
     {
       "full_name": "Alvi Skita",
       "university": "UET Maratona",
+      "total_points": 100
+    },
+    {
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
@@ -101,8 +101,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -194,7 +194,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 750,
+      "total_points": 850,
       "num_users": 4
     },
     {
@@ -233,12 +233,12 @@
       "num_users": 1
     },
     {
-      "university": "WBU",
-      "total_points": 100,
-      "num_users": 2
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 150,
+      "num_users": 1
     },
     {
-      "university": "Fakulteti i Ekonomise",
+      "university": "WBU",
       "total_points": 100,
       "num_users": 2
     },
@@ -253,9 +253,9 @@
       "num_users": 2
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 100,
-      "num_users": 1
+      "num_users": 2
     },
     {
       "university": "Universiteti Ismail Qemali Vlore",
@@ -478,6 +478,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -503,6 +507,10 @@
         },
         {
           "full_name": "Angjelos Rika",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
@@ -568,8 +576,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "4f6abfec-6efe-43f3-826a-14382384d082",
@@ -1466,6 +1484,7 @@
     "3": 1.0,
     "4": 1.0,
     "5": 1.0,
-    "6": 1.0
+    "6": 1.0,
+    "7": 1.0
   }
 }
