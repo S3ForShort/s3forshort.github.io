@@ -3,7 +3,7 @@
     {
       "full_name": "Jurgen Mecaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 1400
+      "total_points": 1700
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -214,7 +214,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 1650,
+      "total_points": 1950,
       "num_users": 4
     },
     {
@@ -702,11 +702,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 300
         }
       ]
