@@ -26,8 +26,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Detjon Mataj",
-      "university": "Epoka University",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 200
     },
     {
@@ -41,63 +46,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
       "full_name": "Kristjan Kullolli",
       "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 150
-    },
-    {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
-      "total_points": 100
-    },
-    {
-      "full_name": "Redi Capoj",
-      "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 100
-    },
-    {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 100
-    },
-    {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 100
-    },
-    {
       "full_name": "Luis Mu\u00e7a",
       "university": "Mediterranean University- UMSH",
-      "total_points": 100
-    },
-    {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 100
-    },
-    {
-      "full_name": "Alvi Skita",
-      "university": "UET Maratona",
-      "total_points": 100
-    },
-    {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 100
-    },
-    {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
@@ -106,8 +61,48 @@
       "total_points": 100
     },
     {
-      "full_name": "Blis Thano",
+      "full_name": "Arsi Hoxha",
       "university": "Harry Fultz",
+      "total_points": 100
+    },
+    {
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 100
+    },
+    {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 100
+    },
+    {
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 100
+    },
+    {
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 100
+    },
+    {
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 100
+    },
+    {
+      "full_name": "Redi Capoj",
+      "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 100
+    },
+    {
+      "full_name": "Alvi Skita",
+      "university": "UET Maratona",
+      "total_points": 100
+    },
+    {
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 50
     },
     {
@@ -116,13 +111,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Gerald Leba",
-      "university": "UAMD 2",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
       "total_points": 50
     },
     {
@@ -141,8 +136,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
+      "full_name": "Gerald Leba",
+      "university": "UAMD 2",
       "total_points": 50
     },
     {
@@ -198,11 +193,6 @@
       "num_users": 3
     },
     {
-      "university": "Epoka University",
-      "total_points": 450,
-      "num_users": 2
-    },
-    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 400,
       "num_users": 3
@@ -213,14 +203,19 @@
       "num_users": 4
     },
     {
-      "university": "Harry Fultz",
+      "university": "Epoka University",
       "total_points": 250,
-      "num_users": 3
+      "num_users": 1
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200,
+      "total_points": 250,
       "num_users": 2
+    },
+    {
+      "university": "Harry Fultz",
+      "total_points": 250,
+      "num_users": 3
     },
     {
       "university": "UET Maratona",
@@ -590,19 +585,11 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
-        },
-        {
-          "name": "Epoka University",
-          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Luka Allkoja ",
-          "challenge_points_earned": 100
-        },
-        {
-          "full_name": "Detjon Mataj",
           "challenge_points_earned": 100
         }
       ]
@@ -786,10 +773,6 @@
           "users": 1
         },
         {
-          "name": "Epoka University",
-          "users": 1
-        },
-        {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
         }
@@ -797,10 +780,6 @@
       "users": [
         {
           "full_name": "Earta Joca",
-          "challenge_points_earned": 50
-        },
-        {
-          "full_name": "Detjon Mataj",
           "challenge_points_earned": 50
         },
         {
@@ -1039,18 +1018,8 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [
-        {
-          "name": "Epoka University",
-          "users": 1
-        }
-      ],
-      "users": [
-        {
-          "full_name": "Detjon Mataj",
-          "challenge_points_earned": 50
-        }
-      ]
+      "universities": [],
+      "users": []
     },
     {
       "package_id": "84a125e1-3fd0-4f59-a1ff-aac325ad4da8",
@@ -1344,6 +1313,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -1357,6 +1330,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Daniel Kovi",
           "challenge_points_earned": 50
         }
       ]
