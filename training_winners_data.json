@@ -6,13 +6,13 @@
       "total_points": 800
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 500
-    },
-    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
+      "total_points": 800
+    },
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 500
     },
     {
@@ -209,7 +209,7 @@
   "universities": [
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 1500,
+      "total_points": 1800,
       "num_users": 4
     },
     {
@@ -634,8 +634,18 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "48341bd9-e0be-4c44-b8ba-3dcdde485fbf",
