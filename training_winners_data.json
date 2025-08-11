@@ -36,6 +36,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 200
+    },
+    {
       "full_name": "Asim Lecini",
       "university": "Universiteti New York Tirana",
       "total_points": 200
@@ -46,8 +51,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
@@ -56,18 +61,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 150
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 100
-    },
-    {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
     {
@@ -96,13 +96,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -253,12 +253,12 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti Marlin Barleti",
-      "total_points": 150,
+      "university": "Herman Gmeiner",
+      "total_points": 200,
       "num_users": 1
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150,
       "num_users": 1
     },
@@ -268,9 +268,9 @@
       "num_users": 2
     },
     {
-      "university": "Fakulteti i Ekonomise",
-      "total_points": 100,
-      "num_users": 2
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 150,
+      "num_users": 1
     },
     {
       "university": "WBU",
@@ -278,12 +278,12 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti i Elbasanit",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 100,
-      "num_users": 1
+      "num_users": 2
     },
     {
-      "university": "Herman Gmeiner",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100,
       "num_users": 1
     },
@@ -406,11 +406,19 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Emanuel Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
