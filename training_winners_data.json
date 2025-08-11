@@ -11,13 +11,13 @@
       "total_points": 500
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 400
-    },
-    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
+      "total_points": 450
+    },
+    {
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 400
     },
     {
@@ -199,7 +199,7 @@
   "universities": [
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 1400,
+      "total_points": 1450,
       "num_users": 4
     },
     {
@@ -525,6 +525,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -554,6 +558,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 50
         }
       ]
@@ -1558,6 +1566,7 @@
     "4": 1.0,
     "5": 1.0,
     "6": 1.0,
-    "7": 1.0
+    "7": 1.0,
+    "8": 1.0
   }
 }
