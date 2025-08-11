@@ -16,6 +16,11 @@
       "total_points": 500
     },
     {
+      "full_name": "Jurgen Mecaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 500
+    },
+    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 400
@@ -41,13 +46,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Firdeus Dikellari",
+      "university": "Canadian Institute of Technology",
       "total_points": 200
     },
     {
@@ -56,18 +56,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Jurgen Mecaj",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 200
-    },
-    {
-      "full_name": "Firdeus Dikellari",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 200
     },
     {
       "full_name": "Asim Lecini",
       "university": "Universiteti New York Tirana",
+      "total_points": 200
+    },
+    {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 200
     },
     {
@@ -218,14 +218,14 @@
       "num_users": 4
     },
     {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 750,
+      "num_users": 4
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 550,
       "num_users": 3
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 450,
-      "num_users": 4
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -1661,8 +1661,18 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Jurgen Mecaj",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "20ba5a39-f3c7-46c6-ae8e-84f272c52e4d",
