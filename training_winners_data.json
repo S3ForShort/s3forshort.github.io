@@ -8,7 +8,7 @@
     {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
-      "total_points": 850
+      "total_points": 950
     },
     {
       "full_name": "Earta Joca",
@@ -66,8 +66,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
@@ -91,18 +91,18 @@
       "total_points": 100
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 100
-    },
-    {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 100
-    },
-    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
+      "total_points": 100
+    },
+    {
+      "full_name": "Santino Shero",
+      "university": "WBU",
+      "total_points": 100
+    },
+    {
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
     {
@@ -121,9 +121,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 50
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 100
     },
     {
       "full_name": "Gerald Leba",
@@ -141,13 +141,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 50
     },
     {
-      "full_name": "klajdi",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
       "total_points": 50
     },
     {
@@ -171,13 +171,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Semiramis Muho",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Orlin Balliu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
-      "full_name": "Orlin Balliu",
-      "university": "Tirana Business University",
+      "full_name": "klajdi",
+      "university": "Mediterranean University- UMSH",
       "total_points": 50
     },
     {
@@ -196,8 +196,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
+      "full_name": "Semiramis Muho",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 50
     },
     {
@@ -209,7 +209,7 @@
   "universities": [
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 2200,
+      "total_points": 2300,
       "num_users": 4
     },
     {
@@ -263,7 +263,7 @@
       "num_users": 1
     },
     {
-      "university": "UET Maratona",
+      "university": "WBU",
       "total_points": 150,
       "num_users": 2
     },
@@ -273,8 +273,8 @@
       "num_users": 1
     },
     {
-      "university": "WBU",
-      "total_points": 100,
+      "university": "UET Maratona",
+      "total_points": 150,
       "num_users": 2
     },
     {
@@ -347,8 +347,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "abdc887b-65d7-4454-a08c-c70b341f93d2",
@@ -446,6 +456,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -455,6 +469,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Santino Shero",
           "challenge_points_earned": 50
         }
       ]
