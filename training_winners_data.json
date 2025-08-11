@@ -23,7 +23,7 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 200
+      "total_points": 250
     },
     {
       "full_name": "Detjon Mataj",
@@ -194,7 +194,7 @@
     },
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 600,
+      "total_points": 650,
       "num_users": 3
     },
     {
@@ -376,11 +376,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Gesa Comacka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 50
         }
       ]
