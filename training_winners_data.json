@@ -8,7 +8,7 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 1050
+      "total_points": 1100
     },
     {
       "full_name": "Earta Joca",
@@ -209,7 +209,7 @@
   "universities": [
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 2600,
+      "total_points": 2650,
       "num_users": 5
     },
     {
@@ -1002,6 +1002,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -1023,6 +1027,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 50
         }
       ]
