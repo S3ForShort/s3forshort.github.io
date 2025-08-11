@@ -56,6 +56,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Jurgen Mecaj",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 200
+    },
+    {
       "full_name": "Firdeus Dikellari",
       "university": "Canadian Institute of Technology",
       "total_points": 200
@@ -86,11 +91,6 @@
       "total_points": 100
     },
     {
-      "full_name": "Alvi Skita",
-      "university": "UET Maratona",
-      "total_points": 100
-    },
-    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 100
@@ -116,8 +116,8 @@
       "total_points": 100
     },
     {
-      "full_name": "klajdi",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Alvi Skita",
+      "university": "UET Maratona",
       "total_points": 100
     },
     {
@@ -126,7 +126,7 @@
       "total_points": 100
     },
     {
-      "full_name": "Jurgen Mecaj",
+      "full_name": "klajdi",
       "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
@@ -224,7 +224,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 350,
+      "total_points": 450,
       "num_users": 4
     },
     {
@@ -324,11 +324,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Firdeus Dikellari",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 100
         }
       ]
