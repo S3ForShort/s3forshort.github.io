@@ -51,6 +51,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 200
+    },
+    {
       "full_name": "Asim Lecini",
       "university": "Universiteti New York Tirana",
       "total_points": 200
@@ -64,11 +69,6 @@
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 150
-    },
-    {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 100
     },
     {
       "full_name": "Arsi Hoxha",
@@ -101,8 +101,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 100
     },
     {
@@ -111,8 +111,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
     {
@@ -121,8 +121,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
       "total_points": 100
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 450,
+      "total_points": 550,
       "num_users": 3
     },
     {
@@ -1707,8 +1707,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Sibora Grymshi",
+          "challenge_points_earned": 100
+        }
+      ]
     }
   ],
   "difficulty_points": {
