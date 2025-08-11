@@ -8,7 +8,7 @@
     {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
-      "total_points": 1050
+      "total_points": 1150
     },
     {
       "full_name": "Earta Joca",
@@ -209,7 +209,7 @@
   "universities": [
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 2400,
+      "total_points": 2500,
       "num_users": 4
     },
     {
@@ -1571,11 +1571,19 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 100
         }
       ]
