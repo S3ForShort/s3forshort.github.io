@@ -11,13 +11,13 @@
       "total_points": 1100
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 500
-    },
-    {
       "full_name": "Jurgen Mecaj",
       "university": "Mediterranean University- UMSH",
+      "total_points": 800
+    },
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 500
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 750,
+      "total_points": 1050,
       "num_users": 4
     },
     {
@@ -706,11 +706,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 300
         }
       ]
