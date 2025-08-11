@@ -76,9 +76,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
-      "total_points": 100
+      "full_name": "Santino Shero",
+      "university": "WBU",
+      "total_points": 150
     },
     {
       "full_name": "Angjelos Rika",
@@ -96,8 +96,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
+      "full_name": "Redi Capoj",
+      "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 100
     },
     {
@@ -111,13 +111,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Arsi Hoxha",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
       "total_points": 100
     },
     {
@@ -126,8 +126,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Redi Capoj",
-      "university": "Universiteti Ismail Qemali Vlore",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 100
     },
     {
@@ -248,6 +248,11 @@
       "num_users": 1
     },
     {
+      "university": "WBU",
+      "total_points": 200,
+      "num_users": 2
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 200,
       "num_users": 1
@@ -258,7 +263,7 @@
       "num_users": 1
     },
     {
-      "university": "WBU",
+      "university": "UET Maratona",
       "total_points": 150,
       "num_users": 2
     },
@@ -266,11 +271,6 @@
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 150,
       "num_users": 1
-    },
-    {
-      "university": "UET Maratona",
-      "total_points": 150,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Shkodres",
@@ -1157,6 +1157,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -1182,6 +1186,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Santino Shero",
           "challenge_points_earned": 50
         }
       ]
