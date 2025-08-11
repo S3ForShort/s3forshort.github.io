@@ -96,13 +96,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Marsia Habilaj",
-      "university": "Universiteti Ismail Qemali Vlore",
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 100
     },
     {
@@ -116,9 +116,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Marsia Habilaj",
+      "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 100
     },
     {
       "full_name": "Anisa",
@@ -136,8 +136,8 @@
       "total_points": 50
     },
     {
-      "full_name": "klajdi",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -146,13 +146,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
-      "total_points": 50
-    },
-    {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "klajdi",
+      "university": "Mediterranean University- UMSH",
       "total_points": 50
     },
     {
@@ -161,13 +156,18 @@
       "total_points": 50
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 50
     },
     {
       "full_name": "Erona Hoxha",
       "university": "Universiteti i Shkodres",
+      "total_points": 50
+    },
+    {
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -273,7 +273,7 @@
       "num_users": 2
     },
     {
-      "university": "Tirana Business University",
+      "university": "WBU",
       "total_points": 100,
       "num_users": 2
     },
@@ -283,7 +283,12 @@
       "num_users": 1
     },
     {
-      "university": "WBU",
+      "university": "Herman Gmeiner",
+      "total_points": 100,
+      "num_users": 1
+    },
+    {
+      "university": "Tirana Business University",
       "total_points": 100,
       "num_users": 2
     },
@@ -294,11 +299,6 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 50,
-      "num_users": 1
-    },
-    {
-      "university": "Herman Gmeiner",
       "total_points": 50,
       "num_users": 1
     },
@@ -544,6 +544,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -577,6 +581,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
@@ -1636,6 +1644,7 @@
     "5": 1.0,
     "6": 1.0,
     "7": 1.0,
-    "8": 1.0
+    "8": 1.0,
+    "9": 1.0
   }
 }
