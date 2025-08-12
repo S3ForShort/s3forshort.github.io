@@ -23,7 +23,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 550
+      "total_points": 600
     },
     {
       "full_name": "Anisa",
@@ -46,8 +46,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250
     },
     {
@@ -56,14 +56,14 @@
       "total_points": 250
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
     },
     {
-      "full_name": "Savina Shimi",
+      "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
+      "total_points": 250
     },
     {
       "full_name": "Orgito Salla",
@@ -96,19 +96,19 @@
       "total_points": 200
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
-      "total_points": 150
-    },
-    {
       "full_name": "Kristjan Kullolli",
       "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
-      "total_points": 100
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 150
+    },
+    {
+      "full_name": "Santino Shero",
+      "university": "WBU",
+      "total_points": 150
     },
     {
       "full_name": "Redi Capoj",
@@ -116,8 +116,8 @@
       "total_points": 100
     },
     {
-      "full_name": "mnezha@uet.edu.al",
-      "university": "UET Maratona",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -136,6 +136,11 @@
       "total_points": 100
     },
     {
+      "full_name": "mnezha@uet.edu.al",
+      "university": "UET Maratona",
+      "total_points": 100
+    },
+    {
       "full_name": "klajdi",
       "university": "Mediterranean University- UMSH",
       "total_points": 100
@@ -143,11 +148,6 @@
     {
       "full_name": "Luis Mu\u00e7a",
       "university": "Mediterranean University- UMSH",
-      "total_points": 100
-    },
-    {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
       "total_points": 100
     },
     {
@@ -234,12 +234,12 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1350,
+      "total_points": 1400,
       "num_users": 4
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1050,
+      "total_points": 1100,
       "num_users": 4
     },
     {
@@ -288,8 +288,18 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti i Shkodres",
+      "total_points": 150,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti Marlin Barleti",
       "total_points": 150,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 100,
       "num_users": 1
     },
     {
@@ -298,19 +308,9 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti i Shkodres",
-      "total_points": 100,
-      "num_users": 1
-    },
-    {
       "university": "Tirana Business University",
       "total_points": 100,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 100,
-      "num_users": 1
     },
     {
       "university": "42 Coding",
@@ -2279,11 +2279,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Shkodres",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Erona Hoxha",
           "challenge_points_earned": 50
         }
       ]
@@ -2294,8 +2302,26 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 12, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "fbb9c613-1cde-4cf5-bf5d-3e039eb4c0d9",
