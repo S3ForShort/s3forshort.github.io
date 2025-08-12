@@ -31,13 +31,18 @@
       "total_points": 400
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250
     },
     {
       "full_name": "Sibora Grymshi",
       "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 250
+    },
+    {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 250
     },
     {
@@ -48,11 +53,6 @@
     {
       "full_name": "Daniel Kovi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
-    },
-    {
-      "full_name": "Firdeus Dikellari",
-      "university": "Canadian Institute of Technology",
       "total_points": 200
     },
     {
@@ -71,8 +71,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Firdeus Dikellari",
+      "university": "Canadian Institute of Technology",
       "total_points": 200
     },
     {
@@ -243,9 +243,9 @@
       "num_users": 2
     },
     {
-      "university": "UET Maratona",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250,
-      "num_users": 3
+      "num_users": 1
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
@@ -253,7 +253,7 @@
       "num_users": 2
     },
     {
-      "university": "Harry Fultz",
+      "university": "UET Maratona",
       "total_points": 250,
       "num_users": 3
     },
@@ -263,9 +263,9 @@
       "num_users": 1
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 200,
-      "num_users": 1
+      "university": "Harry Fultz",
+      "total_points": 250,
+      "num_users": 3
     },
     {
       "university": "WBU",
@@ -505,6 +505,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -526,6 +530,10 @@
         },
         {
           "full_name": "mnezha@uet.edu.al",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
