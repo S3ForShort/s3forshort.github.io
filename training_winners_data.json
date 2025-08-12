@@ -26,9 +26,9 @@
       "total_points": 400
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 250
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
+      "total_points": 300
     },
     {
       "full_name": "Sibora Grymshi",
@@ -41,8 +41,8 @@
       "total_points": 250
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
     },
     {
@@ -228,6 +228,11 @@
       "num_users": 3
     },
     {
+      "university": "Epoka University",
+      "total_points": 300,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300,
       "num_users": 2
@@ -238,19 +243,14 @@
       "num_users": 1
     },
     {
-      "university": "Harry Fultz",
-      "total_points": 250,
-      "num_users": 3
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 250,
-      "num_users": 1
-    },
-    {
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 250,
       "num_users": 2
+    },
+    {
+      "university": "Harry Fultz",
+      "total_points": 250,
+      "num_users": 3
     },
     {
       "university": "WBU",
@@ -1550,8 +1550,18 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 4, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Epoka University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "26d5e7e5-be7e-40d4-8a58-4bb616a23083",
