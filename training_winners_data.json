@@ -36,6 +36,11 @@
       "total_points": 350
     },
     {
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 350
+    },
+    {
       "full_name": "Sibora Grymshi",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
@@ -49,11 +54,6 @@
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250
-    },
-    {
-      "full_name": "Firdeus Dikellari",
-      "university": "Canadian Institute of Technology",
-      "total_points": 200
     },
     {
       "full_name": "Daniel Kovi",
@@ -81,6 +81,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Firdeus Dikellari",
+      "university": "Canadian Institute of Technology",
+      "total_points": 200
+    },
+    {
       "full_name": "Santino Shero",
       "university": "WBU",
       "total_points": 150
@@ -89,11 +94,6 @@
       "full_name": "Kristjan Kullolli",
       "university": "Universiteti Marlin Barleti",
       "total_points": 150
-    },
-    {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 100
     },
     {
       "full_name": "Alvi Skita",
@@ -121,8 +121,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
@@ -141,14 +141,14 @@
       "total_points": 100
     },
     {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 100
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
-      "total_points": 50
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
+      "total_points": 100
     },
     {
       "full_name": "Blis Thano",
@@ -161,8 +161,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
       "total_points": 50
     },
     {
@@ -238,6 +238,11 @@
       "num_users": 1
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 600,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 600,
       "num_users": 3
@@ -251,11 +256,6 @@
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300,
       "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 300,
-      "num_users": 3
     },
     {
       "university": "UET Maratona",
@@ -402,8 +402,18 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Anisa",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "9891a9b3-17f7-4d27-a54b-3ad863131bee",
