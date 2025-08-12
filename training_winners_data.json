@@ -16,13 +16,13 @@
       "total_points": 1250
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 500
-    },
-    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
+      "total_points": 550
+    },
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 500
     },
     {
@@ -223,14 +223,14 @@
       "num_users": 4
     },
     {
+      "university": "Epoka University",
+      "total_points": 550,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 550,
       "num_users": 3
-    },
-    {
-      "university": "Epoka University",
-      "total_points": 500,
-      "num_users": 1
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -1708,6 +1708,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1729,6 +1733,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
