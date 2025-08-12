@@ -31,13 +31,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 250
-    },
-    {
       "full_name": "Sibora Grymshi",
       "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 300
+    },
+    {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
     },
     {
@@ -46,8 +46,8 @@
       "total_points": 250
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250
     },
     {
@@ -234,7 +234,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 550,
+      "total_points": 600,
       "num_users": 3
     },
     {
@@ -806,8 +806,18 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Sibora Grymshi",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "553d6bc9-857d-4565-b85d-21fff6d588a7",
