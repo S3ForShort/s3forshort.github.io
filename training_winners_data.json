@@ -3,7 +3,7 @@
     {
       "full_name": "Jurgen Mecaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 2950
+      "total_points": 3250
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -219,7 +219,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 3200,
+      "total_points": 3500,
       "num_users": 4
     },
     {
@@ -1350,8 +1350,18 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Jurgen Mecaj",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "39d14849-82ee-4c29-b711-205f14b69e99",
