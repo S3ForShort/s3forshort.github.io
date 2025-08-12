@@ -31,6 +31,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 350
+    },
+    {
       "full_name": "Sibora Grymshi",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
@@ -38,11 +43,6 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 250
-    },
-    {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
       "total_points": 250
     },
     {
@@ -238,14 +238,14 @@
       "num_users": 3
     },
     {
+      "university": "Herman Gmeiner",
+      "total_points": 350,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300,
       "num_users": 2
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 250,
-      "num_users": 1
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
@@ -258,7 +258,7 @@
       "num_users": 3
     },
     {
-      "university": "Herman Gmeiner",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250,
       "num_users": 1
     },
@@ -476,8 +476,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "e3e4dce0-8a23-409e-811d-86bf927d6bbd",
