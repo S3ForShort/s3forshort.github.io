@@ -56,12 +56,12 @@
       "total_points": 250
     },
     {
-      "full_name": "Savina Shimi",
+      "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
+      "total_points": 250
     },
     {
-      "full_name": "Daniel Kovi",
+      "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
@@ -86,7 +86,7 @@
       "total_points": 200
     },
     {
-      "full_name": "Fatbardh Rama",
+      "full_name": "Daniel Kovi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
@@ -239,7 +239,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1000,
+      "total_points": 1050,
       "num_users": 4
     },
     {
@@ -2275,8 +2275,18 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 12, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "dadc17d9-5d62-4fd5-a9ec-0cdff94b0407",
