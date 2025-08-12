@@ -3,7 +3,7 @@
     {
       "full_name": "Jurgen Mecaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 2550
+      "total_points": 2650
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -219,7 +219,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 2800,
+      "total_points": 2900,
       "num_users": 4
     },
     {
@@ -480,11 +480,19 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 100
         }
       ]
