@@ -18,7 +18,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 600
+      "total_points": 650
     },
     {
       "full_name": "Earta Joca",
@@ -224,7 +224,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 600,
+      "total_points": 650,
       "num_users": 1
     },
     {
@@ -624,6 +624,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -661,6 +665,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
@@ -1965,6 +1973,7 @@
     "6": 1.0,
     "7": 1.0,
     "8": 1.0,
-    "9": 1.0
+    "9": 1.0,
+    "10": 1.0
   }
 }
