@@ -28,7 +28,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 300
+      "total_points": 400
     },
     {
       "full_name": "Sibora Grymshi",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 300,
+      "total_points": 400,
       "num_users": 1
     },
     {
@@ -797,8 +797,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Epoka University",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "1e514d35-92cc-4c98-83e2-093c781b7842",
