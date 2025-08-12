@@ -101,11 +101,6 @@
       "total_points": 100
     },
     {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
-      "total_points": 100
-    },
-    {
       "full_name": "Redi Capoj",
       "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 100
@@ -113,6 +108,11 @@
     {
       "full_name": "Orgito Salla",
       "university": "Universiteti i Elbasanit",
+      "total_points": 100
+    },
+    {
+      "full_name": "mnezha@uet.edu.al",
+      "university": "UET Maratona",
       "total_points": 100
     },
     {
@@ -141,9 +141,9 @@
       "total_points": 100
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 100
     },
     {
       "full_name": "Anisa",
@@ -161,8 +161,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -181,8 +181,8 @@
       "total_points": 50
     },
     {
-      "full_name": "mnezha@uet.edu.al",
-      "university": "UET Maratona",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -243,9 +243,9 @@
       "num_users": 2
     },
     {
-      "university": "Herman Gmeiner",
+      "university": "UET Maratona",
       "total_points": 250,
-      "num_users": 1
+      "num_users": 3
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
@@ -258,19 +258,19 @@
       "num_users": 3
     },
     {
-      "university": "WBU",
-      "total_points": 200,
-      "num_users": 2
-    },
-    {
-      "university": "UET Maratona",
-      "total_points": 200,
-      "num_users": 3
+      "university": "Herman Gmeiner",
+      "total_points": 250,
+      "num_users": 1
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 200,
       "num_users": 1
+    },
+    {
+      "university": "WBU",
+      "total_points": 200,
+      "num_users": 2
     },
     {
       "university": "Universiteti Marlin Barleti",
@@ -567,11 +567,19 @@
         {
           "name": "Mediterranean University- UMSH",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Jurgen Mecaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "mnezha@uet.edu.al",
           "challenge_points_earned": 50
         }
       ]
