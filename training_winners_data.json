@@ -16,14 +16,14 @@
       "total_points": 1350
     },
     {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 700
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 650
-    },
-    {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 600
     },
     {
       "full_name": "Anisa",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1400,
+      "total_points": 1500,
       "num_users": 4
     },
     {
@@ -2402,8 +2402,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 12, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "ef0849f5-4c23-43af-8c5a-1802ce9d3a30",
