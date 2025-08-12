@@ -23,7 +23,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 750
+      "total_points": 850
     },
     {
       "full_name": "Anisa",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 750,
+      "total_points": 850,
       "num_users": 1
     },
     {
@@ -2280,11 +2280,19 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
