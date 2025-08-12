@@ -23,7 +23,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Anisa",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1300,
+      "total_points": 1350,
       "num_users": 4
     },
     {
@@ -438,6 +438,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -451,6 +455,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
@@ -2210,6 +2218,132 @@
           "challenge_points_earned": 100
         }
       ]
+    },
+    {
+      "package_id": "ce4e33af-c858-4ee4-bc0c-c0f7f596ed5b",
+      "package_name": "Discover Malware IOCs with Sysinternals",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "3d0576e8-20ff-4559-83d2-5df7dfa1ce9f",
+      "package_name": "Discover Malware IOCs with Windows Utilities",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "b4160e6a-b3b3-4e24-9e35-096c4a911c9d",
+      "package_name": "Docker Fundamentals",
+      "difficulty": "foundational",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "dadc17d9-5d62-4fd5-a9ec-0cdff94b0407",
+      "package_name": "Dynamic Malware Analysis: Linux",
+      "difficulty": "foundational",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "fbb9c613-1cde-4cf5-bf5d-3e039eb4c0d9",
+      "package_name": "Elastic Configuration and Data Ingestion",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "1ac76647-d8f5-494a-9b8c-3ac939c5721a",
+      "package_name": "Encrypted Traffic Forensics: CA and Issuance ",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "89f3b703-13ef-40d5-9253-0bded59a47f4",
+      "package_name": "Encrypted Traffic Forensics: Introduction ",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "b54246d5-baaa-4454-bb2e-bd87be3213eb",
+      "package_name": "Encrypted Traffic Forensics: JA3, JA3S, and Other Tools",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "195cdb1f-eddb-4048-b8bc-6de0d11c2a8d",
+      "package_name": "Endpoint Security with HBSS/ESS",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "beaa07cc-18a8-4dfe-81be-17a45b22258d",
+      "package_name": "Git: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "6a012b7a-7a2b-4557-a648-cd5485dd251d",
+      "package_name": "Host Analyst Exercise: Threat Hunting and Incident Response",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "40c3cd3f-44d8-4ae9-880b-cb500cf922fe",
+      "package_name": "Parsing Network Traffic with Zeek",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "ef0849f5-4c23-43af-8c5a-1802ce9d3a30",
+      "package_name": "PwnKit Defense: Legacy Threat",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "3ad7dac4-5157-487e-ae53-7828b9863bae",
+      "package_name": "Splunk Enterprise Security",
+      "difficulty": "advanced",
+      "passing_threshold": "90",
+      "release_date": "August 12, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
