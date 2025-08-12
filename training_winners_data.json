@@ -18,7 +18,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 800
+      "total_points": 900
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -101,8 +101,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
       "total_points": 150
     },
     {
@@ -111,9 +111,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Redi Capoj",
-      "university": "Universiteti Ismail Qemali Vlore",
-      "total_points": 100
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 150
     },
     {
       "full_name": "Emanuel Dervishi",
@@ -121,8 +121,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Redi Capoj",
+      "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 100
     },
     {
@@ -141,12 +141,12 @@
       "total_points": 100
     },
     {
-      "full_name": "klajdi",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
-      "full_name": "Luis Mu\u00e7a",
+      "full_name": "klajdi",
       "university": "Mediterranean University- UMSH",
       "total_points": 100
     },
@@ -161,13 +161,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 100
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -176,13 +176,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
-      "full_name": "Emluis Komino",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 50
     },
     {
@@ -191,8 +191,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
+      "full_name": "Emluis Komino",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50
     },
     {
@@ -234,7 +234,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1600,
+      "total_points": 1700,
       "num_users": 4
     },
     {
@@ -253,6 +253,11 @@
       "num_users": 3
     },
     {
+      "university": "UET Maratona",
+      "total_points": 350,
+      "num_users": 3
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 350,
       "num_users": 1
@@ -261,11 +266,6 @@
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300,
       "num_users": 2
-    },
-    {
-      "university": "UET Maratona",
-      "total_points": 250,
-      "num_users": 3
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
@@ -2276,8 +2276,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 12, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "UET Maratona",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "b4160e6a-b3b3-4e24-9e35-096c4a911c9d",
@@ -2356,8 +2366,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 12, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Earta Joca",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "89f3b703-13ef-40d5-9253-0bded59a47f4",
