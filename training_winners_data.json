@@ -3,7 +3,7 @@
     {
       "full_name": "Jurgen Mecaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 3250
+      "total_points": 3300
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -86,6 +86,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
+    },
+    {
       "full_name": "Firdeus Dikellari",
       "university": "Canadian Institute of Technology",
       "total_points": 200
@@ -93,11 +98,6 @@
     {
       "full_name": "Santino Shero",
       "university": "WBU",
-      "total_points": 150
-    },
-    {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 150
     },
     {
@@ -223,14 +223,14 @@
   ],
   "universities": [
     {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 3550,
+      "num_users": 4
+    },
+    {
       "university": "Canadian Institute of Technology",
       "total_points": 3500,
       "num_users": 5
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 3500,
-      "num_users": 4
     },
     {
       "university": "Universiteti New York Tirana",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 950,
+      "total_points": 1000,
       "num_users": 4
     },
     {
@@ -676,6 +676,10 @@
         {
           "name": "Fakulteti i Ekonomise",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -685,6 +689,10 @@
         },
         {
           "full_name": "Semiramis Muho",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 50
         }
       ]
@@ -898,11 +906,19 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Sibora Grymshi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 50
         }
       ]
