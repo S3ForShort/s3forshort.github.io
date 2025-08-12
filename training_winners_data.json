@@ -3,7 +3,7 @@
     {
       "full_name": "Jurgen Mecaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 2450
+      "total_points": 2550
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -61,6 +61,11 @@
       "total_points": 200
     },
     {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 200
+    },
+    {
       "full_name": "Asim Lecini",
       "university": "Universiteti New York Tirana",
       "total_points": 200
@@ -73,11 +78,6 @@
     {
       "full_name": "Kristjan Kullolli",
       "university": "Universiteti Marlin Barleti",
-      "total_points": 150
-    },
-    {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 150
     },
     {
@@ -214,7 +214,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 2700,
+      "total_points": 2800,
       "num_users": 4
     },
     {
@@ -253,14 +253,14 @@
       "num_users": 3
     },
     {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 200,
+      "num_users": 1
+    },
+    {
       "university": "WBU",
       "total_points": 200,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti Marlin Barleti",
-      "total_points": 150,
-      "num_users": 1
     },
     {
       "university": "UET Maratona",
@@ -268,7 +268,7 @@
       "num_users": 2
     },
     {
-      "university": "Shkolla Teknike Gjergi Canco",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150,
       "num_users": 1
     },
@@ -910,6 +910,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -943,6 +947,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
@@ -1818,11 +1826,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 100
         }
       ]
