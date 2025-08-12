@@ -26,6 +26,11 @@
       "total_points": 500
     },
     {
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 400
+    },
+    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 400
@@ -33,11 +38,6 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 350
-    },
-    {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 350
     },
     {
@@ -233,14 +233,14 @@
       "num_users": 4
     },
     {
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 650,
+      "num_users": 3
+    },
+    {
       "university": "Epoka University",
       "total_points": 650,
       "num_users": 1
-    },
-    {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 600,
-      "num_users": 3
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -1501,11 +1501,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anisa",
           "challenge_points_earned": 50
         }
       ]
