@@ -41,18 +41,18 @@
       "total_points": 350
     },
     {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 350
+    },
+    {
       "full_name": "Sibora Grymshi",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
     },
     {
-      "full_name": "Savina Shimi",
+      "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 250
-    },
-    {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250
     },
     {
@@ -61,8 +61,8 @@
       "total_points": 250
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 250
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1100,
+      "total_points": 1200,
       "num_users": 4
     },
     {
@@ -2257,8 +2257,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 12, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "3d0576e8-20ff-4559-83d2-5df7dfa1ce9f",
