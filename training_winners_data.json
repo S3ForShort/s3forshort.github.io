@@ -23,7 +23,7 @@
     {
       "full_name": "Anisa",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 600
+      "total_points": 650
     },
     {
       "full_name": "Artea Myftiu",
@@ -224,7 +224,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1500,
+      "total_points": 1550,
       "num_users": 4
     },
     {
@@ -1360,6 +1360,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -1389,6 +1393,10 @@
         },
         {
           "full_name": "Santino Shero",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anisa",
           "challenge_points_earned": 50
         }
       ]
