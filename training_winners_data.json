@@ -28,7 +28,7 @@
     {
       "full_name": "Anisa",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 650
+      "total_points": 750
     },
     {
       "full_name": "Savina Shimi",
@@ -219,7 +219,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2200,
+      "total_points": 2300,
       "num_users": 4
     },
     {
@@ -1190,11 +1190,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anisa",
           "challenge_points_earned": 100
         }
       ]
