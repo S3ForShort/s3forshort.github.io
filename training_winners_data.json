@@ -21,12 +21,12 @@
       "total_points": 850
     },
     {
-      "full_name": "Anisa",
+      "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 650
+      "total_points": 700
     },
     {
-      "full_name": "Fatbardh Rama",
+      "full_name": "Anisa",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 650
     },
@@ -219,7 +219,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1850,
+      "total_points": 1900,
       "num_users": 4
     },
     {
@@ -618,6 +618,10 @@
         {
           "name": "Fakulteti i Ekonomise",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -627,6 +631,10 @@
         },
         {
           "full_name": "Semiramis Muho",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 50
         }
       ]
