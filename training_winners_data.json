@@ -33,7 +33,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 600
+      "total_points": 700
     },
     {
       "full_name": "Artea Myftiu",
@@ -219,7 +219,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2550,
+      "total_points": 2650,
       "num_users": 4
     },
     {
@@ -2173,8 +2173,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "471de8fd-875a-47a1-8857-efc1c433d617",
