@@ -146,8 +146,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Metion Hoxhalli",
+      "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
@@ -156,13 +156,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
-      "total_points": 50
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
+      "total_points": 100
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -171,8 +171,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -186,8 +186,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Metion Hoxhalli",
-      "university": "Universiteti i Korces",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 50
     },
     {
@@ -288,7 +288,7 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti i Shkodres",
+      "university": "Universiteti i Korces",
       "total_points": 100,
       "num_users": 1
     },
@@ -296,6 +296,11 @@
       "university": "Tirana Business University",
       "total_points": 100,
       "num_users": 2
+    },
+    {
+      "university": "Universiteti i Shkodres",
+      "total_points": 100,
+      "num_users": 1
     },
     {
       "university": "Universiteti Ismail Qemali Vlore",
@@ -309,11 +314,6 @@
     },
     {
       "university": "UAMD 2",
-      "total_points": 50,
-      "num_users": 1
-    },
-    {
-      "university": "Universiteti i Korces",
       "total_points": 50,
       "num_users": 1
     }
@@ -1659,6 +1659,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -1680,6 +1684,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Metion Hoxhalli",
           "challenge_points_earned": 50
         }
       ]
