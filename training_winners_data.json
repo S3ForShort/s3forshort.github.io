@@ -16,14 +16,14 @@
       "total_points": 1000
     },
     {
-      "full_name": "Fatbardh Rama",
+      "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 900
     },
     {
-      "full_name": "Anisa",
+      "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 850
+      "total_points": 900
     },
     {
       "full_name": "Earta Joca",
@@ -31,9 +31,9 @@
       "total_points": 850
     },
     {
-      "full_name": "Savina Shimi",
+      "full_name": "Anisa",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 800
+      "total_points": 850
     },
     {
       "full_name": "Artea Myftiu",
@@ -219,7 +219,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2750,
+      "total_points": 2850,
       "num_users": 4
     },
     {
@@ -905,11 +905,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Luka Allkoja ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Savina Shimi",
           "challenge_points_earned": 100
         }
       ]
