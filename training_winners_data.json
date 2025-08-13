@@ -3,7 +3,7 @@
     {
       "full_name": "Jurgen Mecaj",
       "university": "Mediterranean University- UMSH",
-      "total_points": 3600
+      "total_points": 3700
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Mediterranean University- UMSH",
-      "total_points": 3850,
+      "total_points": 3950,
       "num_users": 4
     },
     {
@@ -1585,6 +1585,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Mediterranean University- UMSH",
+          "users": 1
         }
       ],
       "users": [
@@ -1594,6 +1598,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Jurgen Mecaj",
           "challenge_points_earned": 100
         }
       ]
