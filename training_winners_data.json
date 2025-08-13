@@ -41,13 +41,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 350
-    },
-    {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
+      "total_points": 400
+    },
+    {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
       "total_points": 350
     },
     {
@@ -233,13 +233,13 @@
       "num_users": 1
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
+      "university": "UET Maratona",
       "total_points": 600,
       "num_users": 3
     },
     {
-      "university": "UET Maratona",
-      "total_points": 550,
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 600,
       "num_users": 3
     },
     {
@@ -2023,6 +2023,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -2048,6 +2052,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 50
         }
       ]
