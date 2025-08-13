@@ -56,14 +56,14 @@
       "total_points": 300
     },
     {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
       "total_points": 250
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 200
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 250
     },
     {
       "full_name": "Orgito Salla",
@@ -71,8 +71,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 200
     },
     {
@@ -91,9 +91,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 150
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 200
     },
     {
       "full_name": "Santino Shero",
@@ -101,13 +101,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 150
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 350,
+      "total_points": 450,
       "num_users": 3
     },
     {
@@ -360,6 +360,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
@@ -369,6 +373,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 100
         }
       ]
