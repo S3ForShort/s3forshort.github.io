@@ -21,6 +21,11 @@
       "total_points": 1000
     },
     {
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 950
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 900
@@ -28,11 +33,6 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 850
-    },
-    {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 850
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3050,
+      "total_points": 3150,
       "num_users": 4
     },
     {
@@ -918,11 +918,19 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anisa",
           "challenge_points_earned": 100
         }
       ]
