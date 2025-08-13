@@ -28,7 +28,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 550
+      "total_points": 600
     },
     {
       "full_name": "Artea Myftiu",
@@ -219,7 +219,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1750,
+      "total_points": 1800,
       "num_users": 4
     },
     {
@@ -1209,6 +1209,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -1238,6 +1242,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 50
         }
       ]
