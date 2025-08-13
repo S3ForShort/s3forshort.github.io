@@ -36,8 +36,8 @@
       "total_points": 850
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
@@ -46,18 +46,23 @@
       "total_points": 400
     },
     {
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
+      "total_points": 400
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 350
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 300
     },
     {
@@ -66,8 +71,8 @@
       "total_points": 250
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
       "total_points": 200
     },
     {
@@ -76,18 +81,13 @@
       "total_points": 200
     },
     {
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
+      "total_points": 200
+    },
+    {
       "full_name": "Firdeus Dikellari",
       "university": "Canadian Institute of Technology",
-      "total_points": 200
-    },
-    {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 200
     },
     {
@@ -96,13 +96,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
-      "total_points": 150
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 200
     },
     {
       "full_name": "Santino Shero",
       "university": "WBU",
+      "total_points": 150
+    },
+    {
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
@@ -113,11 +118,6 @@
     {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
-      "total_points": 100
-    },
-    {
-      "full_name": "Redi Capoj",
-      "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 100
     },
     {
@@ -146,8 +146,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Redi Capoj",
+      "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 100
     },
     {
@@ -219,7 +219,7 @@
   "universities": [
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 4450,
+      "total_points": 4750,
       "num_users": 5
     },
     {
@@ -392,8 +392,18 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Bamir Sina",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "266bc97b-a735-49b9-a537-fc06c205a295",
