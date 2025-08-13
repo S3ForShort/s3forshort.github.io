@@ -16,14 +16,14 @@
       "total_points": 1100
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1000
     },
     {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 950
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
+      "total_points": 1000
     },
     {
       "full_name": "Savina Shimi",
@@ -224,7 +224,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3150,
+      "total_points": 3200,
       "num_users": 4
     },
     {
@@ -750,6 +750,10 @@
         {
           "name": "Universiteti i Elbasanit",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -795,6 +799,10 @@
         },
         {
           "full_name": "Orgito Salla",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anisa",
           "challenge_points_earned": 50
         }
       ]
@@ -2609,6 +2617,7 @@
     "8": 1.0,
     "9": 1.0,
     "10": 1.0,
-    "11": 1.0
+    "11": 1.0,
+    "12": 1.0
   }
 }
