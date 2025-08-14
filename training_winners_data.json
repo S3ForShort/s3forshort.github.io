@@ -36,6 +36,11 @@
       "total_points": 950
     },
     {
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
+      "total_points": 700
+    },
+    {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 600
@@ -43,11 +48,6 @@
     {
       "full_name": "Bamir Sina",
       "university": "Canadian Institute of Technology",
-      "total_points": 400
-    },
-    {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
       "total_points": 400
     },
     {
@@ -238,13 +238,13 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 750,
+      "university": "UET Maratona",
+      "total_points": 900,
       "num_users": 3
     },
     {
-      "university": "UET Maratona",
-      "total_points": 600,
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 750,
       "num_users": 3
     },
     {
@@ -2275,11 +2275,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 300
         }
       ]
