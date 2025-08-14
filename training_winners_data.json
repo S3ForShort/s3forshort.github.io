@@ -36,13 +36,13 @@
       "total_points": 850
     },
     {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
-      "total_points": 400
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 600
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
@@ -51,14 +51,14 @@
       "total_points": 400
     },
     {
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 400
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 350
-    },
-    {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 300
     },
     {
       "full_name": "Tergita Sulaj",
@@ -66,8 +66,8 @@
       "total_points": 300
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
     },
     {
@@ -248,6 +248,11 @@
       "num_users": 3
     },
     {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 600,
+      "num_users": 1
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 350,
       "num_users": 1
@@ -256,11 +261,6 @@
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300,
       "num_users": 2
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 300,
-      "num_users": 1
     },
     {
       "university": "Harry Fultz",
@@ -843,11 +843,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 300
         }
       ]
