@@ -16,6 +16,11 @@
       "total_points": 1400
     },
     {
+      "full_name": "Savina Shimi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1200
+    },
+    {
       "full_name": "Anisa",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1150
@@ -29,11 +34,6 @@
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 950
-    },
-    {
-      "full_name": "Savina Shimi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 900
     },
     {
       "full_name": "Ersi Dedaj",
@@ -224,7 +224,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3650,
+      "total_points": 3950,
       "num_users": 4
     },
     {
@@ -2263,8 +2263,18 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 5, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "20ba5a39-f3c7-46c6-ae8e-84f272c52e4d",
