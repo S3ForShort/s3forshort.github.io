@@ -38,7 +38,7 @@
     {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
-      "total_points": 700
+      "total_points": 800
     },
     {
       "full_name": "Ersi Dedaj",
@@ -239,7 +239,7 @@
     },
     {
       "university": "UET Maratona",
-      "total_points": 900,
+      "total_points": 1000,
       "num_users": 3
     },
     {
@@ -2651,11 +2651,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "UET Maratona",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ira Haxhiu",
           "challenge_points_earned": 100
         }
       ]
