@@ -61,14 +61,14 @@
       "total_points": 300
     },
     {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
+      "full_name": "Tergita Sulaj",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
     },
     {
-      "full_name": "Tergita Sulaj",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 250
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 300
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 650,
+      "total_points": 700,
       "num_users": 3
     },
     {
@@ -1702,6 +1702,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1715,6 +1719,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
