@@ -3,7 +3,7 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 2200
+      "total_points": 2250
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -219,7 +219,7 @@
   "universities": [
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 4900,
+      "total_points": 4950,
       "num_users": 5
     },
     {
@@ -1480,6 +1480,10 @@
         {
           "name": "Fakulteti i Ekonomise",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
@@ -1489,6 +1493,10 @@
         },
         {
           "full_name": "Nadia Kola",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Abdurrahman Seitaj",
           "challenge_points_earned": 50
         }
       ]
