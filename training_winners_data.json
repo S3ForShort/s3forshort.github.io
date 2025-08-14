@@ -18,7 +18,7 @@
     {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1200
+      "total_points": 1300
     },
     {
       "full_name": "Anisa",
@@ -224,7 +224,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 3950,
+      "total_points": 4050,
       "num_users": 4
     },
     {
@@ -2631,8 +2631,18 @@
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "August 12, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        }
+      ]
     },
     {
       "package_id": "195cdb1f-eddb-4048-b8bc-6de0d11c2a8d",
