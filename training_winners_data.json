@@ -28,7 +28,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 1050
+      "total_points": 1100
     },
     {
       "full_name": "Earta Joca",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 1150,
+      "total_points": 1200,
       "num_users": 2
     },
     {
@@ -2770,6 +2770,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -2779,6 +2783,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
