@@ -48,7 +48,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 400
+      "total_points": 450
     },
     {
       "full_name": "Artea Myftiu",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 800,
+      "total_points": 850,
       "num_users": 3
     },
     {
@@ -1264,6 +1264,10 @@
         {
           "name": "42 Coding",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1281,6 +1285,10 @@
         },
         {
           "full_name": "Wendi Eva Sallabanda ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
