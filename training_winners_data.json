@@ -121,8 +121,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
@@ -136,8 +136,8 @@
       "total_points": 100
     },
     {
-      "full_name": "mnezha@uet.edu.al",
-      "university": "UET Maratona",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -156,8 +156,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Metion Hoxhalli",
-      "university": "Universiteti i Korces",
+      "full_name": "mnezha@uet.edu.al",
+      "university": "UET Maratona",
       "total_points": 100
     },
     {
@@ -166,13 +166,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
-      "total_points": 50
+      "full_name": "Metion Hoxhalli",
+      "university": "Universiteti i Korces",
+      "total_points": 100
     },
     {
-      "full_name": "Gerald Leba",
-      "university": "UAMD 2",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -181,8 +181,8 @@
       "total_points": 50
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Gerald Leba",
+      "university": "UAMD 2",
       "total_points": 50
     },
     {
@@ -196,8 +196,18 @@
       "total_points": 50
     },
     {
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
+      "total_points": 50
+    },
+    {
       "full_name": "Nadia Kola",
       "university": "Fakulteti i Ekonomise",
+      "total_points": 50
+    },
+    {
+      "full_name": "Skendri Peza",
+      "university": "Mediterranean University- UMSH",
       "total_points": 50
     },
     {
@@ -208,16 +218,6 @@
     {
       "full_name": "Wendi Eva Sallabanda ",
       "university": "42 Coding",
-      "total_points": 50
-    },
-    {
-      "full_name": "Skendri Peza",
-      "university": "Mediterranean University- UMSH",
-      "total_points": 50
-    },
-    {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
       "total_points": 50
     }
   ],
@@ -289,7 +289,7 @@
     },
     {
       "university": "Universiteti i Korces",
-      "total_points": 150,
+      "total_points": 200,
       "num_users": 2
     },
     {
@@ -2742,11 +2742,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 50
         }
       ]
