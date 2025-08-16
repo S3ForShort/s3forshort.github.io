@@ -23,7 +23,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 1150
+      "total_points": 1200
     },
     {
       "full_name": "Anisa",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 1250,
+      "total_points": 1300,
       "num_users": 2
     },
     {
@@ -1124,6 +1124,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1141,6 +1145,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
