@@ -48,7 +48,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Artea Myftiu",
@@ -249,7 +249,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 900,
+      "total_points": 950,
       "num_users": 3
     },
     {
@@ -609,6 +609,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -638,6 +642,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
