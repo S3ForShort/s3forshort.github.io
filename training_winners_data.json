@@ -18,7 +18,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 1400
+      "total_points": 1450
     },
     {
       "full_name": "Savina Shimi",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 1500,
+      "total_points": 1550,
       "num_users": 2
     },
     {
@@ -1577,6 +1577,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -1590,6 +1594,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
