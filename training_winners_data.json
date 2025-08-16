@@ -13,7 +13,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1400
+      "total_points": 1450
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -229,7 +229,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4050,
+      "total_points": 4100,
       "num_users": 4
     },
     {
@@ -2858,6 +2858,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -2875,6 +2879,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 50
         }
       ]
