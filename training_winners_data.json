@@ -51,6 +51,11 @@
       "total_points": 550
     },
     {
+      "full_name": "Enxhi Kala",
+      "university": "Herman Gmeiner",
+      "total_points": 450
+    },
+    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 400
@@ -59,11 +64,6 @@
       "full_name": "Bamir Sina",
       "university": "Canadian Institute of Technology",
       "total_points": 400
-    },
-    {
-      "full_name": "Enxhi Kala",
-      "university": "Herman Gmeiner",
-      "total_points": 350
     },
     {
       "full_name": "Sibora Grymshi",
@@ -259,7 +259,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 350,
+      "total_points": 450,
       "num_users": 1
     },
     {
@@ -3001,6 +3001,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -3018,6 +3022,10 @@
         },
         {
           "full_name": "Anisa",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 100
         }
       ]
