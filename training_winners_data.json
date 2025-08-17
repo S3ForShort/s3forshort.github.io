@@ -33,7 +33,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1050
+      "total_points": 1100
     },
     {
       "full_name": "Ira Haxhiu",
@@ -234,7 +234,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1850,
+      "total_points": 1900,
       "num_users": 4
     },
     {
@@ -2059,6 +2059,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -2084,6 +2088,10 @@
         },
         {
           "full_name": "Metion Hoxhalli",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
