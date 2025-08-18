@@ -11,13 +11,13 @@
       "total_points": 2200
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
-      "total_points": 1450
-    },
-    {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1500
+    },
+    {
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 1450
     },
     {
@@ -76,6 +76,11 @@
       "total_points": 300
     },
     {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 250
+    },
+    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 250
@@ -86,13 +91,8 @@
       "total_points": 250
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 200
-    },
-    {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Firdeus Dikellari",
+      "university": "Canadian Institute of Technology",
       "total_points": 200
     },
     {
@@ -101,8 +101,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Firdeus Dikellari",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 200
     },
     {
@@ -146,8 +146,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
       "total_points": 100
     },
     {
@@ -156,8 +156,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 100
     },
     {
@@ -176,14 +176,14 @@
       "total_points": 100
     },
     {
-      "full_name": "mnezha@uet.edu.al",
-      "university": "UET Maratona",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 100
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
-      "total_points": 50
+      "full_name": "mnezha@uet.edu.al",
+      "university": "UET Maratona",
+      "total_points": 100
     },
     {
       "full_name": "Blis Thano",
@@ -201,13 +201,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Emluis Komino",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50
     },
     {
-      "full_name": "Emluis Komino",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 50
     },
     {
@@ -239,12 +239,12 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4100,
+      "total_points": 4150,
       "num_users": 4
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2250,
+      "total_points": 2300,
       "num_users": 5
     },
     {
@@ -283,18 +283,8 @@
       "num_users": 3
     },
     {
-      "university": "Fakulteti i Ekonomise",
-      "total_points": 200,
-      "num_users": 3
-    },
-    {
-      "university": "Universiteti i Shkodres",
-      "total_points": 200,
-      "num_users": 1
-    },
-    {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 200,
+      "university": "WBU",
+      "total_points": 250,
       "num_users": 2
     },
     {
@@ -303,9 +293,19 @@
       "num_users": 2
     },
     {
-      "university": "WBU",
+      "university": "Fakulteti i Ekonomise",
+      "total_points": 200,
+      "num_users": 3
+    },
+    {
+      "university": "Mediterranean University- UMSH",
       "total_points": 200,
       "num_users": 2
+    },
+    {
+      "university": "Universiteti i Shkodres",
+      "total_points": 200,
+      "num_users": 1
     },
     {
       "university": "Universiteti i Elbasanit",
@@ -3109,6 +3109,14 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -3122,6 +3130,14 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Kokoneshi",
           "challenge_points_earned": 50
         }
       ]
@@ -3150,8 +3166,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Gesa Comacka",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "17b5bbc8-d0aa-4337-b28d-3de9896fbb71",
