@@ -56,14 +56,19 @@
       "total_points": 450
     },
     {
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
+      "total_points": 400
+    },
+    {
       "full_name": "Bamir Sina",
       "university": "Canadian Institute of Technology",
       "total_points": 400
     },
     {
-      "full_name": "Artea Myftiu",
+      "full_name": "Albina Doku",
       "university": "Universiteti New York Tirana",
-      "total_points": 400
+      "total_points": 300
     },
     {
       "full_name": "Sibora Grymshi",
@@ -71,9 +76,9 @@
       "total_points": 300
     },
     {
-      "full_name": "Albina Doku",
+      "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
-      "total_points": 300
+      "total_points": 250
     },
     {
       "full_name": "Asim Lecini",
@@ -86,23 +91,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 250
-    },
-    {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 200
-    },
-    {
       "full_name": "Orgito Salla",
       "university": "Universiteti i Elbasanit",
       "total_points": 200
     },
     {
-      "full_name": "Firdeus Dikellari",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 200
     },
     {
@@ -111,18 +106,23 @@
       "total_points": 200
     },
     {
+      "full_name": "Firdeus Dikellari",
+      "university": "Canadian Institute of Technology",
+      "total_points": 200
+    },
+    {
       "full_name": "Daniel Kovi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Santino Shero",
+      "university": "WBU",
       "total_points": 150
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 150
     },
     {
@@ -133,6 +133,11 @@
     {
       "full_name": "Ziko Muca",
       "university": "Epoka University",
+      "total_points": 100
+    },
+    {
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
@@ -151,13 +156,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
+      "full_name": "Metion Hoxhalli",
+      "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
@@ -176,11 +181,6 @@
       "total_points": 100
     },
     {
-      "full_name": "Metion Hoxhalli",
-      "university": "Universiteti i Korces",
-      "total_points": 100
-    },
-    {
       "full_name": "mnezha@uet.edu.al",
       "university": "UET Maratona",
       "total_points": 100
@@ -191,13 +191,18 @@
       "total_points": 50
     },
     {
-      "full_name": "Blis Thano",
+      "full_name": "Gerald Leba",
+      "university": "UAMD 2",
+      "total_points": 50
+    },
+    {
+      "full_name": "Kujtim Alimehmeti",
       "university": "Harry Fultz",
       "total_points": 50
     },
     {
-      "full_name": "Gerald Leba",
-      "university": "UAMD 2",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -283,14 +288,14 @@
       "num_users": 3
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 300,
+      "num_users": 4
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300,
       "num_users": 2
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 250,
-      "num_users": 3
     },
     {
       "university": "WBU",
@@ -786,6 +791,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -811,6 +820,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kujtim Alimehmeti",
           "challenge_points_earned": 50
         }
       ]
