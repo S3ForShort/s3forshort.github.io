@@ -48,7 +48,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 600
+      "total_points": 650
     },
     {
       "full_name": "Enxhi Kala",
@@ -116,8 +116,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 150
     },
     {
@@ -126,13 +126,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Ziko Muca",
-      "university": "Epoka University",
-      "total_points": 100
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
+      "total_points": 150
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
+      "full_name": "Ziko Muca",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -156,13 +156,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Emanuel Dervishi",
+      "university": "Harry Fultz",
       "total_points": 100
     },
     {
-      "full_name": "Emanuel Dervishi",
-      "university": "Harry Fultz",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
@@ -253,12 +253,12 @@
       "num_users": 2
     },
     {
-      "university": "UET Maratona",
-      "total_points": 1000,
+      "university": "Universiteti Bujqesor i Tiranes",
+      "total_points": 1050,
       "num_users": 3
     },
     {
-      "university": "Universiteti Bujqesor i Tiranes",
+      "university": "UET Maratona",
       "total_points": 1000,
       "num_users": 3
     },
@@ -283,6 +283,11 @@
       "num_users": 3
     },
     {
+      "university": "Fakulteti i Ekonomise",
+      "total_points": 250,
+      "num_users": 3
+    },
+    {
       "university": "WBU",
       "total_points": 250,
       "num_users": 2
@@ -291,11 +296,6 @@
       "university": "Universiteti i Korces",
       "total_points": 200,
       "num_users": 2
-    },
-    {
-      "university": "Fakulteti i Ekonomise",
-      "total_points": 200,
-      "num_users": 3
     },
     {
       "university": "Mediterranean University- UMSH",
@@ -2379,6 +2379,10 @@
         {
           "name": "UET Maratona",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Ekonomise",
+          "users": 1
         }
       ],
       "users": [
@@ -2408,6 +2412,10 @@
         },
         {
           "full_name": "Ira Haxhiu",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Megea Vogli",
           "challenge_points_earned": 50
         }
       ]
@@ -3248,6 +3256,10 @@
         {
           "name": "Universiteti i Shkodres",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -3257,6 +3269,10 @@
         },
         {
           "full_name": "Erona Hoxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
