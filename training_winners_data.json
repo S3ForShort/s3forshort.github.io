@@ -3090,9 +3090,109 @@
       "release_date": "August 12, 2025, 12:00 AM",
       "universities": [],
       "users": []
+    },
+    {
+      "package_id": "4e4717ad-b4c2-4d12-ab78-6643e16f1df7",
+      "package_name": "Kibana: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "097f2b8f-4c38-4ee7-a2fe-6f8199851d08",
+      "package_name": "Linux Terminal Analysis: Linux Machine",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "4e2d2030-759f-4026-ba38-b18445b3f2a1",
+      "package_name": "Log Analysis: Web Server Attack Type 1",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "17b5bbc8-d0aa-4337-b28d-3de9896fbb71",
+      "package_name": "Modifying Zeek Scripts",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "2b26fadd-314f-4f1a-a472-8ada2e588785",
+      "package_name": "Network Analyst Exercise: Network Threat Hunting",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "3007b438-57a4-4374-8339-ada763e4c485",
+      "package_name": "Network Analyst Walkthrough: ASCII and JSON Logging",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "3fb0cd37-dba5-4f14-8baa-031e270bac4d",
+      "package_name": "Network Analyst Walkthrough: Modifying Zeek Scripts",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "33eebf6a-3e3b-4f4e-8960-4af1e0816f34",
+      "package_name": "Network Analyst Walkthrough: Packet Capture and Analysis",
+      "difficulty": "intermediate",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "8b03852f-5498-4347-b1c2-a1a304423098",
+      "package_name": "Operational Security 101",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "72a3dca7-1e7b-4d42-b879-a61f79fa7e6a",
+      "package_name": "ProxyLogon Defense: Legacy Threat",
+      "difficulty": "advanced",
+      "passing_threshold": "75",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "86bdca89-a65a-4b14-bf5c-e4acd623453f",
+      "package_name": "",
+      "difficulty": "",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
+    "": 0,
     "advanced": 300,
     "foundational": 50,
     "intermediate": 100
