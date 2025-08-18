@@ -28,7 +28,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1200
+      "total_points": 1250
     },
     {
       "full_name": "Anisa",
@@ -254,7 +254,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2400,
+      "total_points": 2450,
       "num_users": 5
     },
     {
@@ -2446,6 +2446,10 @@
         {
           "name": "Fakulteti i Ekonomise",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -2479,6 +2483,10 @@
         },
         {
           "full_name": "Megea Vogli",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 50
         }
       ]
