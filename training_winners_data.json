@@ -13,7 +13,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1650
+      "total_points": 1700
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -239,7 +239,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4400,
+      "total_points": 4450,
       "num_users": 4
     },
     {
@@ -3191,8 +3191,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "4e2d2030-759f-4026-ba38-b18445b3f2a1",
