@@ -111,18 +111,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
-      "total_points": 150
-    },
-    {
       "full_name": "Megea Vogli",
       "university": "Fakulteti i Ekonomise",
-      "total_points": 150
+      "total_points": 200
     },
     {
       "full_name": "Santino Shero",
       "university": "WBU",
+      "total_points": 150
+    },
+    {
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
@@ -273,17 +273,17 @@
       "num_users": 1
     },
     {
+      "university": "Fakulteti i Ekonomise",
+      "total_points": 300,
+      "num_users": 3
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 300,
       "num_users": 2
     },
     {
       "university": "Harry Fultz",
-      "total_points": 250,
-      "num_users": 3
-    },
-    {
-      "university": "Fakulteti i Ekonomise",
       "total_points": 250,
       "num_users": 3
     },
@@ -2320,6 +2320,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Ekonomise",
+          "users": 1
         }
       ],
       "users": [
@@ -2341,6 +2345,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Megea Vogli",
           "challenge_points_earned": 50
         }
       ]
