@@ -38,7 +38,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 800
+      "total_points": 850
     },
     {
       "full_name": "Ira Haxhiu",
@@ -264,7 +264,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 800,
+      "total_points": 850,
       "num_users": 1
     },
     {
@@ -772,6 +772,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -793,6 +797,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
