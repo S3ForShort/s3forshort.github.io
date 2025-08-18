@@ -3092,15 +3092,6 @@
       "users": []
     },
     {
-      "package_id": "53d814a2-e308-41fa-975f-241c5e24eeaa",
-      "package_name": "Follina Defense: Legacy Threat",
-      "difficulty": "intermediate",
-      "passing_threshold": "75",
-      "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
-    },
-    {
       "package_id": "4e4717ad-b4c2-4d12-ab78-6643e16f1df7",
       "package_name": "Kibana: Introduction",
       "difficulty": "foundational",
@@ -3194,15 +3185,6 @@
       "package_id": "72a3dca7-1e7b-4d42-b879-a61f79fa7e6a",
       "package_name": "ProxyLogon Defense: Legacy Threat",
       "difficulty": "advanced",
-      "passing_threshold": "75",
-      "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
-    },
-    {
-      "package_id": "9a57764d-f65a-4ec7-a10f-65420e43c0bb",
-      "package_name": "Zerologon: Legacy Threat",
-      "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 18, 2025, 12:00 AM",
       "universities": [],
