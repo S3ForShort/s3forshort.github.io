@@ -26,14 +26,14 @@
       "total_points": 1300
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 1150
-    },
-    {
       "full_name": "Anisa",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1150
+    },
+    {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 1100
     },
     {
       "full_name": "Ersi Dedaj",
@@ -244,7 +244,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2250,
+      "total_points": 2200,
       "num_users": 5
     },
     {
@@ -1649,7 +1649,7 @@
     {
       "package_id": "59f88e79-ae75-4db0-946a-7cb689c05824",
       "package_name": "SIEM Challenge: Lone Shark",
-      "difficulty": "advanced",
+      "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
       "universities": [],
@@ -1658,7 +1658,7 @@
     {
       "package_id": "d3e26dce-1c37-4f1f-b866-55f8df8ff0bc",
       "package_name": "SIEM Fundamentals Challenge: Little Lone Shark",
-      "difficulty": "intermediate",
+      "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
       "universities": [
@@ -1670,7 +1670,7 @@
       "users": [
         {
           "full_name": "Earta Joca",
-          "challenge_points_earned": 100
+          "challenge_points_earned": 50
         }
       ]
     },
@@ -2814,7 +2814,7 @@
     },
     {
       "package_id": "1ac76647-d8f5-494a-9b8c-3ac939c5721a",
-      "package_name": "Encrypted Traffic Forensics: CA and Issuance ",
+      "package_name": "Encrypted Traffic Forensics: CA and Issuance",
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "August 12, 2025, 12:00 AM",
@@ -2849,7 +2849,7 @@
     },
     {
       "package_id": "89f3b703-13ef-40d5-9253-0bded59a47f4",
-      "package_name": "Encrypted Traffic Forensics: Introduction ",
+      "package_name": "Encrypted Traffic Forensics: Introduction",
       "difficulty": "intermediate",
       "passing_threshold": "90",
       "release_date": "August 12, 2025, 12:00 AM",
@@ -3092,8 +3092,26 @@
       "users": []
     },
     {
+      "package_id": "53d814a2-e308-41fa-975f-241c5e24eeaa",
+      "package_name": "Follina Defense: Legacy Threat",
+      "difficulty": "intermediate",
+      "passing_threshold": "75",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
       "package_id": "4e4717ad-b4c2-4d12-ab78-6643e16f1df7",
       "package_name": "Kibana: Introduction",
+      "difficulty": "foundational",
+      "passing_threshold": "90",
+      "release_date": "August 18, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "86bdca89-a65a-4b14-bf5c-e4acd623453f",
+      "package_name": "Linux Server Analysis: Compromised Linux Server",
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "August 18, 2025, 12:00 AM",
@@ -3182,17 +3200,16 @@
       "users": []
     },
     {
-      "package_id": "86bdca89-a65a-4b14-bf5c-e4acd623453f",
-      "package_name": "",
-      "difficulty": "",
-      "passing_threshold": "90",
+      "package_id": "9a57764d-f65a-4ec7-a10f-65420e43c0bb",
+      "package_name": "Zerologon: Legacy Threat",
+      "difficulty": "foundational",
+      "passing_threshold": "75",
       "release_date": "August 18, 2025, 12:00 AM",
       "universities": [],
       "users": []
     }
   ],
   "difficulty_points": {
-    "": 0,
     "advanced": 300,
     "foundational": 50,
     "intermediate": 100
