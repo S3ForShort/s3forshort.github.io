@@ -8,7 +8,7 @@
     {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
-      "total_points": 2300
+      "total_points": 2400
     },
     {
       "full_name": "Fatbardh Rama",
@@ -244,7 +244,7 @@
   "universities": [
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 5900,
+      "total_points": 6000,
       "num_users": 5
     },
     {
@@ -3348,11 +3348,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Marvin Rexhepagaj ",
           "challenge_points_earned": 100
         }
       ]
