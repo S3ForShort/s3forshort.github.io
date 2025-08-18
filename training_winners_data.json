@@ -11,13 +11,13 @@
       "total_points": 2200
     },
     {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Anjeza Kanxha",
+      "university": "Epoka University",
       "total_points": 1450
     },
     {
-      "full_name": "Anjeza Kanxha",
-      "university": "Epoka University",
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1450
     },
     {
@@ -26,13 +26,13 @@
       "total_points": 1300
     },
     {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Anisa",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1150
     },
     {
-      "full_name": "Anisa",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
       "total_points": 1150
     },
     {
@@ -56,14 +56,19 @@
       "total_points": 450
     },
     {
+      "full_name": "Bamir Sina",
+      "university": "Canadian Institute of Technology",
+      "total_points": 400
+    },
+    {
       "full_name": "Artea Myftiu",
       "university": "Universiteti New York Tirana",
       "total_points": 400
     },
     {
-      "full_name": "Bamir Sina",
-      "university": "Canadian Institute of Technology",
-      "total_points": 400
+      "full_name": "Albina Doku",
+      "university": "Universiteti New York Tirana",
+      "total_points": 300
     },
     {
       "full_name": "Sibora Grymshi",
@@ -234,8 +239,8 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 1950,
-      "num_users": 4
+      "total_points": 2250,
+      "num_users": 5
     },
     {
       "university": "Epoka University",
@@ -1564,8 +1569,18 @@
       "difficulty": "advanced",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Albina Doku",
+          "challenge_points_earned": 300
+        }
+      ]
     },
     {
       "package_id": "fda3ff7d-6602-434c-9197-b51231f4415f",
