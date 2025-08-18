@@ -146,6 +146,11 @@
       "total_points": 100
     },
     {
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
+      "total_points": 100
+    },
+    {
       "full_name": "Arsi Hoxha",
       "university": "Harry Fultz",
       "total_points": 100
@@ -158,11 +163,6 @@
     {
       "full_name": "Angjelos Rika",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 100
-    },
-    {
-      "full_name": "Metion Hoxhalli",
-      "university": "Universiteti i Korces",
       "total_points": 100
     },
     {
@@ -181,6 +181,11 @@
       "total_points": 100
     },
     {
+      "full_name": "Metion Hoxhalli",
+      "university": "Universiteti i Korces",
+      "total_points": 100
+    },
+    {
       "full_name": "mnezha@uet.edu.al",
       "university": "UET Maratona",
       "total_points": 100
@@ -193,11 +198,6 @@
     {
       "full_name": "Gerald Leba",
       "university": "UAMD 2",
-      "total_points": 50
-    },
-    {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
       "total_points": 50
     },
     {
@@ -283,14 +283,14 @@
       "num_users": 1
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 350,
+      "num_users": 4
+    },
+    {
       "university": "Fakulteti i Ekonomise",
       "total_points": 300,
       "num_users": 3
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 300,
-      "num_users": 4
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -1570,6 +1570,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -1611,6 +1615,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kujtim Alimehmeti",
           "challenge_points_earned": 50
         }
       ]
