@@ -18,7 +18,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 1450
+      "total_points": 1500
     },
     {
       "full_name": "Savina Shimi",
@@ -249,7 +249,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 1550,
+      "total_points": 1600,
       "num_users": 2
     },
     {
@@ -3125,6 +3125,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3146,6 +3150,10 @@
         },
         {
           "full_name": "Ergi Kokoneshi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 50
         }
       ]
