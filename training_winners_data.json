@@ -81,9 +81,9 @@
       "total_points": 250
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
-      "total_points": 200
+      "full_name": "Asim Lecini",
+      "university": "Universiteti New York Tirana",
+      "total_points": 250
     },
     {
       "full_name": "Firdeus Dikellari",
@@ -91,18 +91,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
-      "total_points": 200
-    },
-    {
-      "full_name": "Asim Lecini",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 200
     },
     {
       "full_name": "Daniel Kovi",
       "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 200
+    },
+    {
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
       "total_points": 200
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2200,
+      "total_points": 2250,
       "num_users": 5
     },
     {
@@ -3196,8 +3196,18 @@
       "difficulty": "foundational",
       "passing_threshold": "90",
       "release_date": "August 18, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Asim Lecini",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "72a3dca7-1e7b-4d42-b879-a61f79fa7e6a",
