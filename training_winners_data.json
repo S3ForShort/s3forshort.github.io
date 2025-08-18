@@ -33,7 +33,7 @@
     {
       "full_name": "Anisa",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 1150
+      "total_points": 1200
     },
     {
       "full_name": "Ersi Dedaj",
@@ -249,7 +249,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4450,
+      "total_points": 4500,
       "num_users": 4
     },
     {
@@ -1323,6 +1323,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
@@ -1340,6 +1344,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Anisa",
           "challenge_points_earned": 50
         }
       ]
