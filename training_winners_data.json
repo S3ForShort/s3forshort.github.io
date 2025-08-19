@@ -3679,6 +3679,24 @@
           "challenge_points_earned": 300
         }
       ]
+    },
+    {
+      "package_id": "7be6975c-cd91-45ca-ab33-c1cde4541ae9",
+      "package_name": "Network Analyst: APT40 Exercise",
+      "difficulty": "advanced",
+      "passing_threshold": "75",
+      "release_date": "August 19, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
+    },
+    {
+      "package_id": "124eaacb-17eb-4a42-abdf-087808a2d13c",
+      "package_name": "Windows Core Processes Threat Hunting",
+      "difficulty": "advanced",
+      "passing_threshold": "75",
+      "release_date": "August 19, 2025, 12:00 AM",
+      "universities": [],
+      "users": []
     }
   ],
   "difficulty_points": {
