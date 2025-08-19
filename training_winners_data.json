@@ -18,7 +18,7 @@
     {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
-      "total_points": 1600
+      "total_points": 1700
     },
     {
       "full_name": "Anisa Tabaku",
@@ -269,7 +269,7 @@
     },
     {
       "university": "Epoka University",
-      "total_points": 1700,
+      "total_points": 1800,
       "num_users": 2
     },
     {
@@ -3526,6 +3526,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Epoka University",
+          "users": 1
         }
       ],
       "users": [
@@ -3535,6 +3539,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Anjeza Kanxha",
           "challenge_points_earned": 100
         }
       ]
