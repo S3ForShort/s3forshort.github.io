@@ -171,13 +171,13 @@
       "total_points": 100
     },
     {
-      "full_name": "Luka Allkoja ",
-      "university": "Canadian Institute of Technology",
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
       "total_points": 100
     },
     {
-      "full_name": "Redi Capoj",
-      "university": "Universiteti Ismail Qemali Vlore",
+      "full_name": "Luka Allkoja ",
+      "university": "Canadian Institute of Technology",
       "total_points": 100
     },
     {
@@ -186,14 +186,14 @@
       "total_points": 100
     },
     {
-      "full_name": "mnezha@uet.edu.al",
-      "university": "UET Maratona",
+      "full_name": "Redi Capoj",
+      "university": "Universiteti Ismail Qemali Vlore",
       "total_points": 100
     },
     {
-      "full_name": "Blis Thano",
-      "university": "Harry Fultz",
-      "total_points": 50
+      "full_name": "mnezha@uet.edu.al",
+      "university": "UET Maratona",
+      "total_points": 100
     },
     {
       "full_name": "Jonalda Gjoka ",
@@ -206,13 +206,13 @@
       "total_points": 50
     },
     {
-      "full_name": "Emluis Komino",
-      "university": "Universiteti Metropolitan i Tiranes",
+      "full_name": "Blis Thano",
+      "university": "Harry Fultz",
       "total_points": 50
     },
     {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
+      "full_name": "Emluis Komino",
+      "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 50
     },
     {
@@ -338,8 +338,8 @@
       "num_users": 1
     },
     {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 100,
+      "university": "UAMD 2",
+      "total_points": 150,
       "num_users": 2
     },
     {
@@ -348,7 +348,7 @@
       "num_users": 2
     },
     {
-      "university": "UAMD 2",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 100,
       "num_users": 2
     },
@@ -3051,6 +3051,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -3072,6 +3076,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Aurora Islamaj",
           "challenge_points_earned": 50
         }
       ]
