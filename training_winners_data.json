@@ -131,9 +131,9 @@
       "total_points": 150
     },
     {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 100
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
+      "total_points": 150
     },
     {
       "full_name": "Ziko Muca",
@@ -171,8 +171,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
@@ -318,7 +318,17 @@
       "num_users": 2
     },
     {
+      "university": "UAMD 2",
+      "total_points": 200,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti i Shkodres",
+      "total_points": 200,
+      "num_users": 1
+    },
+    {
+      "university": "Universiteti i Elbasanit",
       "total_points": 200,
       "num_users": 1
     },
@@ -328,19 +338,9 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti i Elbasanit",
-      "total_points": 200,
-      "num_users": 1
-    },
-    {
       "university": "Universiteti Marlin Barleti",
       "total_points": 150,
       "num_users": 1
-    },
-    {
-      "university": "UAMD 2",
-      "total_points": 150,
-      "num_users": 2
     },
     {
       "university": "Tirana Business University",
@@ -3499,6 +3499,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "UAMD 2",
+          "users": 1
         }
       ],
       "users": [
@@ -3528,6 +3532,10 @@
         },
         {
           "full_name": "Jonalda Gjoka ",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Aurora Islamaj",
           "challenge_points_earned": 50
         }
       ]
