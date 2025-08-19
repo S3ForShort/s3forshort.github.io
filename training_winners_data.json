@@ -6,14 +6,14 @@
       "total_points": 3250
     },
     {
+      "full_name": "Fatbardh Rama",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 2600
+    },
+    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
       "total_points": 2400
-    },
-    {
-      "full_name": "Fatbardh Rama",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2300
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -38,7 +38,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 900
+      "total_points": 1200
     },
     {
       "full_name": "Ira Haxhiu",
@@ -259,7 +259,7 @@
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 5400,
+      "total_points": 5700,
       "num_users": 4
     },
     {
@@ -273,6 +273,11 @@
       "num_users": 2
     },
     {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1200,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1150,
       "num_users": 3
@@ -281,11 +286,6 @@
       "university": "UET Maratona",
       "total_points": 1000,
       "num_users": 3
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 900,
-      "num_users": 1
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
@@ -1029,6 +1029,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1038,6 +1042,10 @@
         },
         {
           "full_name": "Anisa Tabaku",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 300
         }
       ]
@@ -1052,11 +1060,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 300
         }
       ]
