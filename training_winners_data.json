@@ -3,7 +3,7 @@
     {
       "full_name": "Abdurrahman Seitaj",
       "university": "Canadian Institute of Technology",
-      "total_points": 3200
+      "total_points": 3250
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -13,7 +13,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2000
+      "total_points": 2300
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -254,12 +254,12 @@
   "universities": [
     {
       "university": "Canadian Institute of Technology",
-      "total_points": 6300,
+      "total_points": 6350,
       "num_users": 5
     },
     {
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 4800,
+      "total_points": 5100,
       "num_users": 4
     },
     {
@@ -1667,11 +1667,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Albina Doku",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 300
         }
       ]
@@ -1725,8 +1733,18 @@
       "difficulty": "foundational",
       "passing_threshold": "75",
       "release_date": "August 1, 2025, 12:00 AM",
-      "universities": [],
-      "users": []
+      "universities": [
+        {
+          "name": "Canadian Institute of Technology",
+          "users": 1
+        }
+      ],
+      "users": [
+        {
+          "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 50
+        }
+      ]
     },
     {
       "package_id": "d3e26dce-1c37-4f1f-b866-55f8df8ff0bc",
