@@ -66,13 +66,13 @@
       "total_points": 400
     },
     {
-      "full_name": "Sibora Grymshi",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 300
-    },
-    {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 400
+    },
+    {
+      "full_name": "Sibora Grymshi",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
     },
     {
@@ -288,14 +288,14 @@
       "num_users": 1
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 450,
+      "num_users": 2
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 450,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 350,
-      "num_users": 2
     },
     {
       "university": "Harry Fultz",
@@ -2331,11 +2331,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
