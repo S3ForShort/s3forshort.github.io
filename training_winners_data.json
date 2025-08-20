@@ -53,7 +53,7 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 500
+      "total_points": 600
     },
     {
       "full_name": "Enxhi Kala",
@@ -299,7 +299,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 550,
+      "total_points": 650,
       "num_users": 2
     },
     {
@@ -2394,6 +2394,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -2403,6 +2407,10 @@
         },
         {
           "full_name": "Marvin Rexhepagaj ",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
