@@ -38,7 +38,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1200
+      "total_points": 1250
     },
     {
       "full_name": "Tergita Sulaj",
@@ -278,14 +278,14 @@
       "num_users": 2
     },
     {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1250,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1250,
       "num_users": 3
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1200,
-      "num_users": 1
     },
     {
       "university": "UET Maratona",
@@ -3158,6 +3158,10 @@
         {
           "name": "UAMD 2",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -3183,6 +3187,10 @@
         },
         {
           "full_name": "Aurora Islamaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
