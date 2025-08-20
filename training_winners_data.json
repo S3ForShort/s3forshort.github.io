@@ -33,7 +33,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1300
+      "total_points": 1400
     },
     {
       "full_name": "Earta Joca",
@@ -278,14 +278,14 @@
       "num_users": 2
     },
     {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1400,
+      "num_users": 1
+    },
+    {
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1350,
       "num_users": 3
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1300,
-      "num_users": 1
     },
     {
       "university": "UET Maratona",
@@ -2811,11 +2811,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
