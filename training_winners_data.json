@@ -18,7 +18,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1700
+      "total_points": 1800
     },
     {
       "full_name": "Anjeza Kanxha",
@@ -278,14 +278,14 @@
       "num_users": 5
     },
     {
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1800,
+      "num_users": 1
+    },
+    {
       "university": "Epoka University",
       "total_points": 1800,
       "num_users": 2
-    },
-    {
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1700,
-      "num_users": 1
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
@@ -573,6 +573,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -594,6 +598,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 100
         }
       ]
