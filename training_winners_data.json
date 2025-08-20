@@ -8,7 +8,7 @@
     {
       "full_name": "Fatbardh Rama",
       "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 2900
+      "total_points": 3200
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -263,13 +263,13 @@
   ],
   "universities": [
     {
-      "university": "Canadian Institute of Technology",
-      "total_points": 6350,
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 6450,
       "num_users": 5
     },
     {
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 6150,
+      "university": "Canadian Institute of Technology",
+      "total_points": 6350,
       "num_users": 5
     },
     {
@@ -1037,11 +1037,19 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Teknologjise se Informacionit",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Artea Myftiu",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Fatbardh Rama",
           "challenge_points_earned": 300
         }
       ]
