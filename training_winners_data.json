@@ -58,7 +58,7 @@
     {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
-      "total_points": 500
+      "total_points": 550
     },
     {
       "full_name": "Artea Myftiu",
@@ -304,7 +304,7 @@
     },
     {
       "university": "Herman Gmeiner",
-      "total_points": 500,
+      "total_points": 550,
       "num_users": 1
     },
     {
@@ -2605,6 +2605,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Herman Gmeiner",
+          "users": 1
         }
       ],
       "users": [
@@ -2642,6 +2646,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Enxhi Kala",
           "challenge_points_earned": 50
         }
       ]
