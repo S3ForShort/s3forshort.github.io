@@ -43,7 +43,7 @@
     {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 950
+      "total_points": 1000
     },
     {
       "full_name": "Sidrit Dervishi",
@@ -289,7 +289,7 @@
     },
     {
       "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 1350,
+      "total_points": 1400,
       "num_users": 3
     },
     {
@@ -1793,6 +1793,10 @@
         {
           "name": "Epoka University",
           "users": 1
+        },
+        {
+          "name": "Universiteti Bujqesor i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1810,6 +1814,10 @@
         },
         {
           "full_name": "Anjeza Kanxha",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Tergita Sulaj",
           "challenge_points_earned": 50
         }
       ]
