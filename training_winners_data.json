@@ -16,6 +16,11 @@
       "total_points": 2400
     },
     {
+      "full_name": "Ersi Dedaj",
+      "university": "Shkolla Teknike Gjergi Canco",
+      "total_points": 1700
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 1700
@@ -24,11 +29,6 @@
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1600
-    },
-    {
-      "full_name": "Ersi Dedaj",
-      "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1400
     },
     {
       "full_name": "Savina Shimi",
@@ -284,7 +284,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1400,
+      "total_points": 1700,
       "num_users": 1
     },
     {
@@ -1103,6 +1103,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -1112,6 +1116,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 300
         }
       ]
