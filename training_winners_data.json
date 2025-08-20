@@ -46,14 +46,14 @@
       "total_points": 950
     },
     {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 900
+    },
+    {
       "full_name": "Ira Haxhiu",
       "university": "UET Maratona",
       "total_points": 800
-    },
-    {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 600
     },
     {
       "full_name": "Enxhi Kala",
@@ -299,7 +299,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 650,
+      "total_points": 950,
       "num_users": 2
     },
     {
@@ -3773,11 +3773,19 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 300
         }
       ]
