@@ -71,6 +71,11 @@
       "total_points": 400
     },
     {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 350
+    },
+    {
       "full_name": "Sibora Grymshi",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 300
@@ -79,11 +84,6 @@
       "full_name": "Albina Doku",
       "university": "Universiteti New York Tirana",
       "total_points": 300
-    },
-    {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 250
     },
     {
       "full_name": "Asim Lecini",
@@ -308,14 +308,14 @@
       "num_users": 1
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 400,
+      "num_users": 2
+    },
+    {
       "university": "Harry Fultz",
       "total_points": 350,
       "num_users": 4
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 300,
-      "num_users": 2
     },
     {
       "university": "WBU",
@@ -2489,11 +2489,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Bamir Sina",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
