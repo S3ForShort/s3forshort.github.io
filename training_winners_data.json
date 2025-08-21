@@ -41,14 +41,14 @@
       "total_points": 1300
     },
     {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1200
+    },
+    {
       "full_name": "Tergita Sulaj",
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1100
-    },
-    {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 900
     },
     {
       "full_name": "Ira Haxhiu",
@@ -293,14 +293,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1250,
+      "num_users": 2
+    },
+    {
       "university": "UET Maratona",
       "total_points": 1000,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 950,
-      "num_users": 2
     },
     {
       "university": "Herman Gmeiner",
@@ -3414,11 +3414,19 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 300
         }
       ]
