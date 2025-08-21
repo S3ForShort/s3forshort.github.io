@@ -96,13 +96,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 200
     },
     {
@@ -111,8 +111,8 @@
       "total_points": 200
     },
     {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 200
     },
     {
@@ -121,9 +121,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
-      "total_points": 150
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
+      "total_points": 200
     },
     {
       "full_name": "Kristjan Kullolli",
@@ -146,7 +146,7 @@
       "total_points": 150
     },
     {
-      "full_name": "Ergi Kokoneshi",
+      "full_name": "Santino Shero",
       "university": "WBU",
       "total_points": 150
     },
@@ -319,7 +319,7 @@
     },
     {
       "university": "WBU",
-      "total_points": 300,
+      "total_points": 350,
       "num_users": 2
     },
     {
@@ -1448,6 +1448,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -1469,6 +1473,10 @@
         },
         {
           "full_name": "Anisa Tabaku",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Kokoneshi",
           "challenge_points_earned": 50
         }
       ]
