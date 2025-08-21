@@ -116,9 +116,9 @@
       "total_points": 200
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
-      "total_points": 150
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 200
     },
     {
       "full_name": "Ergi Kokoneshi",
@@ -126,13 +126,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Luis Mu\u00e7a",
-      "university": "Mediterranean University- UMSH",
+      "full_name": "Santino Shero",
+      "university": "WBU",
       "total_points": 150
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Luis Mu\u00e7a",
+      "university": "Mediterranean University- UMSH",
       "total_points": 150
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 200,
+      "total_points": 250,
       "num_users": 2
     },
     {
@@ -1294,6 +1294,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -1319,6 +1323,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
