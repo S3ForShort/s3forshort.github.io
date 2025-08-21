@@ -121,8 +121,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Ergi Kokoneshi",
+      "university": "WBU",
       "total_points": 150
     },
     {
@@ -131,8 +131,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 150
     },
     {
@@ -141,18 +141,18 @@
       "total_points": 150
     },
     {
-      "full_name": "Ziko Muca",
-      "university": "Epoka University",
-      "total_points": 100
-    },
-    {
-      "full_name": "Angjelos Rika",
-      "university": "Universiteti Bujqesor i Tiranes",
-      "total_points": 100
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
+      "total_points": 150
     },
     {
       "full_name": "Arsi Hoxha",
       "university": "Harry Fultz",
+      "total_points": 100
+    },
+    {
+      "full_name": "Ziko Muca",
+      "university": "Epoka University",
       "total_points": 100
     },
     {
@@ -176,8 +176,8 @@
       "total_points": 100
     },
     {
-      "full_name": "Ergi Kokoneshi",
-      "university": "WBU",
+      "full_name": "Angjelos Rika",
+      "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 100
     },
     {
@@ -319,7 +319,7 @@
     },
     {
       "university": "WBU",
-      "total_points": 250,
+      "total_points": 300,
       "num_users": 2
     },
     {
@@ -1699,6 +1699,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "WBU",
+          "users": 1
         }
       ],
       "users": [
@@ -1748,6 +1752,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ergi Kokoneshi",
           "challenge_points_earned": 50
         }
       ]
