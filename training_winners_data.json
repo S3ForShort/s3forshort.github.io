@@ -21,6 +21,11 @@
       "total_points": 1800
     },
     {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1800
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 1700
@@ -29,11 +34,6 @@
       "full_name": "Anisa Tabaku",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1600
-    },
-    {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1500
     },
     {
       "full_name": "Savina Shimi",
@@ -278,6 +278,11 @@
       "num_users": 5
     },
     {
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1850,
+      "num_users": 2
+    },
+    {
       "university": "Shkolla Teknike Gjergi Canco",
       "total_points": 1800,
       "num_users": 1
@@ -291,11 +296,6 @@
       "university": "Universiteti Bujqesor i Tiranes",
       "total_points": 1600,
       "num_users": 3
-    },
-    {
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1550,
-      "num_users": 2
     },
     {
       "university": "UET Maratona",
@@ -1034,6 +1034,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1047,6 +1051,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 300
         }
       ]
