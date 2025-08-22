@@ -56,14 +56,14 @@
       "total_points": 800
     },
     {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 750
+    },
+    {
       "full_name": "Enxhi Kala",
       "university": "Herman Gmeiner",
       "total_points": 600
-    },
-    {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 450
     },
     {
       "full_name": "Bamir Sina",
@@ -303,14 +303,14 @@
       "num_users": 3
     },
     {
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 800,
+      "num_users": 2
+    },
+    {
       "university": "Herman Gmeiner",
       "total_points": 600,
       "num_users": 1
-    },
-    {
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 500,
-      "num_users": 2
     },
     {
       "university": "WBU",
@@ -3554,6 +3554,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -3563,6 +3567,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 300
         }
       ]
