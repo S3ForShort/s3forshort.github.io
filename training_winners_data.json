@@ -96,18 +96,23 @@
       "total_points": 250
     },
     {
+      "full_name": "Eneda Gjoka",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 250
+    },
+    {
       "full_name": "Gesa Comacka",
       "university": "Universiteti New York Tirana",
       "total_points": 250
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 200
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
@@ -116,18 +121,13 @@
       "total_points": 200
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 200
-    },
-    {
       "full_name": "Megea Vogli",
       "university": "Fakulteti i Ekonomise",
       "total_points": 200
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
       "total_points": 200
     },
     {
@@ -328,12 +328,12 @@
       "num_users": 3
     },
     {
-      "university": "Universiteti i Korces",
-      "total_points": 200,
-      "num_users": 2
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "total_points": 250,
+      "num_users": 1
     },
     {
-      "university": "UAMD 2",
+      "university": "Universiteti i Korces",
       "total_points": 200,
       "num_users": 2
     },
@@ -353,9 +353,9 @@
       "num_users": 2
     },
     {
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "university": "UAMD 2",
       "total_points": 200,
-      "num_users": 1
+      "num_users": 2
     },
     {
       "university": "Universiteti Marlin Barleti",
@@ -1531,6 +1531,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -1560,6 +1564,10 @@
         },
         {
           "full_name": "Elisa Zala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Eneda Gjoka",
           "challenge_points_earned": 50
         }
       ]
