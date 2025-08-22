@@ -106,11 +106,6 @@
       "total_points": 200
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
-      "total_points": 200
-    },
-    {
       "full_name": "Orgito Salla",
       "university": "Universiteti i Elbasanit",
       "total_points": 200
@@ -121,8 +116,18 @@
       "total_points": 200
     },
     {
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 200
+    },
+    {
       "full_name": "Megea Vogli",
       "university": "Fakulteti i Ekonomise",
+      "total_points": 200
+    },
+    {
+      "full_name": "Eneda Gjoka",
+      "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 200
     },
     {
@@ -131,18 +136,13 @@
       "total_points": 150
     },
     {
-      "full_name": "Aurora Islamaj",
-      "university": "UAMD 2",
-      "total_points": 150
-    },
-    {
       "full_name": "Luis Mu\u00e7a",
       "university": "Mediterranean University- UMSH",
       "total_points": 150
     },
     {
-      "full_name": "Eneda Gjoka",
-      "university": "Universiteti Ushtarak i Forcave te Armatosura",
+      "full_name": "Aurora Islamaj",
+      "university": "UAMD 2",
       "total_points": 150
     },
     {
@@ -338,11 +338,6 @@
       "num_users": 2
     },
     {
-      "university": "Mediterranean University- UMSH",
-      "total_points": 200,
-      "num_users": 2
-    },
-    {
       "university": "Universiteti i Shkodres",
       "total_points": 200,
       "num_users": 1
@@ -353,8 +348,13 @@
       "num_users": 1
     },
     {
+      "university": "Mediterranean University- UMSH",
+      "total_points": 200,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
-      "total_points": 150,
+      "total_points": 200,
       "num_users": 1
     },
     {
@@ -3117,6 +3117,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Ushtarak i Forcave te Armatosura",
+          "users": 1
         }
       ],
       "users": [
@@ -3134,6 +3138,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Eneda Gjoka",
           "challenge_points_earned": 50
         }
       ]
