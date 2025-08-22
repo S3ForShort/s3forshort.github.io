@@ -73,7 +73,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 350
+      "total_points": 400
     },
     {
       "full_name": "Sibora Grymshi",
@@ -308,12 +308,12 @@
       "num_users": 1
     },
     {
-      "university": "WBU",
-      "total_points": 400,
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 450,
       "num_users": 2
     },
     {
-      "university": "Fakulteti i Shkencave te Natyres",
+      "university": "WBU",
       "total_points": 400,
       "num_users": 2
     },
@@ -860,6 +860,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -889,6 +893,10 @@
         },
         {
           "full_name": "Kujtim Alimehmeti",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
