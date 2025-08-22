@@ -61,9 +61,9 @@
       "total_points": 600
     },
     {
-      "full_name": "Artea Myftiu",
-      "university": "Universiteti New York Tirana",
-      "total_points": 400
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 450
     },
     {
       "full_name": "Bamir Sina",
@@ -71,8 +71,8 @@
       "total_points": 400
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
+      "full_name": "Artea Myftiu",
+      "university": "Universiteti New York Tirana",
       "total_points": 400
     },
     {
@@ -309,7 +309,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 450,
+      "total_points": 500,
       "num_users": 2
     },
     {
@@ -797,6 +797,10 @@
         {
           "name": "Universiteti New York Tirana",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -822,6 +826,10 @@
         },
         {
           "full_name": "Earta Joca",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
