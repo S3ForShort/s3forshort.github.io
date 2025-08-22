@@ -51,14 +51,14 @@
       "total_points": 1300
     },
     {
-      "full_name": "Ira Haxhiu",
-      "university": "UET Maratona",
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 800
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 750
+      "full_name": "Ira Haxhiu",
+      "university": "UET Maratona",
+      "total_points": 800
     },
     {
       "full_name": "Enxhi Kala",
@@ -304,7 +304,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 800,
+      "total_points": 850,
       "num_users": 2
     },
     {
@@ -979,6 +979,10 @@
         {
           "name": "Universiteti i Korces",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -1036,6 +1040,10 @@
         },
         {
           "full_name": "Redi Yzellari",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
@@ -4052,6 +4060,7 @@
     "11": 1.0,
     "12": 1.0,
     "13": 1.0,
-    "14": 1.0
+    "14": 1.0,
+    "15": 1.0
   }
 }
