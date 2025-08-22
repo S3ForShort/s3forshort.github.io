@@ -31,6 +31,11 @@
       "total_points": 1600
     },
     {
+      "full_name": "Sidrit Dervishi",
+      "university": "Universiteti Metropolitan i Tiranes",
+      "total_points": 1500
+    },
+    {
       "full_name": "Savina Shimi",
       "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 1400
@@ -39,11 +44,6 @@
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
       "total_points": 1350
-    },
-    {
-      "full_name": "Sidrit Dervishi",
-      "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1200
     },
     {
       "full_name": "Tergita Sulaj",
@@ -294,7 +294,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1250,
+      "total_points": 1550,
       "num_users": 2
     },
     {
@@ -1065,6 +1065,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1074,6 +1078,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 300
         }
       ]
