@@ -146,14 +146,14 @@
       "total_points": 150
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 150
     },
     {
-      "full_name": "Arsi Hoxha",
-      "university": "Harry Fultz",
-      "total_points": 100
+      "full_name": "Santino Shero",
+      "university": "WBU",
+      "total_points": 150
     },
     {
       "full_name": "Izabela Ziu",
@@ -171,7 +171,7 @@
       "total_points": 100
     },
     {
-      "full_name": "Kujtim Alimehmeti",
+      "full_name": "Arsi Hoxha",
       "university": "Harry Fultz",
       "total_points": 100
     },
@@ -313,14 +313,14 @@
       "num_users": 1
     },
     {
+      "university": "Harry Fultz",
+      "total_points": 400,
+      "num_users": 4
+    },
+    {
       "university": "WBU",
       "total_points": 400,
       "num_users": 2
-    },
-    {
-      "university": "Harry Fultz",
-      "total_points": 350,
-      "num_users": 4
     },
     {
       "university": "Fakulteti i Ekonomise",
@@ -2753,6 +2753,10 @@
         {
           "name": "WBU",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -2802,6 +2806,10 @@
         },
         {
           "full_name": "Ergi Kokoneshi",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kujtim Alimehmeti",
           "challenge_points_earned": 50
         }
       ]
