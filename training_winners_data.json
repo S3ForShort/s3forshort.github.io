@@ -18,7 +18,7 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1950
+      "total_points": 2250
     },
     {
       "full_name": "Ersi Dedaj",
@@ -279,7 +279,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2000,
+      "total_points": 2300,
       "num_users": 2
     },
     {
@@ -1179,6 +1179,10 @@
         {
           "name": "Shkolla Teknike Gjergi Canco",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1192,6 +1196,10 @@
         },
         {
           "full_name": "Ersi Dedaj",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 300
         }
       ]
