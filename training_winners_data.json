@@ -18,7 +18,7 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1850
+      "total_points": 1950
     },
     {
       "full_name": "Ersi Dedaj",
@@ -279,7 +279,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 1900,
+      "total_points": 2000,
       "num_users": 2
     },
     {
@@ -1253,6 +1253,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1262,6 +1266,10 @@
         },
         {
           "full_name": "Fatbardh Rama",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
