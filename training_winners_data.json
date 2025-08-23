@@ -106,13 +106,13 @@
       "total_points": 250
     },
     {
-      "full_name": "Orgito Salla",
-      "university": "Universiteti i Elbasanit",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Kujtim Alimehmeti",
+      "university": "Harry Fultz",
       "total_points": 200
     },
     {
@@ -126,14 +126,14 @@
       "total_points": 200
     },
     {
-      "full_name": "Erona Hoxha",
-      "university": "Universiteti i Shkodres",
+      "full_name": "Orgito Salla",
+      "university": "Universiteti i Elbasanit",
       "total_points": 200
     },
     {
-      "full_name": "Kristjan Kullolli",
-      "university": "Universiteti Marlin Barleti",
-      "total_points": 150
+      "full_name": "Erona Hoxha",
+      "university": "Universiteti i Shkodres",
+      "total_points": 200
     },
     {
       "full_name": "Luis Mu\u00e7a",
@@ -146,8 +146,8 @@
       "total_points": 150
     },
     {
-      "full_name": "Kujtim Alimehmeti",
-      "university": "Harry Fultz",
+      "full_name": "Kristjan Kullolli",
+      "university": "Universiteti Marlin Barleti",
       "total_points": 150
     },
     {
@@ -314,7 +314,7 @@
     },
     {
       "university": "Harry Fultz",
-      "total_points": 400,
+      "total_points": 450,
       "num_users": 4
     },
     {
@@ -3428,6 +3428,10 @@
         {
           "name": "Herman Gmeiner",
           "users": 1
+        },
+        {
+          "name": "Harry Fultz",
+          "users": 1
         }
       ],
       "users": [
@@ -3465,6 +3469,10 @@
         },
         {
           "full_name": "Enxhi Kala",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Kujtim Alimehmeti",
           "challenge_points_earned": 50
         }
       ]
