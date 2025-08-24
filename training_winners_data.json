@@ -31,14 +31,14 @@
       "total_points": 1700
     },
     {
-      "full_name": "Anisa Tabaku",
-      "university": "Fakulteti i Teknologjise se Informacionit",
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
       "total_points": 1600
     },
     {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1550
+      "full_name": "Anisa Tabaku",
+      "university": "Fakulteti i Teknologjise se Informacionit",
+      "total_points": 1600
     },
     {
       "full_name": "Earta Joca",
@@ -299,7 +299,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 1600,
+      "total_points": 1650,
       "num_users": 2
     },
     {
@@ -3472,6 +3472,10 @@
         {
           "name": "Harry Fultz",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -3513,6 +3517,10 @@
         },
         {
           "full_name": "Kujtim Alimehmeti",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 50
         }
       ]
