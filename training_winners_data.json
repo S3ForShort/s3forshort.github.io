@@ -151,14 +151,14 @@
       "total_points": 150
     },
     {
-      "full_name": "Santino Shero",
-      "university": "WBU",
+      "full_name": "Redi Yzellari",
+      "university": "Universiteti i Korces",
       "total_points": 150
     },
     {
-      "full_name": "Izabela Ziu",
-      "university": "Tirana Business University",
-      "total_points": 100
+      "full_name": "Santino Shero",
+      "university": "WBU",
+      "total_points": 150
     },
     {
       "full_name": "Luka Allkoja ",
@@ -186,18 +186,18 @@
       "total_points": 100
     },
     {
+      "full_name": "Redi Capoj",
+      "university": "Universiteti Ismail Qemali Vlore",
+      "total_points": 100
+    },
+    {
       "full_name": "Emanuel Dervishi",
       "university": "Harry Fultz",
       "total_points": 100
     },
     {
-      "full_name": "Redi Yzellari",
-      "university": "Universiteti i Korces",
-      "total_points": 100
-    },
-    {
-      "full_name": "Redi Capoj",
-      "university": "Universiteti Ismail Qemali Vlore",
+      "full_name": "Izabela Ziu",
+      "university": "Tirana Business University",
       "total_points": 100
     },
     {
@@ -328,14 +328,14 @@
       "num_users": 3
     },
     {
+      "university": "Universiteti i Korces",
+      "total_points": 250,
+      "num_users": 2
+    },
+    {
       "university": "Universiteti Ushtarak i Forcave te Armatosura",
       "total_points": 250,
       "num_users": 1
-    },
-    {
-      "university": "Universiteti i Korces",
-      "total_points": 200,
-      "num_users": 2
     },
     {
       "university": "Universiteti i Shkodres",
@@ -833,6 +833,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Universiteti i Korces",
+          "users": 1
         }
       ],
       "users": [
@@ -862,6 +866,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Redi Yzellari",
           "challenge_points_earned": 50
         }
       ]
