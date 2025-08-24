@@ -31,14 +31,14 @@
       "total_points": 1800
     },
     {
+      "full_name": "Earta Joca",
+      "university": "Universiteti New York Tirana",
+      "total_points": 1750
+    },
+    {
       "full_name": "Anjeza Kanxha",
       "university": "Epoka University",
       "total_points": 1700
-    },
-    {
-      "full_name": "Earta Joca",
-      "university": "Universiteti New York Tirana",
-      "total_points": 1650
     },
     {
       "full_name": "Anisa Tabaku",
@@ -273,14 +273,14 @@
       "num_users": 5
     },
     {
+      "university": "Universiteti New York Tirana",
+      "total_points": 2950,
+      "num_users": 5
+    },
+    {
       "university": "Universiteti Metropolitan i Tiranes",
       "total_points": 2900,
       "num_users": 2
-    },
-    {
-      "university": "Universiteti New York Tirana",
-      "total_points": 2850,
-      "num_users": 5
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
@@ -2471,6 +2471,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -2484,6 +2488,10 @@
         },
         {
           "full_name": "Savina Shimi",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
