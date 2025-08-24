@@ -43,7 +43,7 @@
     {
       "full_name": "Earta Joca",
       "university": "Universiteti New York Tirana",
-      "total_points": 1450
+      "total_points": 1550
     },
     {
       "full_name": "Savina Shimi",
@@ -279,7 +279,7 @@
     },
     {
       "university": "Universiteti New York Tirana",
-      "total_points": 2650,
+      "total_points": 2750,
       "num_users": 5
     },
     {
@@ -1348,6 +1348,10 @@
         {
           "name": "Canadian Institute of Technology",
           "users": 1
+        },
+        {
+          "name": "Universiteti New York Tirana",
+          "users": 1
         }
       ],
       "users": [
@@ -1361,6 +1365,10 @@
         },
         {
           "full_name": "Abdurrahman Seitaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Earta Joca",
           "challenge_points_earned": 100
         }
       ]
