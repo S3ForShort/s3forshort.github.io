@@ -16,14 +16,14 @@
       "total_points": 2850
     },
     {
+      "full_name": "Orgito Leka",
+      "university": "Fakulteti i Shkencave te Natyres",
+      "total_points": 2450
+    },
+    {
       "full_name": "Marvin Rexhepagaj ",
       "university": "Canadian Institute of Technology",
       "total_points": 2400
-    },
-    {
-      "full_name": "Orgito Leka",
-      "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 2150
     },
     {
       "full_name": "Ersi Dedaj",
@@ -284,7 +284,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 2200,
+      "total_points": 2500,
       "num_users": 2
     },
     {
@@ -1149,6 +1149,10 @@
         {
           "name": "Universiteti Metropolitan i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -1162,6 +1166,10 @@
         },
         {
           "full_name": "Sidrit Dervishi",
+          "challenge_points_earned": 300
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 300
         }
       ]
