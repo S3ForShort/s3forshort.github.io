@@ -18,7 +18,7 @@
     {
       "full_name": "Sidrit Dervishi",
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2250
+      "total_points": 2350
     },
     {
       "full_name": "Orgito Leka",
@@ -279,7 +279,7 @@
     },
     {
       "university": "Universiteti Metropolitan i Tiranes",
-      "total_points": 2300,
+      "total_points": 2400,
       "num_users": 2
     },
     {
@@ -1686,6 +1686,10 @@
         {
           "name": "Fakulteti i Teknologjise se Informacionit",
           "users": 1
+        },
+        {
+          "name": "Universiteti Metropolitan i Tiranes",
+          "users": 1
         }
       ],
       "users": [
@@ -1699,6 +1703,10 @@
         },
         {
           "full_name": "Anisa Tabaku",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Sidrit Dervishi",
           "challenge_points_earned": 100
         }
       ]
