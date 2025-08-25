@@ -96,8 +96,8 @@
       "total_points": 250
     },
     {
-      "full_name": "Gesa Comacka",
-      "university": "Universiteti New York Tirana",
+      "full_name": "Megea Vogli",
+      "university": "Fakulteti i Ekonomise",
       "total_points": 250
     },
     {
@@ -106,9 +106,9 @@
       "total_points": 250
     },
     {
-      "full_name": "Daniel Kovi",
-      "university": "Fakulteti i Teknologjise se Informacionit",
-      "total_points": 200
+      "full_name": "Gesa Comacka",
+      "university": "Universiteti New York Tirana",
+      "total_points": 250
     },
     {
       "full_name": "Kujtim Alimehmeti",
@@ -116,18 +116,18 @@
       "total_points": 200
     },
     {
-      "full_name": "Firdeus Dikellari",
-      "university": "Canadian Institute of Technology",
-      "total_points": 200
-    },
-    {
-      "full_name": "Megea Vogli",
-      "university": "Fakulteti i Ekonomise",
+      "full_name": "Daniel Kovi",
+      "university": "Fakulteti i Teknologjise se Informacionit",
       "total_points": 200
     },
     {
       "full_name": "Orgito Salla",
       "university": "Universiteti i Elbasanit",
+      "total_points": 200
+    },
+    {
+      "full_name": "Firdeus Dikellari",
+      "university": "Canadian Institute of Technology",
       "total_points": 200
     },
     {
@@ -329,7 +329,7 @@
     },
     {
       "university": "Fakulteti i Ekonomise",
-      "total_points": 300,
+      "total_points": 350,
       "num_users": 3
     },
     {
@@ -3644,6 +3644,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Ekonomise",
+          "users": 1
         }
       ],
       "users": [
@@ -3689,6 +3693,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Megea Vogli",
           "challenge_points_earned": 50
         }
       ]
