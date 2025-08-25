@@ -18,7 +18,7 @@
     {
       "full_name": "Orgito Leka",
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 2450
+      "total_points": 2550
     },
     {
       "full_name": "Marvin Rexhepagaj ",
@@ -284,7 +284,7 @@
     },
     {
       "university": "Fakulteti i Shkencave te Natyres",
-      "total_points": 2500,
+      "total_points": 2600,
       "num_users": 2
     },
     {
@@ -3326,6 +3326,10 @@
         {
           "name": "Universiteti Bujqesor i Tiranes",
           "users": 1
+        },
+        {
+          "name": "Fakulteti i Shkencave te Natyres",
+          "users": 1
         }
       ],
       "users": [
@@ -3347,6 +3351,10 @@
         },
         {
           "full_name": "Tergita Sulaj",
+          "challenge_points_earned": 100
+        },
+        {
+          "full_name": "Orgito Leka",
           "challenge_points_earned": 100
         }
       ]
