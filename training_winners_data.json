@@ -28,7 +28,7 @@
     {
       "full_name": "Ersi Dedaj",
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1900
+      "total_points": 1950
     },
     {
       "full_name": "Earta Joca",
@@ -289,7 +289,7 @@
     },
     {
       "university": "Shkolla Teknike Gjergi Canco",
-      "total_points": 1900,
+      "total_points": 1950,
       "num_users": 1
     },
     {
@@ -4030,6 +4030,10 @@
         {
           "name": "Fakulteti i Shkencave te Natyres",
           "users": 1
+        },
+        {
+          "name": "Shkolla Teknike Gjergi Canco",
+          "users": 1
         }
       ],
       "users": [
@@ -4055,6 +4059,10 @@
         },
         {
           "full_name": "Orgito Leka",
+          "challenge_points_earned": 50
+        },
+        {
+          "full_name": "Ersi Dedaj",
           "challenge_points_earned": 50
         }
       ]
